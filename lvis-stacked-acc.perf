@@ -1,0 +1,14 @@
+=stacked;Accuracy;Accuracy w/ 2D Voting;Accuracy w/ 2D+3D Voting
+colors=black,blue,red
+=table
+yformat=%g%%
+min=74
+max=100
+=norotate
+#          No    2D    3D
+FHPkg      74.52 5.23 4.55
+Bp_Distrib 81.57 5.14 4.47
+Leabra     78.82 8.43 5.34
+V1Like     85.4  4.16 3.54
+Bp_Sparse  87.99 4.04 3.26
+PLoS09     84.12 9.28 4.9

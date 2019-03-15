@@ -1,0 +1,2511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="fig_xcal_dwt_fun.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/Users/oreilly/svn_docs/figs/fig_xcal_dwt_fun.png"
+   inkscape:export-xdpi="149.82968"
+   inkscape:export-ydpi="149.82968">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4624">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4626" />
+      <stop
+         style="stop-color:#4a4aff;stop-opacity:1;"
+         offset="1"
+         id="stop4628" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4614">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4616" />
+      <stop
+         style="stop-color:#ff8080;stop-opacity:1;"
+         offset="1"
+         id="stop4618" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4042">
+      <stop
+         style="stop-color:#0000fd;stop-opacity:1;"
+         offset="0"
+         id="stop4044" />
+      <stop
+         id="stop4046"
+         offset="0.40608367"
+         style="stop-color:#686876;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f5110b;stop-opacity:1;"
+         offset="1"
+         id="stop4048" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2926">
+      <stop
+         id="stop2928"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.16795561"
+         id="stop2930" />
+      <stop
+         id="stop2932"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3770"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3767"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3738">
+      <stop
+         style="stop-color:#0000fd;stop-opacity:1;"
+         offset="0"
+         id="stop3740" />
+      <stop
+         id="stop3746"
+         offset="0.67403704"
+         style="stop-color:#686876;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f5110b;stop-opacity:1;"
+         offset="1"
+         id="stop3742" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3677"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       id="linearGradient3744-2"
+       xlink:href="#linearGradient3738-4"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3677-5" />
+    <inkscape:perspective
+       id="perspective10-0"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient3738-4">
+      <stop
+         id="stop3740-8"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.5"
+         id="stop3746-3" />
+      <stop
+         id="stop3742-9"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-0"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3767-2" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend-3"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3770-8" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-4"
+       id="linearGradient4650"
+       gradientUnits="userSpaceOnUse"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientTransform="translate(156.23219,151.65719)" />
+    <linearGradient
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientTransform="translate(-9.44574,-196.41427)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5667"
+       xlink:href="#linearGradient3738-9"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path4127"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2957" />
+    <linearGradient
+       gradientTransform="translate(156.23219,151.65719)"
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4650-4"
+       xlink:href="#linearGradient3738-4-5"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend-3-3"
+       style="overflow:visible;">
+      <path
+         id="path3770-8-8"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart-0-7"
+       style="overflow:visible">
+      <path
+         id="path3767-2-1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3738-4-5">
+      <stop
+         style="stop-color:#0000fd;stop-opacity:1;"
+         offset="0"
+         id="stop3740-8-8" />
+      <stop
+         id="stop3746-3-1"
+         offset="0.5"
+         style="stop-color:#686876;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f5110b;stop-opacity:1;"
+         offset="1"
+         id="stop3742-9-4" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10-0-5" />
+    <inkscape:perspective
+       id="perspective3677-5-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-4-5"
+       id="linearGradient3744-2-3"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3677-8" />
+    <inkscape:perspective
+       id="perspective10-3"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient3738-9">
+      <stop
+         id="stop3740-0"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.5"
+         id="stop3746-5" />
+      <stop
+         id="stop3742-2"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-2"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3767-7" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend-37"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3770-9" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-9"
+       id="linearGradient4063"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.9146468,95.158339)"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-9"
+       id="linearGradient4608"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(307.28463,51.72178)"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective5171" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       id="linearGradient3744"
+       xlink:href="#linearGradient3738-3"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3677-2" />
+    <inkscape:perspective
+       id="perspective10-7"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient3738-3">
+      <stop
+         id="stop3740-9"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.5"
+         id="stop3746-9" />
+      <stop
+         id="stop3742-91"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-7"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3767-0" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend-6"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3770-2" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-3"
+       id="linearGradient6024"
+       gradientUnits="userSpaceOnUse"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientTransform="translate(-5.3670422,-199.84896)" />
+    <linearGradient
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientTransform="translate(-9.44574,-196.41427)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5667-1"
+       xlink:href="#linearGradient3738-9-9"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend-5"
+       style="overflow:visible;">
+      <path
+         id="path4127-8"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2957-5" />
+    <linearGradient
+       gradientTransform="translate(156.23219,151.65719)"
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4650-6"
+       xlink:href="#linearGradient3738-4-3"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend-3-2"
+       style="overflow:visible;">
+      <path
+         id="path3770-8-3"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart-0-1"
+       style="overflow:visible">
+      <path
+         id="path3767-2-7"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3738-4-3">
+      <stop
+         style="stop-color:#0000fd;stop-opacity:1;"
+         offset="0"
+         id="stop3740-8-9" />
+      <stop
+         id="stop3746-3-9"
+         offset="0.5"
+         style="stop-color:#686876;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f5110b;stop-opacity:1;"
+         offset="1"
+         id="stop3742-9-9" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10-0-0" />
+    <inkscape:perspective
+       id="perspective3677-5-7"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-4-3"
+       id="linearGradient3744-2-2"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3677-8-6" />
+    <inkscape:perspective
+       id="perspective10-3-7"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient3738-9-9">
+      <stop
+         id="stop3740-0-8"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.5"
+         id="stop3746-5-6" />
+      <stop
+         id="stop3742-2-5"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-2-0"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3767-7-3" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend-37-9"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3770-9-7" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-9-9"
+       id="linearGradient4063-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.9146468,95.158339)"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-9-9"
+       id="linearGradient4608-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(307.28463,51.72178)"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective5171-2" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3677-9" />
+    <inkscape:perspective
+       id="perspective10-37"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient3738-39">
+      <stop
+         id="stop3740-05"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.5"
+         id="stop3746-2" />
+      <stop
+         id="stop3742-27"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-24"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3767-8" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend-38"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3770-0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4042"
+       id="linearGradient4039"
+       gradientUnits="userSpaceOnUse"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientTransform="translate(40.924486,-0.66259766)" />
+    <linearGradient
+       gradientTransform="translate(-0.93705726,-215.75602)"
+       y2="594.61267"
+       x2="333.1217"
+       y1="531.36169"
+       x1="333.1217"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6609"
+       xlink:href="#linearGradient4614-0"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientTransform="translate(196.51633,-216.41862)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6606"
+       xlink:href="#linearGradient2926-3"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(-0.93705726,-215.75602)"
+       y2="595.51825"
+       x2="465.24591"
+       y1="654.61542"
+       x1="465.24591"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6601"
+       xlink:href="#linearGradient4624-7"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientTransform="translate(352.88881,-216.41862)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6598"
+       xlink:href="#linearGradient3738-0"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientTransform="translate(39.987429,-216.41862)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6580"
+       xlink:href="#linearGradient4042-7"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4624-7">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4626-3" />
+      <stop
+         style="stop-color:#4a4aff;stop-opacity:1;"
+         offset="1"
+         id="stop4628-1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4614-0">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4616-2" />
+      <stop
+         style="stop-color:#ff8080;stop-opacity:1;"
+         offset="1"
+         id="stop4618-3" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4042-7">
+      <stop
+         style="stop-color:#0000fd;stop-opacity:1;"
+         offset="0"
+         id="stop4044-1" />
+      <stop
+         id="stop4046-8"
+         offset="0.40608367"
+         style="stop-color:#686876;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f5110b;stop-opacity:1;"
+         offset="1"
+         id="stop4048-9" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2926-3">
+      <stop
+         id="stop2928-7"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.16795561"
+         id="stop2930-4" />
+      <stop
+         id="stop2932-8"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend-0"
+       style="overflow:visible;">
+      <path
+         id="path3770-4"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart-05"
+       style="overflow:visible">
+      <path
+         id="path3767-70"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3738-0">
+      <stop
+         style="stop-color:#0000fd;stop-opacity:1;"
+         offset="0"
+         id="stop3740-5" />
+      <stop
+         id="stop3746-6"
+         offset="0.67403704"
+         style="stop-color:#686876;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f5110b;stop-opacity:1;"
+         offset="1"
+         id="stop3742-7" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10-8" />
+    <inkscape:perspective
+       id="perspective3677-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2926-3"
+       id="linearGradient4485"
+       gradientUnits="userSpaceOnUse"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientTransform="translate(197.45339,-0.66259526)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-0"
+       id="linearGradient4504"
+       gradientUnits="userSpaceOnUse"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientTransform="translate(353.82587,-0.66259526)" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       id="linearGradient3744-2-6"
+       xlink:href="#linearGradient3738-4-34"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3677-5-5" />
+    <inkscape:perspective
+       id="perspective10-0-7"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient3738-4-34">
+      <stop
+         id="stop3740-8-3"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.5"
+         id="stop3746-3-0" />
+      <stop
+         id="stop3742-9-48"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-0-75"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3767-2-9" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend-3-5"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3770-8-32" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-4-34"
+       id="linearGradient4650-7"
+       gradientUnits="userSpaceOnUse"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientTransform="translate(156.23219,151.65719)" />
+    <linearGradient
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientTransform="translate(-9.44574,-196.41427)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5667-3"
+       xlink:href="#linearGradient3738-9-3"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend-9"
+       style="overflow:visible;">
+      <path
+         id="path4127-7"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2957-7" />
+    <linearGradient
+       gradientTransform="translate(156.23219,151.65719)"
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4650-4-9"
+       xlink:href="#linearGradient3738-4-5-8"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend-3-3-5"
+       style="overflow:visible;">
+      <path
+         id="path3770-8-8-3"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart-0-7-3"
+       style="overflow:visible">
+      <path
+         id="path3767-2-1-3"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3738-4-5-8">
+      <stop
+         style="stop-color:#0000fd;stop-opacity:1;"
+         offset="0"
+         id="stop3740-8-8-5" />
+      <stop
+         id="stop3746-3-1-8"
+         offset="0.5"
+         style="stop-color:#686876;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f5110b;stop-opacity:1;"
+         offset="1"
+         id="stop3742-9-4-9" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10-0-5-6" />
+    <inkscape:perspective
+       id="perspective3677-5-6-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-4-5-8"
+       id="linearGradient3744-2-3-4"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3677-8-2" />
+    <inkscape:perspective
+       id="perspective10-3-3"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient3738-9-3">
+      <stop
+         id="stop3740-0-7"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.5"
+         id="stop3746-5-0" />
+      <stop
+         id="stop3742-2-0"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-2-1"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3767-7-0" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend-37-3"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3770-9-0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-9-3"
+       id="linearGradient4063-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.9146468,95.158339)"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-9-3"
+       id="linearGradient4608-38"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(307.28463,51.72178)"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective5171-3" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       id="linearGradient3744-6"
+       xlink:href="#linearGradient3738-3-0"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3677-2-0" />
+    <inkscape:perspective
+       id="perspective10-7-4"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient3738-3-0">
+      <stop
+         id="stop3740-9-9"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.5"
+         id="stop3746-9-2" />
+      <stop
+         id="stop3742-91-4"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-7-9"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3767-0-2" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend-6-9"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3770-2-1" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-3-0"
+       id="linearGradient6024-0"
+       gradientUnits="userSpaceOnUse"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientTransform="translate(-5.3670422,-199.84896)" />
+    <linearGradient
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientTransform="translate(-9.44574,-196.41427)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5667-1-9"
+       xlink:href="#linearGradient3738-9-9-1"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend-5-3"
+       style="overflow:visible;">
+      <path
+         id="path4127-8-0"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2957-5-0" />
+    <linearGradient
+       gradientTransform="translate(156.23219,151.65719)"
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4650-6-3"
+       xlink:href="#linearGradient3738-4-3-6"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend-3-2-0"
+       style="overflow:visible;">
+      <path
+         id="path3770-8-3-1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart-0-1-9"
+       style="overflow:visible">
+      <path
+         id="path3767-2-7-8"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3738-4-3-6">
+      <stop
+         style="stop-color:#0000fd;stop-opacity:1;"
+         offset="0"
+         id="stop3740-8-9-9" />
+      <stop
+         id="stop3746-3-9-0"
+         offset="0.5"
+         style="stop-color:#686876;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f5110b;stop-opacity:1;"
+         offset="1"
+         id="stop3742-9-9-1" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10-0-0-6" />
+    <inkscape:perspective
+       id="perspective3677-5-7-4"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-4-3-6"
+       id="linearGradient3744-2-2-4"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3677-8-6-8" />
+    <inkscape:perspective
+       id="perspective10-3-7-6"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient3738-9-9-1">
+      <stop
+         id="stop3740-0-8-4"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.5"
+         id="stop3746-5-6-0" />
+      <stop
+         id="stop3742-2-5-8"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-2-0-1"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3767-7-3-0" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend-37-9-3"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3770-9-7-1" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-9-9-1"
+       id="linearGradient4063-9-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.9146468,95.158339)"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-9-9-1"
+       id="linearGradient4608-3-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(307.28463,51.72178)"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective5171-2-0" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3677-9-8" />
+    <inkscape:perspective
+       id="perspective10-37-4"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient3738-39-9">
+      <stop
+         id="stop3740-05-3"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.5"
+         id="stop3746-2-0" />
+      <stop
+         id="stop3742-27-5"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-24-2"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3767-8-3" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend-38-8"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3770-0-7" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4042-7"
+       id="linearGradient4039-8"
+       gradientUnits="userSpaceOnUse"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientTransform="translate(40.924486,-0.66259766)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4614-0"
+       id="linearGradient4620-0"
+       x1="333.1217"
+       y1="531.36169"
+       x2="333.1217"
+       y2="594.61267"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4624-7"
+       id="linearGradient4630-4"
+       x1="465.24591"
+       y1="654.61542"
+       x2="465.24591"
+       y2="595.51825"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientTransform="translate(353.89959,-0.19407206)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5846"
+       xlink:href="#linearGradient4042-2"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientTransform="translate(196.94351,-0.66259766)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5842"
+       xlink:href="#linearGradient4042-2"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="595.51825"
+       x2="465.24591"
+       y1="654.61542"
+       x1="465.24591"
+       id="linearGradient4630"
+       xlink:href="#linearGradient4624-2"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="594.61267"
+       x2="333.1217"
+       y1="531.36169"
+       x1="333.1217"
+       id="linearGradient4620"
+       xlink:href="#linearGradient4614-7"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(40.924486,-0.66259766)"
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4039-0"
+       xlink:href="#linearGradient4042-2"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend-38-87"
+       style="overflow:visible;">
+      <path
+         id="path3770-0-6"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart-24-0"
+       style="overflow:visible">
+      <path
+         id="path3767-8-1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3738-39-5">
+      <stop
+         style="stop-color:#0000fd;stop-opacity:1;"
+         offset="0"
+         id="stop3740-05-2" />
+      <stop
+         id="stop3746-2-1"
+         offset="0.5"
+         style="stop-color:#686876;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f5110b;stop-opacity:1;"
+         offset="1"
+         id="stop3742-27-1" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10-37-1" />
+    <inkscape:perspective
+       id="perspective3677-9-7"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5171-2-2"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientTransform="translate(307.28463,51.72178)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4608-3-2"
+       xlink:href="#linearGradient3738-9-9-4"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientTransform="translate(1.9146468,95.158339)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4063-9-5"
+       xlink:href="#linearGradient3738-9-9-4"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend-37-9-2"
+       style="overflow:visible;">
+      <path
+         id="path3770-9-7-2"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart-2-0-0"
+       style="overflow:visible">
+      <path
+         id="path3767-7-3-6"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3738-9-9-4">
+      <stop
+         style="stop-color:#0000fd;stop-opacity:1;"
+         offset="0"
+         id="stop3740-0-8-8" />
+      <stop
+         id="stop3746-5-6-5"
+         offset="0.5"
+         style="stop-color:#686876;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f5110b;stop-opacity:1;"
+         offset="1"
+         id="stop3742-2-5-83" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10-3-7-7" />
+    <inkscape:perspective
+       id="perspective3677-8-6-0"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       id="linearGradient3744-2-2-2"
+       xlink:href="#linearGradient3738-4-3-5"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3677-5-7-8" />
+    <inkscape:perspective
+       id="perspective10-0-0-9"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient3738-4-3-5">
+      <stop
+         id="stop3740-8-9-5"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.5"
+         id="stop3746-3-9-8" />
+      <stop
+         id="stop3742-9-9-2"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-0-1-91"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3767-2-7-5" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend-3-2-4"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3770-8-3-4" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-4-3-5"
+       id="linearGradient4650-6-7"
+       gradientUnits="userSpaceOnUse"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientTransform="translate(156.23219,151.65719)" />
+    <inkscape:perspective
+       id="perspective2957-5-7"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend-5-7"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4127-8-8" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-9-9-4"
+       id="linearGradient5667-1-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-9.44574,-196.41427)"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876" />
+    <linearGradient
+       gradientTransform="translate(-5.3670422,-199.84896)"
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6024-1"
+       xlink:href="#linearGradient3738-3-2"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend-6-1"
+       style="overflow:visible;">
+      <path
+         id="path3770-2-7"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart-7-8"
+       style="overflow:visible">
+      <path
+         id="path3767-0-4"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3738-3-2">
+      <stop
+         style="stop-color:#0000fd;stop-opacity:1;"
+         offset="0"
+         id="stop3740-9-6" />
+      <stop
+         id="stop3746-9-6"
+         offset="0.5"
+         style="stop-color:#686876;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f5110b;stop-opacity:1;"
+         offset="1"
+         id="stop3742-91-7" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10-7-2" />
+    <inkscape:perspective
+       id="perspective3677-2-5"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-3-2"
+       id="linearGradient3744-3"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       id="perspective5171-8"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientTransform="translate(307.28463,51.72178)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4608-8"
+       xlink:href="#linearGradient3738-9-5"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientTransform="translate(1.9146468,95.158339)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4063-1"
+       xlink:href="#linearGradient3738-9-5"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend-37-5"
+       style="overflow:visible;">
+      <path
+         id="path3770-9-4"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart-2-7"
+       style="overflow:visible">
+      <path
+         id="path3767-7-5"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3738-9-5">
+      <stop
+         style="stop-color:#0000fd;stop-opacity:1;"
+         offset="0"
+         id="stop3740-0-4" />
+      <stop
+         id="stop3746-5-9"
+         offset="0.5"
+         style="stop-color:#686876;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f5110b;stop-opacity:1;"
+         offset="1"
+         id="stop3742-2-1" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10-3-9" />
+    <inkscape:perspective
+       id="perspective3677-8-65"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       id="linearGradient3744-2-3-43"
+       xlink:href="#linearGradient3738-4-5-3"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3677-5-6-5" />
+    <inkscape:perspective
+       id="perspective10-0-5-3"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient3738-4-5-3">
+      <stop
+         id="stop3740-8-8-8"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.5"
+         id="stop3746-3-1-1" />
+      <stop
+         id="stop3742-9-4-5"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-0-7-8"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3767-2-1-8" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend-3-3-3"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3770-8-8-7" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-4-5-3"
+       id="linearGradient4650-4-1"
+       gradientUnits="userSpaceOnUse"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientTransform="translate(156.23219,151.65719)" />
+    <inkscape:perspective
+       id="perspective2957-4"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend-6"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4127-9" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-9-5"
+       id="linearGradient5667-32"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-9.44574,-196.41427)"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876" />
+    <linearGradient
+       gradientTransform="translate(156.23219,151.65719)"
+       y2="599.30876"
+       x2="206.81351"
+       y1="599.30876"
+       x1="62.13961"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4650-60"
+       xlink:href="#linearGradient3738-4-7"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend-3-0"
+       style="overflow:visible;">
+      <path
+         id="path3770-8-4"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart-0-4"
+       style="overflow:visible">
+      <path
+         id="path3767-2-8"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3738-4-7">
+      <stop
+         style="stop-color:#0000fd;stop-opacity:1;"
+         offset="0"
+         id="stop3740-8-1" />
+      <stop
+         id="stop3746-3-3"
+         offset="0.5"
+         style="stop-color:#686876;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f5110b;stop-opacity:1;"
+         offset="1"
+         id="stop3742-9-8" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10-0-4" />
+    <inkscape:perspective
+       id="perspective3677-5-1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3738-4-7"
+       id="linearGradient3744-2-8"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3677-55" />
+    <inkscape:perspective
+       id="perspective10-36"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient3738-03">
+      <stop
+         id="stop3740-99"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.67403704"
+         id="stop3746-91" />
+      <stop
+         id="stop3742-72"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-6"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3767-27" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend-5"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3770-7" />
+    </marker>
+    <linearGradient
+       id="linearGradient2926-0">
+      <stop
+         style="stop-color:#0000fd;stop-opacity:1;"
+         offset="0"
+         id="stop2928-3" />
+      <stop
+         id="stop2930-9"
+         offset="0.16795561"
+         style="stop-color:#686876;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f5110b;stop-opacity:1;"
+         offset="1"
+         id="stop2932-86" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4042-2">
+      <stop
+         id="stop4044-3"
+         offset="0"
+         style="stop-color:#0000fd;stop-opacity:1;" />
+      <stop
+         style="stop-color:#686876;stop-opacity:1;"
+         offset="0.40608367"
+         id="stop4046-9" />
+      <stop
+         id="stop4048-97"
+         offset="1"
+         style="stop-color:#f5110b;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4614-7">
+      <stop
+         id="stop4616-9"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop4618-0"
+         offset="1"
+         style="stop-color:#ff8080;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4624-2">
+      <stop
+         id="stop4626-7"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop4628-3"
+         offset="1"
+         style="stop-color:#4a4aff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4042-2"
+       id="linearGradient4178"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-70.584614,-191.11824)"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4042-2"
+       id="linearGradient4181"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(242.39049,-190.64971)"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4042-2"
+       id="linearGradient4184"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(85.43441,-191.11824)"
+       x1="62.13961"
+       y1="599.30876"
+       x2="206.81351"
+       y2="599.30876" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4624-2"
+       id="linearGradient4234"
+       gradientUnits="userSpaceOnUse"
+       x1="465.24591"
+       y1="654.61542"
+       x2="465.24591"
+       y2="595.51825"
+       gradientTransform="translate(-111.5091,-190.45564)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4614-7"
+       id="linearGradient4238"
+       gradientUnits="userSpaceOnUse"
+       x1="333.1217"
+       y1="531.36169"
+       x2="333.1217"
+       y2="594.61267"
+       gradientTransform="translate(-111.5091,-190.45564)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0671776"
+     inkscape:cx="136.41301"
+     inkscape:cy="364.9094"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1596"
+     inkscape:window-height="1094"
+     inkscape:window-x="416"
+     inkscape:window-y="1271"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.57342798"
+       id="rect4642"
+       width="177.52927"
+       height="197.20734"
+       x="81.778687"
+       y="511.93887" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;fill:#000000;fill-opacity:1;stroke:none"
+       x="277.08142"
+       y="499.09515"
+       id="text5051"><tspan
+         sodipodi:role="line"
+         x="277.08142"
+         y="514.09515"
+         id="tspan5055"
+         style="-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5711"
+       y="-566.73401"
+       x="544.67682"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica"
+       xml:space="preserve"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         id="tspan5713"
+         y="-566.73401"
+         x="544.67682"
+         sodipodi:role="line" /></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.03929508;stroke-opacity:1"
+       id="rect3734-3"
+       width="148.02835"
+       height="147.7659"
+       x="101.27077"
+       y="521.36499" />
+    <path
+       style="fill:none;stroke:url(#linearGradient4039);stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 103.62705,593.74161 10.28096,61.22056 126.23916,-126.21925"
+       id="path3736-8"
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.88833,594.13175 c 161.62441,0 161.11933,0.0731 161.11933,0.0731"
+       id="path5707-3"
+       sodipodi:nodetypes="cc" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5711-2"
+       y="98.199608"
+       x="-573.29529"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         id="tspan5713-6"
+         y="98.199608"
+         x="-573.29529"
+         sodipodi:role="line"
+         style="-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">+dW</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica"
+       x="-641.85492"
+       y="97.262558"
+       id="text5715-9"
+       sodipodi:linespacing="100%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         x="-641.85492"
+         y="97.262558"
+         id="tspan5717-4"
+         style="-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">-dW</tspan></text>
+    <g
+       id="g4552"
+       transform="translate(68.09753,145.71147)">
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"
+         x="146.17999"
+         y="536.047"
+         id="text4554"><tspan
+           sodipodi:role="line"
+           id="tspan4556"
+           x="146.17999"
+           y="536.047"
+           style="font-size:16px">&lt;xy&gt;</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"
+         x="175.22858"
+         y="540.73218"
+         id="text4558"><tspan
+           sodipodi:role="line"
+           id="tspan4560"
+           x="175.22858"
+           y="540.73218">s</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;fill:#000000;fill-opacity:1;stroke:none"
+       x="165.57233"
+       y="308.63953"
+       id="text5051-2"><tspan
+         sodipodi:role="line"
+         x="165.57233"
+         y="308.63953"
+         id="tspan5055-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial" /></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5711-5"
+       y="-455.22491"
+       x="354.22119"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica"
+       xml:space="preserve"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         id="tspan5713-9"
+         y="-455.22491"
+         x="354.22119"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"
+       x="170.06293"
+       y="692.78174"
+       id="text2922"><tspan
+         sodipodi:role="line"
+         id="tspan2924"
+         x="170.06293"
+         y="692.78174"
+         style="font-size:18px">θ<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan4276">p</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;fill:#000000;fill-opacity:1;stroke:none"
+       x="164.63528"
+       y="92.883499"
+       id="text5051-1"><tspan
+         sodipodi:role="line"
+         x="164.63528"
+         y="92.883499"
+         id="tspan5055-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial" /></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5711-7"
+       y="-454.28784"
+       x="138.46516"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica"
+       xml:space="preserve"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         id="tspan5713-4"
+         y="-454.28784"
+         x="138.46516"
+         sodipodi:role="line" /></text>
+    <path
+       id="path4254"
+       d="m 114.0585,531.06335 0,146.09486"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text4256"
+       y="692.78174"
+       x="98.847054"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         style="font-size:18px"
+         y="692.78174"
+         x="98.847054"
+         id="tspan4258"
+         sodipodi:role="line">θ<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan4274">d</tspan></tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 174.96683,531.06335 0,146.09486"
+       id="path4272" />
+    <text
+       id="text3408"
+       y="692.78174"
+       x="116.65101"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         style="font-size:18px"
+         y="692.78174"
+         x="116.65101"
+         id="tspan3410"
+         sodipodi:role="line">θ<tspan
+   id="tspan3412"
+   style="font-size:65.00091553%;baseline-shift:sub">p</tspan></tspan></text>
+  </g>
+</svg>

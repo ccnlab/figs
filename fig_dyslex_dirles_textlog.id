@@ -1,0 +1,5950 @@
+%!PS-Adobe-2.0 EPSF-1.2
+%%Creator: idraw
+%%DocumentFonts: Helvetica-Bold Helvetica
+%%Pages: 1
+%%BoundingBox: 9 150 610 644
+%%EndComments
+
+%%BeginIdrawPrologue
+/arrowhead {
+0 begin
+transform originalCTM itransform
+/taily exch def
+/tailx exch def
+transform originalCTM itransform
+/tipy exch def
+/tipx exch def
+/dy tipy taily sub def
+/dx tipx tailx sub def
+/angle dx 0 ne dy 0 ne or { dy dx atan } { 90 } ifelse def
+gsave
+originalCTM setmatrix
+tipx tipy translate
+angle rotate
+newpath
+arrowHeight neg arrowWidth 2 div moveto
+0 0 lineto
+arrowHeight neg arrowWidth 2 div neg lineto
+patternNone not {
+originalCTM setmatrix
+/padtip arrowHeight 2 exp 0.25 arrowWidth 2 exp mul add sqrt brushWidth mul
+arrowWidth div def
+/padtail brushWidth 2 div def
+tipx tipy translate
+angle rotate
+padtip 0 translate
+arrowHeight padtip add padtail add arrowHeight div dup scale
+arrowheadpath
+ifill
+} if
+brushNone not {
+originalCTM setmatrix
+tipx tipy translate
+angle rotate
+arrowheadpath
+istroke
+} if
+grestore
+end
+} dup 0 9 dict put def
+
+/arrowheadpath {
+newpath
+arrowHeight neg arrowWidth 2 div moveto
+0 0 lineto
+arrowHeight neg arrowWidth 2 div neg lineto
+} def
+
+/leftarrow {
+0 begin
+y exch get /taily exch def
+x exch get /tailx exch def
+y exch get /tipy exch def
+x exch get /tipx exch def
+brushLeftArrow { tipx tipy tailx taily arrowhead } if
+end
+} dup 0 4 dict put def
+
+/rightarrow {
+0 begin
+y exch get /tipy exch def
+x exch get /tipx exch def
+y exch get /taily exch def
+x exch get /tailx exch def
+brushRightArrow { tipx tipy tailx taily arrowhead } if
+end
+} dup 0 4 dict put def
+
+%%EndIdrawPrologue
+
+/arrowHeight 8 def
+/arrowWidth 4 def
+
+/IdrawDict 52 dict def
+IdrawDict begin
+
+/reencodeISO {
+dup dup findfont dup length dict begin
+{ 1 index /FID ne { def }{ pop pop } ifelse } forall
+/Encoding ISOLatin1Encoding def
+currentdict end definefont
+} def
+
+/ISOLatin1Encoding [
+/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef
+/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef
+/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef
+/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef
+/space/exclam/quotedbl/numbersign/dollar/percent/ampersand/quoteright
+/parenleft/parenright/asterisk/plus/comma/minus/period/slash
+/zero/one/two/three/four/five/six/seven/eight/nine/colon/semicolon
+/less/equal/greater/question/at/A/B/C/D/E/F/G/H/I/J/K/L/M/N
+/O/P/Q/R/S/T/U/V/W/X/Y/Z/bracketleft/backslash/bracketright
+/asciicircum/underscore/quoteleft/a/b/c/d/e/f/g/h/i/j/k/l/m
+/n/o/p/q/r/s/t/u/v/w/x/y/z/braceleft/bar/braceright/asciitilde
+/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef
+/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef/.notdef
+/.notdef/dotlessi/grave/acute/circumflex/tilde/macron/breve
+/dotaccent/dieresis/.notdef/ring/cedilla/.notdef/hungarumlaut
+/ogonek/caron/space/exclamdown/cent/sterling/currency/yen/brokenbar
+/section/dieresis/copyright/ordfeminine/guillemotleft/logicalnot
+/hyphen/registered/macron/degree/plusminus/twosuperior/threesuperior
+/acute/mu/paragraph/periodcentered/cedilla/onesuperior/ordmasculine
+/guillemotright/onequarter/onehalf/threequarters/questiondown
+/Agrave/Aacute/Acircumflex/Atilde/Adieresis/Aring/AE/Ccedilla
+/Egrave/Eacute/Ecircumflex/Edieresis/Igrave/Iacute/Icircumflex
+/Idieresis/Eth/Ntilde/Ograve/Oacute/Ocircumflex/Otilde/Odieresis
+/multiply/Oslash/Ugrave/Uacute/Ucircumflex/Udieresis/Yacute
+/Thorn/germandbls/agrave/aacute/acircumflex/atilde/adieresis
+/aring/ae/ccedilla/egrave/eacute/ecircumflex/edieresis/igrave
+/iacute/icircumflex/idieresis/eth/ntilde/ograve/oacute/ocircumflex
+/otilde/odieresis/divide/oslash/ugrave/uacute/ucircumflex/udieresis
+/yacute/thorn/ydieresis
+] def
+/Helvetica-Bold reencodeISO def
+/Helvetica reencodeISO def
+
+/none null def
+/numGraphicParameters 17 def
+/stringLimit 65535 def
+
+/Begin {
+save
+numGraphicParameters dict begin
+} def
+
+/End {
+end
+restore
+} def
+
+/SetB {
+dup type /nulltype eq {
+pop
+false /brushRightArrow idef
+false /brushLeftArrow idef
+true /brushNone idef
+} {
+/brushDashOffset idef
+/brushDashArray idef
+0 ne /brushRightArrow idef
+0 ne /brushLeftArrow idef
+/brushWidth idef
+false /brushNone idef
+} ifelse
+} def
+
+/SetCFg {
+/fgblue idef
+/fggreen idef
+/fgred idef
+} def
+
+/SetCBg {
+/bgblue idef
+/bggreen idef
+/bgred idef
+} def
+
+/SetF {
+/printSize idef
+/printFont idef
+} def
+
+/SetP {
+dup type /nulltype eq {
+pop true /patternNone idef
+} {
+dup -1 eq {
+/patternGrayLevel idef
+/patternString idef
+} {
+/patternGrayLevel idef
+} ifelse
+false /patternNone idef
+} ifelse
+} def
+
+/BSpl {
+0 begin
+storexyn
+newpath
+n 1 gt {
+0 0 0 0 0 0 1 1 true subspline
+n 2 gt {
+0 0 0 0 1 1 2 2 false subspline
+1 1 n 3 sub {
+/i exch def
+i 1 sub dup i dup i 1 add dup i 2 add dup false subspline
+} for
+n 3 sub dup n 2 sub dup n 1 sub dup 2 copy false subspline
+} if
+n 2 sub dup n 1 sub dup 2 copy 2 copy false subspline
+patternNone not brushLeftArrow not brushRightArrow not and and { ifill } if
+brushNone not { istroke } if
+0 0 1 1 leftarrow
+n 2 sub dup n 1 sub dup rightarrow
+} if
+end
+} dup 0 4 dict put def
+
+/Circ {
+newpath
+0 360 arc
+patternNone not { ifill } if
+brushNone not { istroke } if
+} def
+
+/CBSpl {
+0 begin
+dup 2 gt {
+storexyn
+newpath
+n 1 sub dup 0 0 1 1 2 2 true subspline
+1 1 n 3 sub {
+/i exch def
+i 1 sub dup i dup i 1 add dup i 2 add dup false subspline
+} for
+n 3 sub dup n 2 sub dup n 1 sub dup 0 0 false subspline
+n 2 sub dup n 1 sub dup 0 0 1 1 false subspline
+patternNone not { ifill } if
+brushNone not { istroke } if
+} {
+Poly
+} ifelse
+end
+} dup 0 4 dict put def
+
+/Elli {
+0 begin
+newpath
+4 2 roll
+translate
+scale
+0 0 1 0 360 arc
+patternNone not { ifill } if
+brushNone not { istroke } if
+end
+} dup 0 1 dict put def
+
+/Line {
+0 begin
+2 storexyn
+newpath
+x 0 get y 0 get moveto
+x 1 get y 1 get lineto
+brushNone not { istroke } if
+0 0 1 1 leftarrow
+0 0 1 1 rightarrow
+end
+} dup 0 4 dict put def
+
+/MLine {
+0 begin
+storexyn
+newpath
+n 1 gt {
+x 0 get y 0 get moveto
+1 1 n 1 sub {
+/i exch def
+x i get y i get lineto
+} for
+patternNone not brushLeftArrow not brushRightArrow not and and { ifill } if
+brushNone not { istroke } if
+0 0 1 1 leftarrow
+n 2 sub dup n 1 sub dup rightarrow
+} if
+end
+} dup 0 4 dict put def
+
+/Poly {
+3 1 roll
+newpath
+moveto
+-1 add
+{ lineto } repeat
+closepath
+patternNone not { ifill } if
+brushNone not { istroke } if
+} def
+
+/Rect {
+0 begin
+/t exch def
+/r exch def
+/b exch def
+/l exch def
+newpath
+l b moveto
+l t lineto
+r t lineto
+r b lineto
+closepath
+patternNone not { ifill } if
+brushNone not { istroke } if
+end
+} dup 0 4 dict put def
+
+/Text {
+ishow
+} def
+
+/idef {
+dup where { pop pop pop } { exch def } ifelse
+} def
+
+/ifill {
+0 begin
+gsave
+patternGrayLevel -1 ne {
+fgred bgred fgred sub patternGrayLevel mul add
+fggreen bggreen fggreen sub patternGrayLevel mul add
+fgblue bgblue fgblue sub patternGrayLevel mul add setrgbcolor
+eofill
+} {
+eoclip
+originalCTM setmatrix
+pathbbox /t exch def /r exch def /b exch def /l exch def
+/w r l sub ceiling cvi def
+/h t b sub ceiling cvi def
+/imageByteWidth w 8 div ceiling cvi def
+/imageHeight h def
+bgred bggreen bgblue setrgbcolor
+eofill
+fgred fggreen fgblue setrgbcolor
+w 0 gt h 0 gt and {
+l w add b translate w neg h scale
+w h true [w 0 0 h neg 0 h] { patternproc } imagemask
+} if
+} ifelse
+grestore
+end
+} dup 0 8 dict put def
+
+/istroke {
+gsave
+brushDashOffset -1 eq {
+[] 0 setdash
+1 setgray
+} {
+brushDashArray brushDashOffset setdash
+fgred fggreen fgblue setrgbcolor
+} ifelse
+brushWidth setlinewidth
+originalCTM setmatrix
+stroke
+grestore
+} def
+
+/ishow {
+0 begin
+gsave
+fgred fggreen fgblue setrgbcolor
+/fontDict printFont printSize scalefont dup setfont def
+/descender fontDict begin 0 FontBBox 1 get FontMatrix end
+transform exch pop def
+/vertoffset 1 printSize sub descender sub def {
+0 vertoffset moveto show
+/vertoffset vertoffset printSize sub def
+} forall
+grestore
+end
+} dup 0 3 dict put def
+/patternproc {
+0 begin
+/patternByteLength patternString length def
+/patternHeight patternByteLength 8 mul sqrt cvi def
+/patternWidth patternHeight def
+/patternByteWidth patternWidth 8 idiv def
+/imageByteMaxLength imageByteWidth imageHeight mul
+stringLimit patternByteWidth sub min def
+/imageMaxHeight imageByteMaxLength imageByteWidth idiv patternHeight idiv
+patternHeight mul patternHeight max def
+/imageHeight imageHeight imageMaxHeight sub store
+/imageString imageByteWidth imageMaxHeight mul patternByteWidth add string def
+0 1 imageMaxHeight 1 sub {
+/y exch def
+/patternRow y patternByteWidth mul patternByteLength mod def
+/patternRowString patternString patternRow patternByteWidth getinterval def
+/imageRow y imageByteWidth mul def
+0 patternByteWidth imageByteWidth 1 sub {
+/x exch def
+imageString imageRow x add patternRowString putinterval
+} for
+} for
+imageString
+end
+} dup 0 12 dict put def
+
+/min {
+dup 3 2 roll dup 4 3 roll lt { exch } if pop
+} def
+
+/max {
+dup 3 2 roll dup 4 3 roll gt { exch } if pop
+} def
+
+/midpoint {
+0 begin
+/y1 exch def
+/x1 exch def
+/y0 exch def
+/x0 exch def
+x0 x1 add 2 div
+y0 y1 add 2 div
+end
+} dup 0 4 dict put def
+
+/thirdpoint {
+0 begin
+/y1 exch def
+/x1 exch def
+/y0 exch def
+/x0 exch def
+x0 2 mul x1 add 3 div
+y0 2 mul y1 add 3 div
+end
+} dup 0 4 dict put def
+
+/subspline {
+0 begin
+/movetoNeeded exch def
+y exch get /y3 exch def
+x exch get /x3 exch def
+y exch get /y2 exch def
+x exch get /x2 exch def
+y exch get /y1 exch def
+x exch get /x1 exch def
+y exch get /y0 exch def
+x exch get /x0 exch def
+x1 y1 x2 y2 thirdpoint
+/p1y exch def
+/p1x exch def
+x2 y2 x1 y1 thirdpoint
+/p2y exch def
+/p2x exch def
+x1 y1 x0 y0 thirdpoint
+p1x p1y midpoint
+/p0y exch def
+/p0x exch def
+x2 y2 x3 y3 thirdpoint
+p2x p2y midpoint
+/p3y exch def
+/p3x exch def
+movetoNeeded { p0x p0y moveto } if
+p1x p1y p2x p2y p3x p3y curveto
+end
+} dup 0 17 dict put def
+
+/storexyn {
+/n exch def
+/y n array def
+/x n array def
+n 1 sub -1 0 {
+/i exch def
+y i 3 2 roll put
+x i 3 2 roll put
+} for
+} def
+
+/SSten {
+fgred fggreen fgblue setrgbcolor
+dup true exch 1 0 0 -1 0 6 -1 roll matrix astore
+} def
+
+/FSten {
+dup 3 -1 roll dup 4 1 roll exch
+newpath
+0 0 moveto
+dup 0 exch lineto
+exch dup 3 1 roll exch lineto
+0 lineto
+closepath
+bgred bggreen bgblue setrgbcolor
+eofill
+SSten
+} def
+
+/Rast {
+exch dup 3 1 roll 1 0 0 -1 0 6 -1 roll matrix astore
+} def
+
+%%EndProlog
+
+%I Idraw 10 Grid 8 8 
+
+%%Page: 1 1
+
+Begin
+%I b u
+%I cfg u
+%I cbg u
+%I f u
+%I p u
+%I t
+[ 0.799705 0 0 0.799705 0 0 ] concat
+/originalCTM matrix currentmatrix def
+
+Begin %I Pict
+%I b u
+%I cfg u
+%I cbg u
+%I f u
+%I p u
+%I t
+[ 1 0 0 1 -15.5567 1.19667 ] concat
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-bold-r-*-*-13-*-*-*-*-*-*-*
+Helvetica-Bold 13 SetF
+%I t
+[ 1 0 0 1 38 795 ] concat
+%I
+[
+(trial)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 772 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 757 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 743 ] concat
+%I
+[
+(2)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 728 ] concat
+%I
+[
+(3)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 714 ] concat
+%I
+[
+(4)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 700 ] concat
+%I
+[
+(5)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 685 ] concat
+%I
+[
+(6)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 671 ] concat
+%I
+[
+(7)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 656 ] concat
+%I
+[
+(8)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 642 ] concat
+%I
+[
+(9)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 628 ] concat
+%I
+[
+(10)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 613 ] concat
+%I
+[
+(11)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 599 ] concat
+%I
+[
+(12)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 584 ] concat
+%I
+[
+(13)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 570 ] concat
+%I
+[
+(14)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 556 ] concat
+%I
+[
+(15)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 541 ] concat
+%I
+[
+(16)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 527 ] concat
+%I
+[
+(17)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 512 ] concat
+%I
+[
+(18)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 498 ] concat
+%I
+[
+(19)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 484 ] concat
+%I
+[
+(20)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 469 ] concat
+%I
+[
+(21)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 455 ] concat
+%I
+[
+(22)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 440 ] concat
+%I
+[
+(23)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 426 ] concat
+%I
+[
+(24)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 412 ] concat
+%I
+[
+(25)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 397 ] concat
+%I
+[
+(26)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 383 ] concat
+%I
+[
+(27)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 368 ] concat
+%I
+[
+(28)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 354 ] concat
+%I
+[
+(29)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 340 ] concat
+%I
+[
+(30)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 325 ] concat
+%I
+[
+(31)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 311 ] concat
+%I
+[
+(32)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 296 ] concat
+%I
+[
+(33)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 282 ] concat
+%I
+[
+(34)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 267 ] concat
+%I
+[
+(35)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 253 ] concat
+%I
+[
+(36)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 239 ] concat
+%I
+[
+(37)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 224 ] concat
+%I
+[
+(38)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 38 210 ] concat
+%I
+[
+(39)
+] Text
+End
+
+Begin %I Pict
+%I b u
+%I cfg u
+%I cbg u
+%I f u
+%I p u
+%I t
+[ 1 0 0 1 -15.5567 0 ] concat
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-bold-r-*-*-13-*-*-*-*-*-*-*
+Helvetica-Bold 13 SetF
+%I t
+[ 1 0 0 1 90 795 ] concat
+%I
+[
+(Event)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 772 ] concat
+%I
+[
+(tart_tttartt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 757 ] concat
+%I
+[
+(tent_tttentt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 743 ] concat
+%I
+[
+(face_fffAsss)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 728 ] concat
+%I
+[
+(deer_dddErrr)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 714 ] concat
+%I
+[
+(coat_kkkOttt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 700 ] concat
+%I
+[
+(grin_grrinnn)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 685 ] concat
+%I
+[
+(lock_lllakkk)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 671 ] concat
+%I
+[
+(rope_rrrOppp)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 656 ] concat
+%I
+[
+(hare_hhhArrr)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 642 ] concat
+%I
+[
+(lass_lll@sss)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 628 ] concat
+%I
+[
+(flan_fllonnn)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 613 ] concat
+%I
+[
+(hind_hhhIndd)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 599 ] concat
+%I
+[
+(wave_wwwAvvv)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 584 ] concat
+%I
+[
+(flea_fllE---)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 570 ] concat
+%I
+[
+(star_sttarrr)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 556 ] concat
+%I
+[
+(reed_rrrEddd)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 541 ] concat
+%I
+[
+(loon_lllUnnn)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 527 ] concat
+%I
+[
+(case_kkkAsss)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 512 ] concat
+%I
+[
+(flag_fll@ggg)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 498 ] concat
+%I
+[
+(post_pppOstt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 484 ] concat
+%I
+[
+(tact_ttt@ktt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 469 ] concat
+%I
+[
+(rent_rrrentt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 455 ] concat
+%I
+[
+(fact_fff@ktt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 440 ] concat
+%I
+[
+(deed_dddEddd)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 426 ] concat
+%I
+[
+(cost_kkkostt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 412 ] concat
+%I
+[
+(gain_gggAnnn)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 397 ] concat
+%I
+[
+(lack_lll@kkk)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 383 ] concat
+%I
+[
+(role_rrrOlll)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 368 ] concat
+%I
+[
+(hire_hhhIrrr)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 354 ] concat
+%I
+[
+(loss_lllosss)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 340 ] concat
+%I
+[
+(plan_pll@nnn)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 325 ] concat
+%I
+[
+(hint_hhhintt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 311 ] concat
+%I
+[
+(wage_wwwAjjj)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 296 ] concat
+%I
+[
+(plea_pllE---)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 282 ] concat
+%I
+[
+(stay_sttA---)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 267 ] concat
+%I
+[
+(need_nnnEddd)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 253 ] concat
+%I
+[
+(loan_lllOnnn)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 239 ] concat
+%I
+[
+(ease_---Ezzz)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 224 ] concat
+%I
+[
+(flaw_fllo---)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 90 210 ] concat
+%I
+[
+(past_ppp@stt)
+] Text
+End
+
+End %I eop
+
+Begin %I Pict
+%I b u
+%I cfg u
+%I cbg u
+%I f u
+%I p u
+%I t
+[ 1 0 0 1 -222.58 0 ] concat
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-bold-r-*-*-13-*-*-*-*-*-*-*
+Helvetica-Bold 13 SetF
+%I t
+[ 1 0 0 1 407 795 ] concat
+%I
+[
+(min_Phon_dist)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-bold-r-*-*-13-*-*-*-*-*-*-*
+Helvetica-Bold 13 SetF
+%I t
+[ 1 0 0 1 513 795 ] concat
+%I
+[
+(ev_nm)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-bold-r-*-*-13-*-*-*-*-*-*-*
+Helvetica-Bold 13 SetF
+%I t
+[ 1 0 0 1 619 795 ] concat
+%I
+[
+(sm_nm)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-bold-r-*-*-13-*-*-*-*-*-*-*
+Helvetica-Bold 13 SetF
+%I t
+[ 1 0 0 1 671 795 ] concat
+%I
+[
+(con_vis)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 772 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 772 ] concat
+%I
+[
+(grin_grrinnn)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 772 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 772 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 757 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 757 ] concat
+%I
+[
+(tent_tttentt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 757 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 757 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 743 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 743 ] concat
+%I
+[
+(face_fffAsss)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 743 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 743 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 728 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 728 ] concat
+%I
+[
+(deer_dddErrr)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 728 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 728 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 714 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 714 ] concat
+%I
+[
+(rope_rrrOppp)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 714 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 714 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 700 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 700 ] concat
+%I
+[
+(stay_sttA---)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 700 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 700 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 685 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 685 ] concat
+%I
+[
+(loan_lllOnnn)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 685 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 685 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 671 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 671 ] concat
+%I
+[
+(tact_ttt@ktt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 671 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 671 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 656 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 656 ] concat
+%I
+[
+(tart_tttartt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 656 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 656 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 642 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 642 ] concat
+%I
+[
+(star_sttarrr)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 642 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 642 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 628 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 628 ] concat
+%I
+[
+(loan_lllOnnn)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 628 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 628 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 613 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 613 ] concat
+%I
+[
+(hind_hhhIndd)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 613 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 613 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 599 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 599 ] concat
+%I
+[
+(case_kkkAsss)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 599 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 599 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 584 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 584 ] concat
+%I
+[
+(tact_ttt@ktt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 584 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 584 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 570 ] concat
+%I
+[
+(1.86154)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 570 ] concat
+%I
+[
+(flag_fll@ggg)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 570 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 570 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 556 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 556 ] concat
+%I
+[
+(reed_rrrEddd)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 556 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 556 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 541 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 541 ] concat
+%I
+[
+(loon_lllUnnn)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 541 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 541 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 527 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 527 ] concat
+%I
+[
+(flag_fll@ggg)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 527 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 527 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 512 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 512 ] concat
+%I
+[
+(flag_fll@ggg)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 512 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 512 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 498 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 498 ] concat
+%I
+[
+(rope_rrrOppp)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 498 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 498 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 484 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 484 ] concat
+%I
+[
+(tact_ttt@ktt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 484 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 484 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 469 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 469 ] concat
+%I
+[
+(rent_rrrentt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 469 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 469 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 455 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 455 ] concat
+%I
+[
+(hint_hhhintt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 455 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 455 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 440 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 440 ] concat
+%I
+[
+(deed_dddEddd)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 440 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 440 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 426 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 426 ] concat
+%I
+[
+(cost_kkkostt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 426 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 426 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 412 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 412 ] concat
+%I
+[
+(gain_gggAnnn)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 412 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 412 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 397 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 397 ] concat
+%I
+[
+(need_nnnEddd)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 397 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 397 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 383 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 383 ] concat
+%I
+[
+(rent_rrrentt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 383 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 383 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 368 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 368 ] concat
+%I
+[
+(hire_hhhIrrr)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 368 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 368 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 354 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 354 ] concat
+%I
+[
+(cost_kkkostt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 354 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 354 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 340 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 340 ] concat
+%I
+[
+(need_nnnEddd)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 340 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 340 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 325 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 325 ] concat
+%I
+[
+(hint_hhhintt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 325 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 325 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 311 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 311 ] concat
+%I
+[
+(wage_wwwAjjj)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 311 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 311 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 296 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 296 ] concat
+%I
+[
+(plea_pllE---)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 296 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 296 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 282 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 282 ] concat
+%I
+[
+(stay_sttA---)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 282 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 282 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 267 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 267 ] concat
+%I
+[
+(reed_rrrEddd)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 267 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 267 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 253 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 253 ] concat
+%I
+[
+(loan_lllOnnn)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 253 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 253 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 239 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 239 ] concat
+%I
+[
+(lock_lllakkk)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 239 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 239 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 224 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 224 ] concat
+%I
+[
+(need_nnnEddd)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 224 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 224 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 407 210 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 513 210 ] concat
+%I
+[
+(past_ppp@stt)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 619 210 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 671 210 ] concat
+%I
+[
+(0)
+] Text
+End
+
+End %I eop
+
+Begin %I Pict
+%I b u
+%I cfg u
+%I cbg u
+%I f u
+%I p u
+%I t
+[ 1 0 0 1 -375.753 0 ] concat
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-bold-r-*-*-13-*-*-*-*-*-*-*
+Helvetica-Bold 13 SetF
+%I t
+[ 1 0 0 1 883 795 ] concat
+%I
+[
+(con_sem)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 772 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 757 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 743 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 728 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 714 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 700 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 685 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 671 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 656 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 642 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 628 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 613 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 599 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 584 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 570 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 556 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 541 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 527 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 512 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 498 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 484 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 469 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 455 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 440 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 426 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 412 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 397 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 383 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 368 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 354 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 340 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 325 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 311 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 296 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 282 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 267 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 253 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 239 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 224 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 883 210 ] concat
+%I
+[
+(0)
+] Text
+End
+
+End %I eop
+
+Begin %I Pict
+%I b u
+%I cfg u
+%I cbg u
+%I f u
+%I p u
+%I t
+[ 1 0 0 1 -7.17999 0 ] concat
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-bold-r-*-*-13-*-*-*-*-*-*-*
+Helvetica-Bold 13 SetF
+%I t
+[ 1 0 0 1 578.93 795 ] concat
+%I
+[
+(abs_vis)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 772 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 757 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 743 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 728 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 714 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 700 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 685 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 671 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 656 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 642 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 628 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 613 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 599 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 584 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 570 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 556 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 541 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 527 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 512 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 498 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 484 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 469 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 455 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 440 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 426 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 412 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 397 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 383 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 368 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 354 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 340 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 325 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 311 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 296 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 282 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 267 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 253 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 239 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 224 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 578.93 210 ] concat
+%I
+[
+(0)
+] Text
+End
+
+End %I eop
+
+Begin %I Pict
+%I b u
+%I cfg u
+%I cbg u
+%I f u
+%I p u
+%I t
+[ 1 0 0 1 -10.77 0 ] concat
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-bold-r-*-*-13-*-*-*-*-*-*-*
+Helvetica-Bold 13 SetF
+%I t
+[ 1 0 0 1 640.85 795 ] concat
+%I
+[
+(abs_visem)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 772 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 757 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 743 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 728 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 714 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 700 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 685 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 671 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 656 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 642 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 628 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 613 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 599 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 584 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 570 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 556 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 541 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 527 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 512 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 498 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 484 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 469 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 455 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 440 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 426 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 412 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 397 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 383 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 368 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 354 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 340 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 325 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 311 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 296 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 282 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 267 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 253 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 239 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 224 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 640.85 210 ] concat
+%I
+[
+(0)
+] Text
+End
+
+End %I eop
+
+Begin %I Pict
+%I b u
+%I cfg u
+%I cbg u
+%I f u
+%I p u
+%I t
+[ 1 0 0 1 -17.95 0 ] concat
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-bold-r-*-*-13-*-*-*-*-*-*-*
+Helvetica-Bold 13 SetF
+%I t
+[ 1 0 0 1 725.311 795 ] concat
+%I
+[
+(abs_sem)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 772 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 757 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 743 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 728 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 714 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 700 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 685 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 671 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 656 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 642 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 628 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 613 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 599 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 584 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 570 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 556 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 541 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 527 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 512 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 498 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 484 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 469 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 455 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 440 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 426 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 412 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 397 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 383 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 368 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 354 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 340 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 325 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 311 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 296 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 282 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 267 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 253 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 239 ] concat
+%I
+[
+(0)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 224 ] concat
+%I
+[
+(1)
+] Text
+End
+
+Begin %I Text
+%I cfg Black
+0 0 0 SetCFg
+%I f -*-helvetica-medium-r-*-*-13-*-*-*-*-*-*-*
+Helvetica 13 SetF
+%I t
+[ 1 0 0 1 725.311 210 ] concat
+%I
+[
+(0)
+] Text
+End
+
+End %I eop
+
+End %I eop
+
+Begin %I Rect
+%I b 65535
+2 0 0 [] 0 SetB
+%I cfg Black
+0 0 0 SetCFg
+%I cbg White
+1 1 1 SetCBg
+none SetP %I p n
+%I t
+[ 1.19667 -0 -0 1.19667 2.39333 67.0133 ] concat
+%I
+10 103 634 615 Rect
+End
+
+Begin %I Line
+%I b 65535
+2 0 0 [] 0 SetB
+%I cfg Black
+0 0 0 SetCFg
+%I cbg White
+1 1 1 SetCBg
+none SetP %I p n
+%I t
+[ 1.19667 -0 -0 1.19667 2.39333 64.62 ] concat
+%I
+17 598 627 598 Line
+%I 1
+End
+
+End %I eop
+
+showpage
+
+%%Trailer
+
+end

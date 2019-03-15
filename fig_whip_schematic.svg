@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="fig_whip_schematic.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.1">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5432">
+      <stop
+         style="stop-color:#b3bb00;stop-opacity:1;"
+         offset="0"
+         id="stop5434" />
+      <stop
+         style="stop-color:#ea3a3a;stop-opacity:0;"
+         offset="1"
+         id="stop5436" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5410">
+      <stop
+         style="stop-color:#04ac74;stop-opacity:1;"
+         offset="0"
+         id="stop5412" />
+      <stop
+         style="stop-color:#ea3a3a;stop-opacity:0;"
+         offset="1"
+         id="stop5414" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5382">
+      <stop
+         id="stop5384"
+         offset="0"
+         style="stop-color:#0654ff;stop-opacity:1;" />
+      <stop
+         id="stop5386"
+         offset="1"
+         style="stop-color:#ea3a3a;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5358">
+      <stop
+         style="stop-color:#ff0041;stop-opacity:1;"
+         offset="0"
+         id="stop5360" />
+      <stop
+         style="stop-color:#ea3a3a;stop-opacity:0;"
+         offset="1"
+         id="stop5362" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3820"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3191"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotM"
+       style="overflow:visible">
+      <path
+         id="path3247"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;marker-end:none"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5358"
+       id="linearGradient5370"
+       gradientUnits="userSpaceOnUse"
+       x1="-13.195215"
+       y1="123.10944"
+       x2="64.911578"
+       y2="123.10944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5358"
+       id="linearGradient5378"
+       gradientUnits="userSpaceOnUse"
+       x1="-13.195215"
+       y1="123.10944"
+       x2="64.911578"
+       y2="123.10944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5382"
+       id="linearGradient5388"
+       gradientUnits="userSpaceOnUse"
+       x1="-13.195215"
+       y1="123.10944"
+       x2="64.911575"
+       y2="123.10944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5410"
+       id="linearGradient5408"
+       gradientUnits="userSpaceOnUse"
+       x1="-13.195215"
+       y1="123.10944"
+       x2="64.911575"
+       y2="123.10944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5382"
+       id="linearGradient5426"
+       gradientUnits="userSpaceOnUse"
+       x1="-13.195215"
+       y1="123.10944"
+       x2="64.911575"
+       y2="123.10944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5432"
+       id="linearGradient5438"
+       gradientUnits="userSpaceOnUse"
+       x1="-13.195215"
+       y1="123.10944"
+       x2="64.911575"
+       y2="123.10944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5358"
+       id="linearGradient5444"
+       gradientUnits="userSpaceOnUse"
+       x1="-13.195215"
+       y1="123.10944"
+       x2="64.911578"
+       y2="123.10944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5382"
+       id="linearGradient5446"
+       gradientUnits="userSpaceOnUse"
+       x1="-13.195215"
+       y1="123.10944"
+       x2="64.911575"
+       y2="123.10944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5382"
+       id="linearGradient5456"
+       gradientUnits="userSpaceOnUse"
+       x1="-13.195215"
+       y1="123.10944"
+       x2="64.911575"
+       y2="123.10944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5410"
+       id="linearGradient5462"
+       gradientUnits="userSpaceOnUse"
+       x1="-13.195215"
+       y1="123.10944"
+       x2="64.911575"
+       y2="123.10944" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5432"
+       id="linearGradient5468"
+       gradientUnits="userSpaceOnUse"
+       x1="-13.195215"
+       y1="123.10944"
+       x2="64.911575"
+       y2="123.10944" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="299.72621"
+     inkscape:cy="823.51538"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1590"
+     inkscape:window-height="1030"
+     inkscape:window-x="1600"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans"
+       x="192.18852"
+       y="357.36362"
+       id="text2383"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"><tspan
+         sodipodi:role="line"
+         x="192.18852"
+         y="357.36362"
+         id="tspan2393">VTA/SNc (DA)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans;stroke-miterlimit:4;stroke-dasharray:none"
+       x="259.60919"
+       y="366.4686"
+       id="text2387"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2389"
+         x="259.60919"
+         y="366.4686" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans"
+       x="73.148689"
+       y="237.4178"
+       id="text2399"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2401"
+         x="73.148689"
+         y="237.4178"
+         style="font-size:12px;font-style:normal;font-weight:normal;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:Sans">OFC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans"
+       x="344.46201"
+       y="377.58029"
+       id="text3981"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan3983"
+         x="344.46201"
+         y="377.58029">sensory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans;stroke-miterlimit:4;stroke-dasharray:none"
+       x="256.62738"
+       y="209.84058"
+       id="text2583"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2585"
+         x="256.62738"
+         y="209.84058"
+         style="font-size:12px;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none">DMS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans"
+       x="346.85715"
+       y="387.36218"
+       id="text3771"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         x="346.85715"
+         y="397.36218"
+         id="tspan7264">non-spatial</tspan><tspan
+         sodipodi:role="line"
+         x="346.85715"
+         y="407.36218"
+         id="tspan3775" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans;stroke-miterlimit:4;stroke-dasharray:none"
+       x="377.85715"
+       y="183.07646"
+       id="text3779"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan3781"
+         x="377.85715"
+         y="183.07646"
+         style="font-size:12px;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none">DLS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans"
+       x="265.24438"
+       y="296.47382"
+       id="text3783"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan3785"
+         x="265.24438"
+         y="296.47382"
+         style="font-size:12px;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none">VS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Sans;stroke-miterlimit:4;stroke-dasharray:none"
+       x="317.85715"
+       y="243.07648"
+       id="text3787"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan3789"
+         x="317.85715"
+         y="243.07648" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="115.85714"
+       y="123.6479"
+       id="text3791"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan3793"
+         x="115.85714"
+         y="123.6479">mPFC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="283.57144"
+       y="76.647888"
+       id="text3795"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan3797"
+         x="283.57144"
+         y="76.647888">lPfc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="318.14285"
+       y="185.21933"
+       id="text3803"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan3805"
+         x="318.14285"
+         y="185.21933">DS</tspan></text>
+    <path
+       style="font-style:normal;font-weight:normal;fill:none;fill-rule:evenodd;stroke:#326bb0;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:Sans"
+       d="M 367.38698,358.35395 L 281.67931,302.56228"
+       id="path3807"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="font-style:normal;font-weight:normal;fill:none;fill-rule:evenodd;stroke:#2abe2d;stroke-width:1.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#DotM);stroke-opacity:1;-inkscape-font-specification:Sans;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 188.89483,339.60065 L 264.53541,215.07128"
+       id="path5132"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="font-style:normal;font-weight:normal;fill:none;fill-rule:evenodd;stroke:#2abe2d;stroke-width:1.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#DotM);stroke-opacity:1;-inkscape-font-specification:Sans;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 188.91851,338.95839 L 327.61484,192.07439"
+       id="path5134"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="font-style:normal;font-weight:normal;fill:none;fill-rule:evenodd;stroke:#2abe2d;stroke-width:1.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#DotM);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:Sans"
+       d="M 188.3048,340.85781 L 386.63792,189.92531"
+       id="path5136"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 104.21143,226.76168 L 253.76386,207.92449"
+       id="path5138"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#326bb0;stroke-width:1.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 367.14286,358.07647 C 535,158.79075 312.14286,82.362179 312.14286,82.362179"
+       id="path5673"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-dashoffset:0"
+       d="M 159.70973,119.08686 L 374.29464,171.37344"
+       id="path6733"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="font-style:normal;font-weight:normal;fill:none;fill-rule:evenodd;stroke:#326bb0;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:Sans"
+       d="M 365.56953,356.37926 L 146.36722,128.75307"
+       id="path7262"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="487.90369"
+       y="379.49905"
+       id="text7266"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan7268"
+         x="487.90369"
+         y="379.49905">sensory</tspan><tspan
+         sodipodi:role="line"
+         x="487.90369"
+         y="400.51205"
+         id="tspan7272"
+         style="font-size:8px">spatial</tspan></text>
+    <path
+       style="font-style:normal;font-weight:normal;fill:none;fill-rule:evenodd;stroke:#326bb0;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:Sans"
+       d="M 512.03713,365.46612 L 335.82067,190.08888"
+       id="path8332"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="font-style:normal;font-weight:normal;fill:none;fill-rule:evenodd;stroke:#2abe2d;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#DotM);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:Sans"
+       d="M 188.23407,341.4172 L 272.20871,302.34555"
+       id="path8336"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 324.25897,71.504058 L 477.80216,65.443143"
+       id="path8338"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="482.85291"
+       y="71.504059"
+       id="text8867"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan8869"
+         x="482.85291"
+         y="71.504059">Output</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="117.68277"
+       y="424.0473"
+       id="text8871"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan8873"
+         x="117.68277"
+         y="424.0473">outcomes (US)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#de2121;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 149.32319,413.84256 L 86.26984,243.3881"
+       id="path8875"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="37.880718"
+       y="355.862"
+       id="text9406"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan9408"
+         x="37.880718"
+         y="355.862">BLA</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#de2121;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 149.29334,414.66625 L 52.488234,362.44357"
+       id="path9410"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#326bb0;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 368.14415,358.40322 C 197.85081,388.13708 65.873455,362.43493 65.873455,362.43493"
+       id="path9418"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 51.908553,343.71517 L 83.862264,243.96525"
+       id="path9947"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 158.87046,114.39274 L 292.92887,83.5408"
+       id="path2454"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#326bb0;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 489.84375,367.98718 C 436.71875,334.39343 370.3125,357.83093 370.3125,357.83093"
+       id="path2465"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#DotM);stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 210.15625,70.330933 C 560.15625,-20.294067 441.40625,350.79968 441.40625,350.79968"
+       id="path3782"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#326bb0;stroke-width:1.24966371;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 513.28142,364.86235 C 407.6242,169.65671 216.21619,81.216609 216.21619,81.216609"
+       id="path4315"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 103.93374,221.86594 C 194.30297,185.9734 313.65857,179.73122 313.65857,179.73122"
+       id="path4846"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 59.662135,345.80783 L 257.43106,212.67288"
+       id="path3791"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="font-style:normal;font-weight:normal;fill:none;fill-rule:evenodd;stroke:#2abe2d;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#DotM);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:Sans"
+       d="M 190.65538,340.49512 L 65.597297,355.73673"
+       id="path4324"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#326bb0;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 211.54544,372.73302 C 134.53942,372.13793 91.187884,243.60008 91.187884,243.60008"
+       id="path2495"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="font-style:normal;font-weight:normal;fill:none;fill-rule:evenodd;stroke:#326bb0;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:Sans"
+       d="M 366.91581,358.33256 L 393.04266,188.92641"
+       id="path6107"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="246.3145"
+       y="389.39328"
+       id="text2452"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan2454"
+         x="246.3145"
+         y="389.39328">PVLV</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#2abe2d;stroke-width:1.4991554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:17.98986354, 1.49915529;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2456"
+       width="101.59502"
+       height="59.058132"
+       x="188.44955"
+       y="339.69043"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g5366"
+       transform="matrix(1.1975028,9.1743176e-2,0.2370778,0.7509269,142.06105,187.56808)"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g5440"
+         transform="matrix(0.9748843,-8.2023488e-3,-3.2149543e-2,1.2532651,3.2342568,-26.602105)">
+        <path
+           sodipodi:type="spiral"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.86974692;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path3246"
+           sodipodi:cx="23.201941"
+           sodipodi:cy="126.49426"
+           sodipodi:expansion="1"
+           sodipodi:revolution="3"
+           sodipodi:radius="40.745014"
+           sodipodi:argument="-19.068224"
+           sodipodi:t0="0.66305506"
+           d="m 49.115045,118.85323 c 5.672366,14.77406 -2.754008,31.36948 -17.311735,36.81092 -16.551636,6.18672 -35.0562289,-3.27864 -41.0280362,-19.60819 -6.7028168,-18.32845 3.8028344,-38.744283 21.9046332,-45.245145 20.104735,-7.220173 42.433334,4.326717 49.462263,24.201085 0.308167,0.87134 0.586525,1.75323 0.834534,2.64356"
+           transform="matrix(0.3404364,-0.2370767,1.8335705,0.5626282,-219.9934,35.492389)" />
+        <path
+           sodipodi:type="spiral"
+           style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient5444);stroke-width:3.86974692;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4302"
+           sodipodi:cx="23.201941"
+           sodipodi:cy="126.49426"
+           sodipodi:expansion="1"
+           sodipodi:revolution="3"
+           sodipodi:radius="40.745014"
+           sodipodi:argument="-19.068224"
+           sodipodi:t0="0.66305506"
+           d="m 49.115045,118.85323 c 5.672366,14.77406 -2.754008,31.36948 -17.311735,36.81092 -16.551636,6.18672 -35.0562289,-3.27864 -41.0280362,-19.60819 -6.7028168,-18.32845 3.8028344,-38.744283 21.9046332,-45.245145 20.104735,-7.220173 42.433334,4.326717 49.462263,24.201085 0.308167,0.87134 0.586525,1.75323 0.834534,2.64356"
+           transform="matrix(0.3374661,-0.2295272,1.8175725,0.5447117,-218.46064,38.547467)" />
+      </g>
+    </g>
+    <g
+       id="g5452"
+       transform="matrix(1.1654169,0.4130761,-0.2833496,0.5179682,14.471534,-7.1469733)"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         transform="matrix(0.2296699,-0.4152437,1.39227,0.8550893,28.024732,67.919558)"
+         d="m 49.115045,118.85323 c 5.672366,14.77406 -2.754008,31.36948 -17.311735,36.81092 -16.551636,6.18672 -35.0562289,-3.27864 -41.0280362,-19.60819 -6.7028168,-18.32845 3.8028344,-38.744283 21.9046332,-45.245145 20.104735,-7.220173 42.433334,4.326717 49.462263,24.201085 0.308167,0.87134 0.586525,1.75323 0.834534,2.64356"
+         sodipodi:t0="0.66305506"
+         sodipodi:argument="-19.068224"
+         sodipodi:radius="40.745014"
+         sodipodi:revolution="3"
+         sodipodi:expansion="1"
+         sodipodi:cy="126.49426"
+         sodipodi:cx="23.201941"
+         id="path5374"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.86974692;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="spiral" />
+      <path
+         transform="matrix(0.2281287,-0.4024091,1.3790245,0.8257675,29.40678,72.978423)"
+         d="m 49.115045,118.85323 c 5.672366,14.77406 -2.754008,31.36948 -17.311735,36.81092 -16.551636,6.18672 -35.0562289,-3.27864 -41.0280362,-19.60819 -6.7028168,-18.32845 3.8028344,-38.744283 21.9046332,-45.245145 20.104735,-7.220173 42.433334,4.326717 49.462263,24.201085 0.308167,0.87134 0.586525,1.75323 0.834534,2.64356"
+         sodipodi:t0="0.66305506"
+         sodipodi:argument="-19.068224"
+         sodipodi:radius="40.745014"
+         sodipodi:revolution="3"
+         sodipodi:expansion="1"
+         sodipodi:cy="126.49426"
+         sodipodi:cx="23.201941"
+         id="path5376"
+         style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient5456);stroke-width:3.86974692;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="spiral" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="189.67502"
+       y="83.324669"
+       id="text5400"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan5402"
+         x="189.67502"
+         y="83.324669">FEF</tspan></text>
+    <g
+       id="g5458"
+       transform="matrix(1.2362406,0.5634355,-0.2077054,0.4883646,-35.252127,-81.61931)"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         transform="matrix(0.2260743,-0.424894,1.3704736,0.8749617,89.384194,31.478706)"
+         d="m 49.115045,118.85323 c 5.672366,14.77406 -2.754008,31.36948 -17.311735,36.81092 -16.551636,6.18672 -35.0562289,-3.27864 -41.0280362,-19.60819 -6.7028168,-18.32845 3.8028344,-38.744283 21.9046332,-45.245145 20.104735,-7.220173 42.433334,4.326717 49.462263,24.201085 0.308167,0.87134 0.586525,1.75323 0.834534,2.64356"
+         sodipodi:t0="0.66305506"
+         sodipodi:argument="-19.068224"
+         sodipodi:radius="40.745014"
+         sodipodi:revolution="3"
+         sodipodi:expansion="1"
+         sodipodi:cy="126.49426"
+         sodipodi:cx="23.201941"
+         id="path5404"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.86974692;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="spiral" />
+      <path
+         transform="matrix(0.2245573,-0.4117611,1.3574354,0.8449585,90.744606,36.65514)"
+         d="m 49.115045,118.85323 c 5.672366,14.77406 -2.754008,31.36948 -17.311735,36.81092 -16.551636,6.18672 -35.0562289,-3.27864 -41.0280362,-19.60819 -6.7028168,-18.32845 3.8028344,-38.744283 21.9046332,-45.245145 20.104735,-7.220173 42.433334,4.326717 49.462263,24.201085 0.308167,0.87134 0.586525,1.75323 0.834534,2.64356"
+         sodipodi:t0="0.66305506"
+         sodipodi:argument="-19.068224"
+         sodipodi:radius="40.745014"
+         sodipodi:revolution="3"
+         sodipodi:expansion="1"
+         sodipodi:cy="126.49426"
+         sodipodi:cx="23.201941"
+         id="path5406"
+         style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient5462);stroke-width:3.86974692;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="spiral" />
+    </g>
+    <g
+       id="g5464"
+       transform="matrix(-0.982124,-0.224998,-3.9338014e-2,-0.7881192,693.2208,302.7573)"
+       inkscape:export-filename="/home/pauli/svn/sims/bg/whip/xwhip.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         transform="matrix(0.2260743,-0.424894,1.3704736,0.8749617,176.10294,28.353705)"
+         d="m 49.115045,118.85323 c 5.672366,14.77406 -2.754008,31.36948 -17.311735,36.81092 -16.551636,6.18672 -35.0562289,-3.27864 -41.0280362,-19.60819 -6.7028168,-18.32845 3.8028344,-38.744283 21.9046332,-45.245145 20.104735,-7.220173 42.433334,4.326717 49.462263,24.201085 0.308167,0.87134 0.586525,1.75323 0.834534,2.64356"
+         sodipodi:t0="0.66305506"
+         sodipodi:argument="-19.068224"
+         sodipodi:radius="40.745014"
+         sodipodi:revolution="3"
+         sodipodi:expansion="1"
+         sodipodi:cy="126.49426"
+         sodipodi:cx="23.201941"
+         id="path5422"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.86974692;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="spiral" />
+      <path
+         transform="matrix(0.2245573,-0.4117611,1.3574354,0.8449585,177.46335,33.530139)"
+         d="m 49.115045,118.85323 c 5.672366,14.77406 -2.754008,31.36948 -17.311735,36.81092 -16.551636,6.18672 -35.0562289,-3.27864 -41.0280362,-19.60819 -6.7028168,-18.32845 3.8028344,-38.744283 21.9046332,-45.245145 20.104735,-7.220173 42.433334,4.326717 49.462263,24.201085 0.308167,0.87134 0.586525,1.75323 0.834534,2.64356"
+         sodipodi:t0="0.66305506"
+         sodipodi:argument="-19.068224"
+         sodipodi:radius="40.745014"
+         sodipodi:revolution="3"
+         sodipodi:expansion="1"
+         sodipodi:cy="126.49426"
+         sodipodi:cx="23.201941"
+         id="path5424"
+         style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient5468);stroke-width:3.86974692;stroke-linecap:butt;stroke-linejoin:miter;marker-start:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="spiral" />
+    </g>
+  </g>
+</svg>
