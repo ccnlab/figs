@@ -11,6 +11,8 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
+See: [LICENSE.md](https://github.com/ccnlab/figs/blob/master/LICENSE.md)
+
 This repository contains all collected figures for the lab -- putting all the figures in one place, and making *relative* symlinks to this repository, makes it much easier and more efficient to share figures across papers / talks, etc.
 
 All figures are hereby subject to the following [COPYRIGHT](https://github.com/ccnlab/figs/blob/master/COPYRIGHT):
