@@ -44,7 +44,7 @@
       orient="auto">
       <path
         id="path"
-        style="stroke:#32CD32;stroke-width:1.0pt;fill-rule:evenodd;fill:#32CD32;"
+        style="fill-rule:evenodd;fill:#32CD32;stroke:#32CD32;stroke-width:1.0pt;"
         transform="scale(0.4) rotate(180) translate(10,0)"
         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z " />
     </marker>
@@ -57,18 +57,18 @@
       orient="auto">
       <path
         id="path"
-        style="stroke-width:1.0pt;fill-rule:evenodd;fill:#9370DB;stroke:#9370DB;"
+        style="fill-rule:evenodd;fill:#9370DB;stroke:#9370DB;stroke-width:1.0pt;"
         transform="scale(-0.8) translate(-6,0)"
         d="M 5.77,0 L -2.88,5 L -2.88,-5 L 5.77,0 z " />
     </marker>
   </defs>
   <sodipodi:namedview
     id="namedview628"
-    inkscape:cy="-0"
     inkscape:zoom="2.0912628"
     inkscape:cx="-0"
     inkscape:document-units="px"
-    inkscape:current-layer="Layer1">
+    inkscape:current-layer="Layer1"
+    inkscape:cy="-0">
     <inkscape:grid
       id="grid704"
       type="xygrid"
@@ -95,15 +95,15 @@
     style="">
     <path
       id="path840"
-      style="stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;"
+      style="stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;"
       d="m 435.70584,505.78336 -243.37589,-237.66339 " />
     <path
       id="path973"
-      style="fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;"
+      style="stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotL382);stroke:#FF0000;"
       d="m 731.78876,384.40366 -265.45853,0.19418335 " />
     <path
       id="path24"
-      style="fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;"
+      style="stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotL382);stroke:#FF0000;"
       d="m 731.78876,384.40366 -59.01349,-0.265625 " />
     <rect
       id="rect212"
@@ -125,7 +125,7 @@
     </text>
     <rect
       id="rect212_002"
-      style="stroke-opacity:1;stroke-width:1px;fill:#9370DB;fill-opacity:1;stroke:#000000;"
+      style="fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1px;fill:#9370DB;"
       x="301.6443"
       y="503.94748"
       width="107.30103"
@@ -146,7 +146,7 @@
       transform="translate(312.77847,252.72577)">
       <rect
         id="rect212_002"
-        style="fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1px;fill:#32CD32;"
+        style="stroke-width:1px;fill:#32CD32;fill-opacity:1;stroke:#000000;stroke-opacity:1;"
         x="120.7374"
         y="251.22171"
         width="107.30103"
@@ -165,14 +165,14 @@
     </g>
     <rect
       id="002_008"
-      style="fill:#FF8C00;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1px;"
+      style="stroke-opacity:1;stroke-width:1px;fill:#FF8C00;fill-opacity:1;stroke:#000000;"
       x="253.59868"
       y="192.48505"
       width="117.9252"
       height="73.295784" />
     <text
       id="003_009"
-      style="font-family:Arial;font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;"
+      style="text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;fill:#000000;fill-opacity:1;"
       transform="none"
       x="268.24393"
       y="229.85925">
@@ -193,7 +193,7 @@
         height="73.295784" />
       <text
         id="text804_003"
-        style="text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;fill:#000000;fill-opacity:1;"
+        style="fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;"
         transform="none"
         x="358.73956"
         y="314.26077">
@@ -237,7 +237,7 @@
         height="73.295784" />
       <text
         id="text804_003"
-        style="text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;fill:#000000;fill-opacity:1;"
+        style="font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
         transform="none"
         x="358.73956"
         y="314.26077">
@@ -249,14 +249,14 @@
     </g>
     <rect
       id="002_005"
-      style="stroke-width:1px;fill:#32CD32;fill-opacity:1;stroke:#000000;stroke-opacity:1;"
+      style="fill:#32CD32;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1px;"
       x="504.8171"
       y="348.1695"
       width="155.20633"
       height="73.295784" />
     <text
       id="003_006"
-      style="text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;fill:#000000;fill-opacity:1;"
+      style="font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
       transform="none"
       x="431.56302"
       y="241.6637">
@@ -270,14 +270,14 @@
       transform="translate(-150.35072,-84.40151)">
       <rect
         id="002_012"
-        style="stroke:#000000;stroke-opacity:1;stroke-width:1px;fill:#32CD32;fill-opacity:1;"
+        style="stroke-width:1px;fill:#32CD32;fill-opacity:1;stroke:#000000;stroke-opacity:1;"
         x="864.39984"
         y="588.34564"
         width="119.1918"
         height="73.295784" />
       <text
         id="003_013"
-        style="font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
+        style="stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:36px;"
         transform="none"
         x="143.41573"
         y="300.37482">
@@ -296,7 +296,7 @@
       height="73.295784" />
     <text
       id="009_017"
-      style="font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
+      style="font-family:Arial;font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;"
       transform="none"
       x="431.56302"
       y="240.0859">
@@ -310,14 +310,14 @@
       transform="translate(36.14702,-84.13001)">
       <rect
         id="002_015"
-        style="stroke-width:1px;fill:#00BFFF;fill-opacity:1;stroke:#000000;stroke-opacity:1;"
+        style="stroke-opacity:1;stroke-width:1px;fill:#00BFFF;fill-opacity:1;stroke:#000000;"
         x="468.71814"
         y="120.803505"
         width="399.65207"
         height="73.295784" />
       <text
         id="003_016"
-        style="fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;"
+        style="font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
         transform="none"
         x="136.50171"
         y="291.37936">
@@ -339,7 +339,7 @@
         height="73.295784" />
       <text
         id="text804_003"
-        style="fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;fill:#000000;"
+        style="font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
         transform="none"
         x="143.41571"
         y="300.37482">
@@ -351,7 +351,7 @@
     </g>
     <path
       id="path382"
-      style="marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;"
+      style="stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotL382);"
       d="m 170.6657,349.73648 -0.338562,-71.37427 " />
     <path
       id="path18"
@@ -359,39 +359,39 @@
       d="m 404.5983,504.22128 13.03363,-25.30127 " />
     <path
       id="path905"
-      style="fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;"
+      style="marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;"
       d="m 659.19507,347.4387 75.98633,-80.11026 " />
     <path
       id="path851"
       style="fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;"
-      d="m 610.9173,349.48196 -0.338562,-71.37427 " />
+      d="m 586.23224,349.96014 -0.338562,-71.37427 " />
     <path
       id="path457"
-      style="stroke-width:3px;fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;"
+      style="stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotL382);"
       d="m 422.71542,267.59732 -0.338562,71.37427 " />
     <path
       id="path601"
       style="stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotL382);"
-      d="m 578.6649,266.25797 -0.338562,71.37427 " />
+      d="m 553.97986,266.73615 -0.338562,71.37427 " />
     <path
       id="path84"
-      style="fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;"
+      style="marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;"
       d="m 371.63803,421.61456 -0.338562,71.37427 " />
     <path
       id="path333"
-      style="fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;"
+      style="stroke-width:3px;fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;"
       d="m 794.67584,421.61456 -0.338562,71.37427 " />
     <path
       id="path169"
-      style="fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;"
+      style="stroke-width:3px;fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;"
       d="m 804.8921,263.78622 -0.338562,73.60858 " />
     <path
       id="path623"
-      style="stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotL382);"
+      style="fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;"
       d="m 482.60214,267.64346 1.1510162,228.52176 " />
     <path
       id="path297"
-      style="stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotL382);stroke:#FF0000;"
+      style="marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;"
       d="m 733.5481,422.63327 -192.08728,81.23486 " />
     <path
       id="path102"
@@ -399,7 +399,7 @@
       d="m 410.14304,265.83078 -155.98145,78.140076 " />
     <path
       id="path87"
-      style="marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;"
+      style="stroke:#32CD32;stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;"
       transform="matrix(-4.371139e-08,1,-1,-4.371139e-08,451.30435,-118.57962)"
       d="m 347.5636,258.5171 -0.37051392,-56.85582 " />
     <path
@@ -408,15 +408,15 @@
       d="m 721.0294,111.0411 -59.20105,234.72073 " />
     <path
       id="path972"
-      style="marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;"
+      style="stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;"
       d="m 721.0294,111.0411 0.1116333,389.66943 " />
     <path
       id="path923"
-      style="stroke:#32CD32;stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;"
+      style="stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;"
       d="m 825.862,111.0411 0.1116333,80.9635 " />
     <path
       id="path535"
-      style="marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;"
+      style="stroke:#32CD32;stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;"
       d="m 588.39594,111.0411 0.1116333,80.9635 " />
     <path
       id="path121"
@@ -424,11 +424,11 @@
       d="m 714.61096,505.25647 -256.45032,-67.16986 " />
     <path
       id="path58"
-      style="marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:1px;"
+      style="stroke-width:1px;marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;"
       d="m 714.61096,505.25647 -55.06299,-80.50372 " />
     <path
       id="path459"
-      style="stroke:#32CD32;stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;"
+      style="fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);"
       transform="matrix(-4.371139e-08,-1,1,-4.371139e-08,164.01575,1227.727)"
       d="m 687.5937,546.8949 -0.84472656,-165.60135 " />
     <path
@@ -437,7 +437,7 @@
       d="m 828.1787,504.33688 0.1116333,-80.9635 " />
     <text
       id="text38"
-      style="stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:18px;text-align:AlignLeft;"
+      style="font-size:18px;text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;"
       transform="none"
       x="511.0967"
       y="418.2189">
@@ -448,7 +448,7 @@
     </text>
     <text
       id="text343"
-      style="font-size:18px;text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;"
+      style="stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:18px;text-align:AlignLeft;"
       transform="none"
       x="306.28555"
       y="418.2189">
@@ -459,7 +459,7 @@
     </text>
     <text
       id="text364"
-      style="font-size:18px;text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;"
+      style="fill:#000000;fill-opacity:1;font-family:Arial;font-size:18px;text-align:AlignLeft;stroke:none;"
       transform="none"
       x="753.64105"
       y="417.91687">
@@ -470,7 +470,7 @@
     </text>
     <text
       id="text20"
-      style="font-family:Arial;font-size:18px;text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;"
+      style="text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:18px;"
       transform="none"
       x="129.84804"
       y="418.2189">
@@ -481,7 +481,7 @@
     </text>
     <text
       id="text191"
-      style="fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;fill:#000000;"
+      style="text-align:AlignLeft;font-family:Arial;stroke:none;fill:#000000;fill-opacity:1;font-size:18px;"
       transform="none"
       x="373.1827"
       y="235.49448">
@@ -492,7 +492,7 @@
     </text>
     <text
       id="text643"
-      style="font-family:Arial;stroke:none;fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;"
+      style="font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;fill:#000000;fill-opacity:1;"
       transform="none"
       x="576.9474"
       y="508.16415">
@@ -506,7 +506,7 @@
       transform="translate(-647.67194,-88.466064)">
       <text
         id="text273"
-        style="fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;"
+        style="font-family:Arial;stroke:none;fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;"
         transform="none"
         x="751.62396"
         y="425.88696">
@@ -517,7 +517,7 @@
       </text>
       <text
         id="text418"
-        style="stroke:none;fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;"
+        style="fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;fill:#000000;"
         transform="none"
         x="751.62396"
         y="407.9322">
@@ -528,7 +528,7 @@
       </text>
       <text
         id="text65"
-        style="stroke:none;fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;"
+        style="text-align:AlignLeft;font-family:Arial;stroke:none;fill:#000000;fill-opacity:1;font-size:18px;"
         transform="none"
         x="751.62396"
         y="391.1358">
@@ -540,7 +540,7 @@
     </g>
     <text
       id="text65"
-      style="font-family:Arial;stroke:none;fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;"
+      style="text-align:AlignLeft;font-family:Arial;stroke:none;fill:#000000;fill-opacity:1;font-size:18px;"
       transform="matrix(-4.371139e-08,-1,1,-4.371139e-08,234.06909,1351.5757)"
       x="984.4976"
       y="339.05798">
@@ -553,19 +553,30 @@
       id="text438"
       style="fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;"
       transform="none"
+      x="949.0866"
+      y="331.22342">
+      <tspan
+        id="tspan571"
+        x="835.8608"
+        y="472.69653">Then act!</tspan>
+    </text>
+    <text
+      id="text963"
+      style="fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;"
+      transform="none"
       x="733.4531"
       y="391.1796">
       <tspan
         id="tspan571"
         x="620.2273"
-        y="532.6527">Wait for it..</tspan>
+        y="532.6527">Think first..</tspan>
     </text>
     <g
       id="g310"
-      transform="translate(-131.23763,-84.40151)">
+      transform="translate(-149.88666,-88.944244)">
       <text
         id="text273"
-        style="fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;fill:#000000;"
+        style="font-family:Arial;stroke:none;fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;"
         transform="none"
         x="751.62396"
         y="425.88696">
@@ -576,7 +587,7 @@
       </text>
       <text
         id="text418"
-        style="stroke:none;fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;"
+        style="fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;fill:#000000;"
         transform="none"
         x="751.62396"
         y="407.9322">
@@ -587,7 +598,7 @@
       </text>
       <text
         id="text65"
-        style="font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;fill:#000000;fill-opacity:1;"
+        style="fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;fill:#000000;"
         transform="none"
         x="751.62396"
         y="391.1358">
@@ -599,7 +610,7 @@
     </g>
     <text
       id="text57"
-      style="font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;fill:#000000;fill-opacity:1;"
+      style="fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;"
       transform="none"
       x="488.332"
       y="469.48544">
@@ -610,7 +621,7 @@
     </text>
     <text
       id="text658"
-      style="fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;fill:#000000;"
+      style="fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;"
       transform="none"
       x="431.5718"
       y="460.21848">
@@ -621,7 +632,7 @@
     </text>
     <text
       id="text726"
-      style="font-size:12px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
+      style="stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:12px;"
       transform="none"
       x="103.811325"
       y="362.84973">
@@ -643,7 +654,7 @@
     </text>
     <text
       id="text662"
-      style="text-align:AlignLeft;font-family:Arial;font-size:12px;stroke:none;fill:#000000;fill-opacity:1;"
+      style="stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:12px;"
       transform="none"
       x="630.08185"
       y="362.84973">
@@ -654,7 +665,7 @@
     </text>
     <text
       id="text72"
-      style="font-family:Arial;font-size:12px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;"
+      style="stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:12px;"
       transform="none"
       x="428.05954"
       y="362.84973">
