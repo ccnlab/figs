@@ -17,7 +17,7 @@
       orient="auto">
       <path
         id="path65"
-        style="stroke-linejoin:round;fill-rule:evenodd;stroke-width:0.62500000;"
+        style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
         transform="scale(0.6) rotate(180) translate(0,0)"
         d="M 8.718588,4.0337353 L -2.2072895,0.016013255 L 8.718589,-4.001708 C 6.97309,-1.6296469 6.9831476,1.6157441 8.718588,4.0337353 z " />
     </marker>
@@ -29,7 +29,7 @@
       y2="0"
       gradientUnits="objectBoundingBox">
       <stop
-        style="stop-color:#FF0000;stop-opacity:1;"
+        style="stop-color:#FF4500;stop-opacity:1;"
         offset="0" />
       <stop
         style="stop-color:#FFFFFF;stop-opacity:1;"
@@ -133,6 +133,34 @@
         style="stop-color:#FFFFFF;stop-opacity:1;"
         offset="1" />
     </linearGradient>
+    <linearGradient
+      id="linearGradient638"
+      x1="0"
+      y1="0"
+      x2="0"
+      y2="0"
+      gradientUnits="objectBoundingBox">
+      <stop
+        style="stop-color:#32CD32;stop-opacity:1;"
+        offset="0" />
+      <stop
+        style="stop-color:#FFFFFF;stop-opacity:1;"
+        offset="1" />
+    </linearGradient>
+    <linearGradient
+      id="linearGradient209"
+      x1="0"
+      y1="0"
+      x2="0"
+      y2="0"
+      gradientUnits="objectBoundingBox">
+      <stop
+        style="stop-color:#7B68EE;stop-opacity:1;"
+        offset="0" />
+      <stop
+        style="stop-color:#FFFFFF;stop-opacity:1;"
+        offset="1" />
+    </linearGradient>
     <radialGradient
       id="radialGradient506"
       cx="640.9835205078125"
@@ -142,7 +170,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(0.6978417038917542,0,0,0.6978417038917542,106.55181884765625,258.353759765625)"
-      xlink:href="#linearGradient541" />
+      xlink:href="#linearGradient821" />
     <radialGradient
       id="radialGradient640"
       cx="640.9835205078125"
@@ -152,7 +180,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(1,0,0,1,17.45294189453125,144.51614379882812)"
-      xlink:href="#linearGradient821" />
+      xlink:href="#linearGradient209" />
     <radialGradient
       id="radialGradient829"
       cx="640.9835205078125"
@@ -161,7 +189,7 @@
       fy="297.8783264160156"
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
-      gradientTransform="matrix(1,0,0,1,-210.97323608398438,51.44905090332031)"
+      gradientTransform="matrix(0.3885604739189148,0,0,0.38614705204963684,372.7759094238281,362.564697265625)"
       xlink:href="#linearGradient450" />
     <radialGradient
       id="radialGradient309"
@@ -172,7 +200,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(0.7071428298950195,0,0,0.7122302055358887,63.584075927734375,317.73321533203125)"
-      xlink:href="#linearGradient31" />
+      xlink:href="#linearGradient999" />
     <radialGradient
       id="radialGradient289"
       cx="640.9835205078125"
@@ -182,7 +210,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(1,0,0,1,-305.7135925292969,65.54017639160156)"
-      xlink:href="#linearGradient240" />
+      xlink:href="#linearGradient638" />
     <radialGradient
       id="radialGradient394"
       cx="640.9835205078125"
@@ -192,7 +220,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(1,0,0,1,-267.0449523925781,118.62774658203125)"
-      xlink:href="#linearGradient999" />
+      xlink:href="#linearGradient31" />
     <radialGradient
       id="radialGradient98"
       cx="640.9835205078125"
@@ -202,7 +230,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(1,0,0,1,-200.84933471679688,144.84381103515625)"
-      xlink:href="#linearGradient460" />
+      xlink:href="#linearGradient407" />
     <radialGradient
       id="radialGradient932"
       cx="640.9835205078125"
@@ -212,7 +240,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(0.6834532618522644,0,0,0.6785714030265808,441.2059326171875,308.40155029296875)"
-      xlink:href="#linearGradient821" />
+      xlink:href="#linearGradient209" />
     <radialGradient
       id="radialGradient26"
       cx="640.9835205078125"
@@ -222,7 +250,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(1,0,0,1,-18.940460205078125,89.13465881347656)"
-      xlink:href="#linearGradient31" />
+      xlink:href="#linearGradient999" />
     <radialGradient
       id="radialGradient822"
       cx="640.9835205078125"
@@ -232,7 +260,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(1,0,0,1,-154.60861206054688,-12.45263671875)"
-      xlink:href="#linearGradient821" />
+      xlink:href="#linearGradient209" />
     <radialGradient
       id="radialGradient827"
       cx="640.9835205078125"
@@ -242,7 +270,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(1,0,0,1,-135.96453857421875,95.21759033203125)"
-      xlink:href="#linearGradient541" />
+      xlink:href="#linearGradient821" />
     <radialGradient
       id="radialGradient151"
       cx="640.9835205078125"
@@ -252,7 +280,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(0.34532374143600464,0,0,1,605.0762939453125,-46.861236572265625)"
-      xlink:href="#linearGradient821" />
+      xlink:href="#linearGradient209" />
     <radialGradient
       id="radialGradient940"
       cx="640.9835205078125"
@@ -262,33 +290,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(1,0,0,1,-233.25686645507812,-35.39170837402344)"
-      xlink:href="#linearGradient407" />
-    <marker
-      id="DiamondM494"
-      inkscape:stockid="DiamondM"
-      style="overflow:visible"
-      refX="0"
-      refY="0"
-      orient="auto">
-      <path
-        id="path"
-        style="fill-rule:evenodd;fill:#008000;stroke:#008000;stroke-width:1.0pt;"
-        transform="scale(0.4)"
-        d="M 0,-7.071077 L -7.0710893,0 L 0,7.0710588 L 7.0710464,0 L 0,-7.071077 z " />
-    </marker>
-    <marker
-      id="DiamondM124"
-      inkscape:stockid="DiamondM"
-      style="overflow:visible"
-      refX="0"
-      refY="0"
-      orient="auto">
-      <path
-        id="path"
-        style="stroke-width:1.0pt;fill-rule:evenodd;fill:#008000;stroke:#008000;"
-        transform="scale(0.4)"
-        d="M 0,-7.071077 L -7.0710893,0 L 0,7.0710588 L 7.0710464,0 L 0,-7.071077 z " />
-    </marker>
+      xlink:href="#linearGradient541" />
     <radialGradient
       id="radialGradient859"
       cx="640.9835205078125"
@@ -298,7 +300,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(1,0,0,1,30.870086669921875,76.026611328125)"
-      xlink:href="#linearGradient407" />
+      xlink:href="#linearGradient541" />
     <radialGradient
       id="radialGradient589"
       cx="640.9835205078125"
@@ -308,7 +310,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(1,0,0,1,-286.9998474121094,1.310791015625)"
-      xlink:href="#linearGradient31" />
+      xlink:href="#linearGradient999" />
     <radialGradient
       id="radialGradient725"
       cx="640.9835205078125"
@@ -318,7 +320,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(1,0,0,1,86.1390380859375,120.26626586914062)"
-      xlink:href="#linearGradient821" />
+      xlink:href="#linearGradient209" />
     <radialGradient
       id="radialGradient337"
       cx="640.9835205078125"
@@ -328,7 +330,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(0.6834532618522644,0,0,0.6785714030265808,112.19415283203125,302.83062744140625)"
-      xlink:href="#linearGradient821" />
+      xlink:href="#linearGradient209" />
     <radialGradient
       id="radialGradient924"
       cx="640.9835205078125"
@@ -338,7 +340,7 @@
       r="45.816368103027344"
       gradientUnits="userSpaceOnUse"
       gradientTransform="matrix(0.6834532618522644,0,0,0.6785714030265808,441.2059326171875,135.3754425048828)"
-      xlink:href="#linearGradient821" />
+      xlink:href="#linearGradient209" />
     <marker
       id="Arrow2Mend428"
       style="overflow:visible"
@@ -347,34 +349,34 @@
       refY="0"
       orient="auto">
       <path
-        id="path"
-        style="fill-rule:evenodd;fill:#FF0000;stroke-width:0.62500000;stroke-linejoin:round;"
+        id="path359"
+        style="stroke-linejoin:round;fill-rule:evenodd;fill:#FF0000;stroke-width:0.62500000;"
         transform="scale(0.6) rotate(180) translate(0,0)"
         d="M 8.718588,4.0337353 L -2.2072895,0.016013255 L 8.718589,-4.001708 C 6.97309,-1.6296469 6.9831476,1.6157441 8.718588,4.0337353 z " />
     </marker>
     <marker
       id="Arrow2Mstart428"
-      inkscape:stockid="Arrow2Mstart"
       style="overflow:visible"
+      inkscape:stockid="Arrow2Mstart"
       refX="0"
       refY="0"
       orient="auto">
       <path
-        id="path"
+        id="path406"
         style="fill:#FF0000;stroke-width:0.62500000;stroke-linejoin:round;fill-rule:evenodd;"
         transform="scale(0.6) translate(0,0)"
         d="M 8.718588,4.0337353 L -2.2072895,0.016013255 L 8.718589,-4.001708 C 6.97309,-1.6296469 6.9831476,1.6157441 8.718588,4.0337353 z " />
     </marker>
     <marker
       id="Arrow2Mend573"
-      inkscape:stockid="Arrow2Mend"
       style="overflow:visible"
+      inkscape:stockid="Arrow2Mend"
       refX="0"
       refY="0"
       orient="auto">
       <path
-        id="path"
-        style="fill-rule:evenodd;fill:#FF0000;stroke-width:0.62500000;stroke-linejoin:round;"
+        id="path671"
+        style="fill:#FF0000;stroke-width:0.62500000;stroke-linejoin:round;fill-rule:evenodd;"
         transform="scale(0.6) rotate(180) translate(0,0)"
         d="M 8.718588,4.0337353 L -2.2072895,0.016013255 L 8.718589,-4.001708 C 6.97309,-1.6296469 6.9831476,1.6157441 8.718588,4.0337353 z " />
     </marker>
@@ -386,8 +388,8 @@
       refY="0"
       orient="auto">
       <path
-        id="path"
-        style="fill:#FF0000;stroke-width:0.62500000;stroke-linejoin:round;fill-rule:evenodd;"
+        id="path264"
+        style="fill-rule:evenodd;fill:#FF0000;stroke-width:0.62500000;stroke-linejoin:round;"
         transform="scale(0.6) rotate(180) translate(0,0)"
         d="M 8.718588,4.0337353 L -2.2072895,0.016013255 L 8.718589,-4.001708 C 6.97309,-1.6296469 6.9831476,1.6157441 8.718588,4.0337353 z " />
     </marker>
@@ -399,21 +401,21 @@
       refY="0"
       orient="auto">
       <path
-        id="path"
-        style="stroke-width:0.62500000;stroke-linejoin:round;fill-rule:evenodd;fill:#FF0000;"
+        id="path616"
+        style="fill-rule:evenodd;fill:#FF0000;stroke-width:0.62500000;stroke-linejoin:round;"
         transform="scale(0.6) rotate(180) translate(0,0)"
         d="M 8.718588,4.0337353 L -2.2072895,0.016013255 L 8.718589,-4.001708 C 6.97309,-1.6296469 6.9831476,1.6157441 8.718588,4.0337353 z " />
     </marker>
     <marker
       id="Arrow2Mend690"
-      inkscape:stockid="Arrow2Mend"
       style="overflow:visible"
+      inkscape:stockid="Arrow2Mend"
       refX="0"
       refY="0"
       orient="auto">
       <path
-        id="path"
-        style="fill:#FF0000;stroke-width:0.62500000;stroke-linejoin:round;fill-rule:evenodd;"
+        id="path565"
+        style="stroke-linejoin:round;fill-rule:evenodd;fill:#FF0000;stroke-width:0.62500000;"
         transform="scale(0.6) rotate(180) translate(0,0)"
         d="M 8.718588,4.0337353 L -2.2072895,0.016013255 L 8.718589,-4.001708 C 6.97309,-1.6296469 6.9831476,1.6157441 8.718588,4.0337353 z " />
     </marker>
@@ -425,7 +427,7 @@
       refY="0"
       orient="auto">
       <path
-        id="path"
+        id="path130"
         style="stroke-width:0.62500000;stroke-linejoin:round;fill-rule:evenodd;fill:#FF0000;"
         transform="scale(0.6) rotate(180) translate(0,0)"
         d="M 8.718588,4.0337353 L -2.2072895,0.016013255 L 8.718589,-4.001708 C 6.97309,-1.6296469 6.9831476,1.6157441 8.718588,4.0337353 z " />
@@ -438,32 +440,107 @@
       refY="0"
       orient="auto">
       <path
-        id="path"
-        style="fill-rule:evenodd;fill:#FF0000;stroke-width:0.62500000;stroke-linejoin:round;"
+        id="path972"
+        style="stroke-linejoin:round;fill-rule:evenodd;fill:#FF0000;stroke-width:0.62500000;"
         transform="scale(0.6) translate(0,0)"
         d="M 8.718588,4.0337353 L -2.2072895,0.016013255 L 8.718589,-4.001708 C 6.97309,-1.6296469 6.9831476,1.6157441 8.718588,4.0337353 z " />
     </marker>
     <marker
-      id="Arrow2Mstart925"
-      style="overflow:visible"
+      id="Arrow2Mstart3"
       inkscape:stockid="Arrow2Mstart"
+      style="overflow:visible"
+      refX="0"
+      refY="0"
+      orient="auto">
+      <path
+        id="path626"
+        style="fill-rule:evenodd;fill:red;stroke-width:0.62500000;stroke-linejoin:round;"
+        transform="scale(0.6) translate(0,0)"
+        d="M 8.718588,4.0337353 L -2.2072895,0.016013255 L 8.718589,-4.001708 C 6.97309,-1.6296469 6.9831476,1.6157441 8.718588,4.0337353 z " />
+    </marker>
+    <radialGradient
+      id="radialGradient409"
+      cx="640.9835205078125"
+      cy="297.8783264160156"
+      fx="640.9835205078125"
+      fy="297.8783264160156"
+      r="45.816368103027344"
+      gradientUnits="userSpaceOnUse"
+      gradientTransform="matrix(1,0,0,1,-210.97323608398438,51.44905090332031)"
+      xlink:href="#linearGradient450" />
+    <marker
+      id="DiamondM261"
+      inkscape:stockid="DiamondM"
+      style="overflow:visible"
+      refX="0"
+      refY="0"
+      orient="auto">
+      <path
+        id="path159"
+        style="stroke-width:1.0pt;fill-rule:evenodd;fill:#FF00FF;stroke:#FF00FF;"
+        transform="scale(0.4)"
+        d="M 0,-7.071077 L -7.0710893,0 L 0,7.0710588 L 7.0710464,0 L 0,-7.071077 z " />
+    </marker>
+    <marker
+      id="DiamondM793"
+      style="overflow:visible"
+      inkscape:stockid="DiamondM"
+      refX="0"
+      refY="0"
+      orient="auto">
+      <path
+        id="path236"
+        style="fill:#FF00FF;stroke:#FF00FF;stroke-width:1.0pt;fill-rule:evenodd;"
+        transform="scale(0.4)"
+        d="M 0,-7.071077 L -7.0710893,0 L 0,7.0710588 L 7.0710464,0 L 0,-7.071077 z " />
+    </marker>
+    <marker
+      id="DiamondM796"
+      inkscape:stockid="DiamondM"
+      style="overflow:visible"
+      refX="0"
+      refY="0"
+      orient="auto">
+      <path
+        id="path896"
+        style="fill-rule:evenodd;fill:#FF00FF;stroke:#FF00FF;stroke-width:1.0pt;"
+        transform="scale(0.4)"
+        d="M 0,-7.071077 L -7.0710893,0 L 0,7.0710588 L 7.0710464,0 L 0,-7.071077 z " />
+    </marker>
+    <marker
+      id="DiamondM564"
+      inkscape:stockid="DiamondM"
+      style="overflow:visible"
+      refX="0"
+      refY="0"
+      orient="auto">
+      <path
+        id="path500"
+        style="stroke:#FF00FF;stroke-width:1.0pt;fill-rule:evenodd;fill:#FF00FF;"
+        transform="scale(0.4)"
+        d="M 0,-7.071077 L -7.0710893,0 L 0,7.0710588 L 7.0710464,0 L 0,-7.071077 z " />
+    </marker>
+    <marker
+      id="Arrow2Mend291"
+      style="overflow:visible"
+      inkscape:stockid="Arrow2Mend"
       refX="0"
       refY="0"
       orient="auto">
       <path
         id="path"
-        style="fill-rule:evenodd;fill:#FF0000;stroke-width:0.62500000;stroke-linejoin:round;"
-        transform="scale(0.6) translate(0,0)"
+        style="stroke-linejoin:round;fill-rule:evenodd;fill:#FF1493;stroke-width:0.62500000;"
+        transform="scale(0.6) rotate(180) translate(0,0)"
         d="M 8.718588,4.0337353 L -2.2072895,0.016013255 L 8.718589,-4.001708 C 6.97309,-1.6296469 6.9831476,1.6157441 8.718588,4.0337353 z " />
     </marker>
   </defs>
   <sodipodi:namedview
     id="namedview979"
-    inkscape:document-units="px"
-    inkscape:current-layer="Layer1"
     inkscape:cx="0"
-    inkscape:zoom="1.811443"
-    inkscape:cy="0">
+    inkscape:cy="0"
+    inkscape:zoom="1.7650671"
+    inkscape:current-layer="Layer1"
+    inkscape:document-units="px">
     <inkscape:grid
       id="grid769"
       units="px"
@@ -474,11 +551,11 @@
   <g
     id="LayerBG"
     inkscape:groupmode="layer"
-    style=""
+    style="display:inline"
     sodipodi:insensitive="true">
     <rect
       id="rect663"
-      style="fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:2px;fill:#FFFFFF;"
+      style="stroke:none;stroke-opacity:1;stroke-width:2px;fill:#FFFFFF;fill-opacity:1;"
       x="2.9990768"
       y="3.31083"
       width="1074.809"
@@ -487,54 +564,137 @@
   <g
     id="Layer1"
     inkscape:groupmode="layer"
-    style="">
+    style="display:inline">
+    <g
+      id="g941"
+      transform="translate(57.788147,0)">
+      <ellipse
+        id="ellipse365"
+        style="fill:url(#radialGradient932);stroke:none;stroke-opacity:1;stroke-width:1px;"
+        cx="879.2882"
+        cy="510.5332"
+        rx="30.94299"
+        ry="30.750387" />
+      <text
+        id="text267"
+        style="fill-opacity:1;font-family:Arial;font-size:24px;text-align:AlignLeft;stroke:none;fill:#000000;"
+        transform="none"
+        x="853.9501"
+        y="517.15314">
+        <tspan
+          id="tspan959"
+          x="853.9501"
+          y="517.15314">MRF</tspan>
+      </text>
+    </g>
+    <g
+      id="g777"
+      transform="translate(119.34119,0)">
+      <ellipse
+        id="ellipse142"
+        style="stroke-width:1px;fill:url(#radialGradient932);stroke:none;stroke-opacity:1;"
+        cx="879.2882"
+        cy="510.5332"
+        rx="30.94299"
+        ry="30.750387" />
+      <text
+        id="text300"
+        style="stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:24px;text-align:AlignLeft;"
+        transform="none"
+        x="855.6497"
+        y="517.15314">
+        <tspan
+          id="tspan905"
+          x="855.6497"
+          y="517.15314">PRF</tspan>
+      </text>
+    </g>
+    <g
+      id="g98"
+      transform="translate(58.071472,0)">
+      <ellipse
+        id="ellipse104"
+        style="stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient924);stroke:none;"
+        cx="879.2882"
+        cy="337.50708"
+        rx="30.94299"
+        ry="30.750387" />
+      <text
+        id="text164"
+        style="font-family:Arial;font-size:24px;text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;"
+        transform="none"
+        x="855.0832"
+        y="344.127">
+        <tspan
+          id="tspan750"
+          x="855.0832"
+          y="344.127">MCN</tspan>
+      </text>
+    </g>
+    <g
+      id="g498"
+      transform="translate(119.8255,0)">
+      <ellipse
+        id="ellipse862"
+        style="stroke-width:1px;fill:url(#radialGradient924);stroke:none;stroke-opacity:1;"
+        cx="879.2882"
+        cy="337.50708"
+        rx="30.94299"
+        ry="30.750387" />
+      <text
+        id="text504"
+        style="font-family:Arial;font-size:24px;text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;"
+        transform="none"
+        x="861.8818"
+        y="344.127">
+        <tspan
+          id="tspan630"
+          x="861.8818"
+          y="344.127">ICN</tspan>
+      </text>
+    </g>
     <path
-      id="path261"
-      style="marker-end:url(#DiamondM124);stroke:#008000;stroke-opacity:1;stroke-width:2px;fill:none;"
-      transform="matrix(-1,8.742278e-08,-8.742278e-08,-1,1549.5042,628.5304)"
-      d="m 899.19305,230.83243 84.49219,281.03635 " />
-    <path
-      id="path428"
-      style="stroke:#FF0000;marker-start:url(#Arrow2Mstart428);stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend428);"
+      id="path7"
+      style="marker-start:url(#Arrow2Mstart428);stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend428);stroke:#FF0000;"
       transform="matrix(-1,8.742278e-08,-8.742278e-08,-1,1334.7717,582.65234)"
       d="m 708.5971,243.91525 229.86536,226.66321 " />
     <ellipse
       id="ellipse480"
-      style="stroke:none;stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient506);"
+      style="stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient506);stroke:none;"
       cx="553.85693"
       cy="466.2257"
       rx="31.59442"
       ry="31.623646" />
     <ellipse
       id="ellipse370"
-      style="stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient827);stroke:none;"
+      style="stroke:none;stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient827);"
       cx="505.01904"
       cy="393.0959"
       rx="45.27448"
       ry="45.31636" />
     <ellipse
       id="ellipse295"
-      style="stroke-width:1px;fill:url(#radialGradient98);stroke:none;stroke-opacity:1;"
+      style="stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient98);stroke:none;"
       cx="440.13428"
       cy="442.7221"
       rx="45.27448"
       ry="45.31636" />
     <ellipse
       id="ellipse647"
-      style="stroke:none;stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient394);"
+      style="fill:url(#radialGradient394);stroke:none;stroke-opacity:1;stroke-width:1px;"
       cx="373.93866"
       cy="416.50604"
       rx="45.27448"
       ry="45.31636" />
     <ellipse
       id="ellipse747"
-      style="stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient289);stroke:none;"
+      style="fill:url(#radialGradient289);stroke:none;stroke-opacity:1;stroke-width:1px;"
       cx="335.26993"
       cy="363.4185"
       rx="45.27448"
       ry="45.31636" />
     <ellipse
-      id="ellipse565"
+      id="ellipse936"
       style="stroke-width:1px;fill:url(#radialGradient309);stroke:none;stroke-opacity:1;"
       cx="516.8509"
       cy="529.8911"
@@ -549,42 +709,42 @@
       ry="45.31636" />
     <ellipse
       id="ellipse666"
-      style="fill:url(#radialGradient589);stroke:none;stroke-opacity:1;stroke-width:1px;"
+      style="stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient589);stroke:none;"
       cx="353.98367"
       cy="299.1891"
       rx="45.27448"
       ry="45.31636" />
     <ellipse
       id="ellipse220"
-      style="fill:url(#radialGradient859);stroke:none;stroke-opacity:1;stroke-width:1px;"
+      style="stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient859);stroke:none;"
       cx="671.8536"
       cy="373.90494"
       rx="45.27448"
       ry="45.31636" />
     <ellipse
       id="ellipse818"
-      style="stroke-width:1px;fill:url(#radialGradient940);stroke:none;stroke-opacity:1;"
+      style="stroke:none;stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient940);"
       cx="407.72662"
       cy="262.4866"
       rx="45.27448"
       ry="45.31636" />
     <ellipse
-      id="ellipse797"
-      style="stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient829);stroke:none;"
+      id="ellipse462"
+      style="stroke:none;stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient409);"
       cx="430.0103"
       cy="349.3274"
       rx="45.27448"
       ry="45.31636" />
     <ellipse
       id="ellipse137"
-      style="stroke:none;stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient640);"
+      style="stroke-width:1px;fill:url(#radialGradient640);stroke:none;stroke-opacity:1;"
       cx="658.43646"
       cy="442.39447"
       rx="45.27448"
       ry="45.31636" />
     <ellipse
       id="ellipse645"
-      style="stroke-width:1px;fill:url(#radialGradient151);stroke:none;stroke-opacity:1;"
+      style="stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient151);stroke:none;"
       transform="matrix(0.058721982,-0.9982743,0.9982743,0.05872199,374.26648,1129.746)"
       cx="826.4231"
       cy="251.01709"
@@ -592,49 +752,28 @@
       ry="45.31636" />
     <ellipse
       id="ellipse276"
-      style="stroke:none;stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient725);"
+      style="fill:url(#radialGradient725);stroke:none;stroke-opacity:1;stroke-width:1px;"
       cx="727.12256"
       cy="418.1446"
       rx="45.27448"
       ry="45.31636" />
     <ellipse
-      id="ellipse365"
-      style="fill:url(#radialGradient932);stroke:none;stroke-opacity:1;stroke-width:1px;"
-      cx="879.2882"
-      cy="510.5332"
-      rx="30.94299"
-      ry="30.750387" />
-    <ellipse
-      id="ellipse104"
-      style="stroke:none;stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient924);"
-      cx="879.2882"
-      cy="337.50708"
-      rx="30.94299"
-      ry="30.750387" />
-    <ellipse
       id="ellipse195"
-      style="stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient337);stroke:none;"
+      style="stroke:none;stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient337);"
       cx="550.2765"
       cy="504.9623"
       rx="30.94299"
       ry="30.750387" />
-    <ellipse
-      id="ellipse144"
-      style="fill:url(#radialGradient822);stroke:none;stroke-opacity:1;stroke-width:1px;"
-      cx="486.37488"
-      cy="285.4257"
-      rx="45.27448"
-      ry="45.31636" />
     <rect
       id="rect728"
-      style="stroke-opacity:1;stroke-width:2px;fill:#6495ED;fill-opacity:1;stroke:#000000;"
+      style="fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2px;fill:#FF4500;"
       x="226.3161"
       y="480.62967"
       width="141.71776"
       height="59.239487" />
     <text
       id="text150"
-      style="text-align:AlignLeft;font-family:Arial;font-size:24px;stroke:none;fill:#000000;fill-opacity:1;"
+      style="font-family:Arial;font-size:24px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;"
       transform="none"
       x="289.68832"
       y="-375.00464">
@@ -645,56 +784,67 @@
     </text>
     <text
       id="text360"
-      style="stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:24px;"
+      style="fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:24px;stroke:none;fill:#000000;"
       transform="none"
       x="74.71651"
       y="-325.1941">
       <tspan
-        id="tspan947"
+        id="tspan257"
         x="122.75154"
         y="74.57462">Anterior Motor</tspan>
     </text>
     <text
       id="text351"
-      style="fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:24px;stroke:none;"
+      style="font-family:Arial;font-size:24px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;"
       transform="none"
       x="247.74261"
       y="-184.28264">
       <tspan
-        id="tspan947"
+        id="tspan149"
         x="295.77765"
         y="215.48604">Striatum</tspan>
     </text>
     <text
       id="text812"
-      style="fill:#008000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:18px;stroke:none;"
+      style="fill:#FF00FF;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:18px;stroke:none;"
       transform="none"
       x="470.75574"
       y="-283.77768">
       <tspan
-        id="tspan947"
+        id="tspan347"
         x="518.7908"
         y="115.991">Gate</tspan>
     </text>
     <text
       id="text758"
-      style="font-size:18px;stroke:none;fill:#008000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
+      style="stroke:none;fill:#FF00FF;fill-opacity:1;stroke-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:18px;"
       transform="none"
-      x="744.5373"
-      y="126.3779">
+      x="694.11426"
+      y="145.07408">
       <tspan
-        id="tspan947"
-        x="792.5723"
-        y="526.1466">Gate</tspan>
+        id="tspan112"
+        x="742.1493"
+        y="544.8428">Selection</tspan>
     </text>
     <text
-      id="text519"
-      style="font-size:18px;stroke:none;fill:#008000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
+      id="text35"
+      style="text-align:AlignLeft;font-family:Arial;font-size:18px;stroke:none;fill:#FF00FF;fill-opacity:1;stroke-opacity:1;"
+      transform="none"
+      x="694.11426"
+      y="126.94445">
+      <tspan
+        id="tspan112"
+        x="742.1493"
+        y="526.71313">Modulation</tspan>
+    </text>
+    <text
+      id="text792"
+      style="font-size:18px;stroke:none;fill:#FF00FF;fill-opacity:1;stroke-opacity:1;text-align:AlignLeft;font-family:Arial;"
       transform="none"
       x="237.54245"
       y="-267.31702">
       <tspan
-        id="tspan947"
+        id="tspan770"
         x="285.57748"
         y="132.45168">Gate</tspan>
     </text>
@@ -702,32 +852,43 @@
       id="text686"
       style="fill:#FF0000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:18px;stroke:none;"
       transform="none"
-      x="833.1693"
-      y="27.52898">
+      x="847.753"
+      y="30.645039">
       <tspan
-        id="tspan947"
-        x="881.20435"
-        y="427.29767">Efferent Copy</tspan>
+        id="tspan245"
+        x="895.788"
+        y="430.41373">(plus phase)</tspan>
+    </text>
+    <text
+      id="text706"
+      style="font-size:18px;stroke:none;fill:#FF0000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
+      transform="none"
+      x="847.753"
+      y="10.532492">
+      <tspan
+        id="tspan880"
+        x="895.788"
+        y="410.30118">Efferent Copy</tspan>
     </text>
     <text
       id="text864"
-      style="fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:24px;stroke:none;"
+      style="fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:24px;stroke:none;fill:#000000;"
       transform="none"
       x="835.1015"
       y="178.7896">
       <tspan
-        id="tspan947"
+        id="tspan609"
         x="883.13654"
         y="578.5583">Brainstem</tspan>
     </text>
     <text
       id="text784"
-      style="font-size:24px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
+      style="fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:24px;stroke:none;fill:#000000;"
       transform="none"
       x="827.8921"
       y="-117.452095">
       <tspan
-        id="tspan947"
+        id="tspan907"
         x="875.9271"
         y="282.31662">Cerebellum</tspan>
     </text>
@@ -736,49 +897,49 @@
       transform="translate(-372.55493,292.41013)">
       <text
         id="text158"
-        style="font-family:Arial;font-size:24px;stroke:none;fill:#008000;fill-opacity:1;text-align:AlignLeft;"
+        style="fill:#FF00FF;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:24px;stroke:none;"
         transform="none"
         x="790.4176"
         y="-113.29855">
         <tspan
-          id="tspan947"
+          id="tspan424"
           x="838.45264"
           y="286.47012">Disinhibitory</tspan>
       </text>
       <text
         id="text75"
-        style="fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:24px;stroke:none;fill:#008000;"
+        style="fill:#FF00FF;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:24px;stroke:none;"
         transform="none"
         x="790.4176"
         y="-89.47624">
         <tspan
-          id="tspan947"
+          id="tspan147"
           x="838.45264"
-          y="310.2925">Gating (timing)</tspan>
+          y="310.2925">Modulation (selection, gating)</tspan>
       </text>
     </g>
     <g
-      id="g424"
-      transform="translate(-86.44684,5.041565)">
+      id="g255"
+      transform="translate(-77.38202,4.475006)">
       <text
-        id="text158"
-        style="fill:#FF0000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:24px;stroke:none;"
+        id="text432"
+        style="font-size:24px;stroke:none;fill:#FF0000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
         transform="none"
         x="790.4176"
         y="-113.29855">
         <tspan
-          id="tspan947"
+          id="tspan76"
           x="838.4526"
           y="286.47015">Specific</tspan>
       </text>
       <text
-        id="text75"
-        style="font-size:24px;stroke:none;fill:#FF0000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
+        id="text543"
+        style="fill:#FF0000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:24px;stroke:none;"
         transform="none"
         x="790.4176"
         y="-89.47624">
         <tspan
-          id="tspan947"
+          id="tspan211"
           x="838.4526"
           y="310.29245">Params</tspan>
       </text>
@@ -788,44 +949,44 @@
       style="fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:24px;stroke:none;fill:#000000;"
       transform="none"
       x="579.8225"
-      y="101.47261">
+      y="-117.228546">
       <tspan
-        id="tspan947"
+        id="tspan644"
         x="627.8575"
-        y="501.24127">Thalamus</tspan>
+        y="282.5401">Thalamus</tspan>
     </text>
     <text
       id="text289"
-      style="fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:24px;stroke:none;"
+      style="font-family:Arial;font-size:24px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;"
       transform="none"
       x="392.58646"
       y="125.067085">
       <tspan
-        id="tspan947"
+        id="tspan775"
         x="440.62146"
         y="524.83575">SNr</tspan>
     </text>
     <text
-      id="text500"
-      style="text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;fill:#000000;fill-opacity:1;"
+      id="text448"
+      style="font-family:Arial;font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;"
       transform="none"
-      x="218.90494"
-      y="122.69943">
+      x="220.88786"
+      y="122.98269">
       <tspan
-        id="tspan947"
-        x="266.9399"
-        y="522.4681">AIC</tspan>
+        id="tspan83"
+        x="268.92285"
+        y="522.75134">aIC</tspan>
     </text>
     <rect
       id="rect186"
-      style="fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2px;fill:#1E90FF;"
+      style="fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2px;fill:#FFA500;"
       x="118.14604"
       y="384.69522"
       width="141.71776"
       height="59.239487" />
     <text
       id="text820"
-      style="font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
+      style="fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;fill:#000000;"
       transform="none"
       x="210.057"
       y="122.69944">
@@ -836,14 +997,14 @@
     </text>
     <rect
       id="rect634"
-      style="stroke:#000000;stroke-opacity:1;stroke-width:2px;fill:#00CED1;fill-opacity:1;"
+      style="stroke-width:2px;fill:#FFD700;fill-opacity:1;stroke:#000000;stroke-opacity:1;"
       x="70.13168"
       y="289.07205"
       width="141.71776"
       height="59.239487" />
     <text
       id="text596"
-      style="fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;"
+      style="stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:36px;"
       transform="none"
       x="199.89828"
       y="122.69943">
@@ -854,7 +1015,7 @@
     </text>
     <rect
       id="rect201"
-      style="stroke-opacity:1;stroke-width:2px;fill:#EE82EE;fill-opacity:1;stroke:#000000;"
+      style="stroke:#000000;stroke-opacity:1;stroke-width:2px;fill:#32CD32;fill-opacity:1;"
       x="22.569946"
       y="193.07202"
       width="141.71776"
@@ -872,14 +1033,14 @@
     </text>
     <rect
       id="rect633"
-      style="stroke:#000000;stroke-opacity:1;stroke-width:2px;fill:#FFD700;fill-opacity:1;"
+      style="stroke-opacity:1;stroke-width:2px;fill:#48D1CC;fill-opacity:1;stroke:#000000;"
       x="130.1972"
       y="96.760704"
       width="141.71776"
       height="59.239487" />
     <text
       id="text464"
-      style="fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;"
+      style="text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;fill:#000000;fill-opacity:1;"
       transform="none"
       x="210.057"
       y="122.69944">
@@ -890,14 +1051,14 @@
     </text>
     <rect
       id="rect544"
-      style="stroke-width:2px;fill:#FF8C00;fill-opacity:1;stroke:#000000;stroke-opacity:1;"
+      style="stroke-opacity:1;stroke-width:2px;fill:#6495ED;fill-opacity:1;stroke:#000000;"
       x="310.75424"
       y="46.591724"
       width="141.71776"
       height="59.239487" />
     <text
       id="text235"
-      style="fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;fill:#000000;"
+      style="fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;"
       transform="none"
       x="210.19421"
       y="108.280594">
@@ -908,14 +1069,14 @@
     </text>
     <rect
       id="rect442"
-      style="fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2px;fill:#FF0000;"
+      style="fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2px;fill:#7B68EE;"
       x="490.62122"
       y="37.09042"
       width="141.71776"
       height="59.239487" />
     <text
       id="text568"
-      style="text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;fill:#000000;fill-opacity:1;"
+      style="fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;fill:#000000;"
       transform="none"
       x="525.11694"
       y="83.563736">
@@ -926,7 +1087,7 @@
     </text>
     <ellipse
       id="ellipse957"
-      style="stroke-opacity:1;stroke-width:2px;fill:none;stroke:#000000;"
+      style="stroke:#000000;stroke-opacity:1;stroke-width:2px;fill:none;"
       transform="matrix(0.8196056,0.5729282,-0.5729282,0.8196056,308.3413,-293.0598)"
       cx="640.6485"
       cy="511.1337"
@@ -934,7 +1095,7 @@
       ry="66.837036" />
     <ellipse
       id="ellipse309"
-      style="stroke-opacity:1;stroke-width:2px;fill:none;stroke:#000000;"
+      style="stroke-width:2px;fill:none;stroke:#000000;stroke-opacity:1;"
       cx="680.68463"
       cy="387.0146"
       rx="93.843765"
@@ -948,84 +1109,142 @@
       ry="133.26506" />
     <path
       id="path964"
-      style="fill:none;marker-end:url(#Arrow2Mend);stroke:#000000;stroke-opacity:1;stroke-width:2px;"
+      style="stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend);stroke:#000000;"
       d="m 379.90448,107.678314 24.850494,132.91556 " />
     <path
       id="path221"
-      style="fill:none;marker-end:url(#Arrow2Mend);stroke:#000000;stroke-opacity:1;stroke-width:2px;"
+      style="stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend);stroke:#000000;"
       d="m 214.70016,158.08282 128.40411,128.98312 " />
     <path
       id="path234"
-      style="fill:none;marker-end:url(#Arrow2Mend);stroke:#000000;stroke-opacity:1;stroke-width:2px;"
+      style="marker-end:url(#Arrow2Mend);stroke:#000000;stroke-opacity:1;stroke-width:2px;fill:none;"
       d="m 499.61566,194.12993 -66.90558,132.91557 " />
     <path
       id="path304"
-      style="stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend);stroke:#000000;"
+      style="fill:none;marker-end:url(#Arrow2Mend);stroke:#000000;stroke-opacity:1;stroke-width:2px;"
       d="m 166.01607,221.65681 161.82967,127.01695 " />
     <path
       id="path97"
-      style="stroke:#000000;stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend);"
+      style="marker-end:url(#Arrow2Mend);stroke:#000000;stroke-opacity:1;stroke-width:2px;fill:none;"
       d="m 214.19016,319.3117 143.47842,83.76041 " />
+    <g
+      id="g909">
+      <ellipse
+        id="ellipse467"
+        style="stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient924);stroke:none;"
+        cx="879.2882"
+        cy="337.50708"
+        rx="30.94299"
+        ry="30.750387" />
+      <text
+        id="text795"
+        style="fill:#000000;fill-opacity:1;font-family:Arial;font-size:24px;text-align:AlignLeft;stroke:none;"
+        transform="none"
+        x="855.0832"
+        y="344.127">
+        <tspan
+          id="tspan497"
+          x="855.0832"
+          y="344.127">LCN</tspan>
+      </text>
+    </g>
     <path
-      id="path816"
+      id="path132"
+      style="stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend816);stroke:#FF0000;"
+      transform="matrix(-1,8.742278e-08,-8.742278e-08,-1,1539.2046,574.61554)"
+      d="m 683.8658,224.87839 98.611084,-58.406464 " />
+    <path
+      id="path881"
       style="stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend816);stroke:#FF0000;stroke-opacity:1;"
       transform="matrix(-1,8.742278e-08,-8.742278e-08,-1,1535.0173,567.25037)"
-      d="m 681.5996,220.34598 100.87726,-53.874054 " />
+      d="m 673.1014,207.88187 186.99292,-122.426674 " />
     <path
-      id="path573"
-      style="stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend573);stroke:#FF0000;"
+      id="path240"
+      style="marker-end:url(#Arrow2Mend573);stroke:#FF0000;stroke-opacity:1;stroke-width:2px;fill:none;"
       transform="matrix(-1,8.742278e-08,-8.742278e-08,-1,1535.0173,555.4531)"
       d="m 681.5996,220.34598 144.13373,16.909363 " />
     <path
-      id="path690"
-      style="fill:none;marker-end:url(#Arrow2Mend690);stroke:#FF0000;stroke-opacity:1;stroke-width:2px;"
-      transform="matrix(-1,8.742278e-08,-8.742278e-08,-1,1326.5996,537.42957)"
-      d="m 681.5996,220.34598 104.154236,-1.4418945 " />
-    <path
-      id="path807"
-      style="stroke:#FF0000;stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend807);marker-start:url(#Arrow2Mstart807);"
+      id="path649"
+      style="fill:none;marker-end:url(#Arrow2Mend807);marker-start:url(#Arrow2Mstart807);stroke:#FF0000;stroke-opacity:1;stroke-width:2px;"
       transform="matrix(-1,8.742278e-08,-8.742278e-08,-1,1405.9033,617.3886)"
       d="m 681.5996,220.34598 138.2351,289.55658 " />
     <path
-      id="path494"
-      style="stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#DiamondM494);stroke:#008000;"
+      id="path540"
+      style="stroke:#FF00FF;stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#DiamondM564);"
       transform="matrix(-1,8.742278e-08,-8.742278e-08,-1,1596.6355,1024.3932)"
       d="m 1016.50995,540.8375 -53.142273,26.740417 " />
+    <g
+      id="g552">
+      <ellipse
+        id="ellipse769"
+        style="stroke-width:1px;fill:url(#radialGradient932);stroke:none;stroke-opacity:1;"
+        cx="879.2882"
+        cy="510.5332"
+        rx="30.94299"
+        ry="30.750387" />
+      <text
+        id="text614"
+        style="text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:24px;"
+        transform="none"
+        x="859.6156"
+        y="517.15314">
+        <tspan
+          id="tspan738"
+          x="859.6156"
+          y="517.15314">SC</tspan>
+      </text>
+    </g>
     <path
-      id="path796"
-      style="stroke:#008000;stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#DiamondM494);"
+      id="path335"
+      style="stroke-width:2px;fill:none;marker-end:url(#DiamondM796);stroke:#FF00FF;stroke-opacity:1;"
       transform="matrix(-1,8.742278e-08,-8.742278e-08,-1,1606.4563,1047.3323)"
       d="m 1023.06396,537.56055 -266.1479,-0.13110352 " />
     <path
-      id="path761"
-      style="stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend);stroke:#000000;stroke-opacity:1;"
-      d="m 496.18707,302.92667 35.337036,186.00308 " />
+      id="path316"
+      style="stroke:#FF0000;stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend925);"
+      d="m 856.4533,490.76044 -182.4336,-0.19903564 " />
     <path
-      id="path925"
-      style="marker-start:url(#Arrow2Mstart925);fill:none;marker-end:url(#Arrow2Mend925);stroke:#FF0000;stroke-opacity:1;stroke-width:2px;"
-      d="m 875.5009,489.0608 -0.004272461,-130.50568 " />
+      id="path280"
+      style="fill:none;marker-end:url(#Arrow2Mend925);stroke:#FF0000;stroke-opacity:1;stroke-width:2px;"
+      d="m 887.6136,489.0608 -0.004272461,-130.50568 " />
+    <path
+      id="path604"
+      style="stroke-width:2px;marker-start:url(#Arrow2Mstart3);fill:none;stroke:#FF0000;stroke-opacity:1;"
+      d="m 873.2347,489.0608 -0.004272461,-130.50568 " />
+    <path
+      id="path733"
+      style="stroke-opacity:1;stroke-width:2px;marker-start:url(#Arrow2Mstart3);fill:none;stroke:#FF0000;"
+      d="m 849.4396,481.69562 -221.52557,-382.62073 " />
     <path
       id="path291"
-      style="stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend);stroke:#000000;"
+      style="stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend291);stroke:#FF1493;stroke-opacity:1;"
+      d="m 642.4513,481.4527 -95.092834,-75.44476 " />
+    <path
+      id="path736"
+      style="stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend);stroke:#000000;stroke-opacity:1;"
       d="m 262.2086,411.7234 156.5864,31.328217 " />
     <path
       id="path764"
       style="stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend);stroke:#000000;stroke-opacity:1;"
+      d="m 587.3522,490.46756 47.68573,-4.717224 " />
+    <path
+      id="path756"
+      style="stroke:#000000;stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend);"
       d="m 368.4021,510.6891 134.30267,-88.61032 " />
     <text
       id="text996"
-      style="fill-opacity:1;font-family:Arial;font-size:24px;text-align:AlignLeft;stroke:none;fill:#000000;"
+      style="stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:24px;text-align:AlignLeft;"
       transform="none"
-      x="337.65775"
-      y="426.74246">
+      x="342.7567"
+      y="429.57523">
       <tspan
         id="tspan765"
-        x="337.65775"
-        y="426.74246">VMS</tspan>
+        x="342.7567"
+        y="429.57523">VMS</tspan>
     </text>
     <text
-      id="text691"
-      style="font-family:Arial;font-size:24px;text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;"
+      id="text902"
+      style="stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:24px;text-align:AlignLeft;"
       transform="none"
       x="413.23578"
       y="357.32925">
@@ -1036,7 +1255,7 @@
     </text>
     <text
       id="text888"
-      style="text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:24px;"
+      style="fill:#000000;fill-opacity:1;font-family:Arial;font-size:24px;text-align:AlignLeft;stroke:none;"
       transform="none"
       x="421.1006"
       y="450.99234">
@@ -1074,18 +1293,18 @@
       x="586.9173"
       y="399.87097">
       <tspan
-        id="tspan487"
+        id="tspan380"
         x="586.9173"
         y="399.87097">VA/M</tspan>
     </text>
     <text
-      id="text671"
+      id="text477"
       style="text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:24px;"
       transform="none"
       x="318.85788"
       y="312.04712">
       <tspan
-        id="tspan487"
+        id="tspan151"
         x="318.85788"
         y="312.04712">DMS</tspan>
     </text>
@@ -1102,18 +1321,18 @@
     </text>
     <text
       id="text642"
-      style="text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:24px;"
+      style="font-size:24px;text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;"
       transform="none"
       x="388.9859"
       y="270.7568">
       <tspan
-        id="tspan993"
+        id="tspan569"
         x="388.9859"
         y="270.7568">DS</tspan>
     </text>
     <text
       id="text199"
-      style="font-size:24px;text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;"
+      style="font-family:Arial;font-size:24px;text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;"
       transform="none"
       x="640.7075"
       y="451.32007">
@@ -1124,47 +1343,25 @@
     </text>
     <text
       id="text715"
-      style="stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:24px;text-align:AlignLeft;"
+      style="font-family:Arial;font-size:24px;text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;"
       transform="none"
       x="653.4878"
       y="327.7768">
       <tspan
-        id="tspan518"
+        id="tspan288"
         x="653.4878"
         y="327.7768">CL</tspan>
     </text>
     <text
       id="text180"
-      style="fill-opacity:1;font-family:Arial;font-size:24px;text-align:AlignLeft;stroke:none;fill:#000000;"
+      style="font-family:Arial;font-size:24px;text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;"
       transform="none"
       x="720.9942"
       y="426.4148">
       <tspan
-        id="tspan518"
+        id="tspan79"
         x="720.9942"
         y="426.4148">VL</tspan>
-    </text>
-    <text
-      id="text267"
-      style="stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:24px;text-align:AlignLeft;"
-      transform="none"
-      x="859.6156"
-      y="517.15314">
-      <tspan
-        id="tspan518"
-        x="859.6156"
-        y="517.15314">SC</tspan>
-    </text>
-    <text
-      id="text164"
-      style="stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:24px;text-align:AlignLeft;"
-      transform="none"
-      x="859.6156"
-      y="344.127">
-      <tspan
-        id="tspan518"
-        x="859.6156"
-        y="344.127">LCN</tspan>
     </text>
     <text
       id="text430"
@@ -1173,24 +1370,13 @@
       x="530.6039"
       y="511.58224">
       <tspan
-        id="tspan518"
+        id="tspan110"
         x="530.6039"
         y="511.58224">DLS</tspan>
     </text>
     <text
-      id="text200"
-      style="stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:24px;text-align:AlignLeft;"
-      transform="none"
-      x="466.3745"
-      y="291.07428">
-      <tspan
-        id="tspan518"
-        x="466.3745"
-        y="291.07428">DLS</tspan>
-    </text>
-    <text
       id="text193"
-      style="text-align:AlignLeft;font-family:Arial;font-size:24px;stroke:none;fill:#000000;fill-opacity:1;"
+      style="font-size:24px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
       transform="none"
       x="536.18506"
       y="470.59094">
@@ -1203,57 +1389,122 @@
       id="text927"
       style="text-align:AlignLeft;font-family:Arial;font-size:24px;stroke:none;fill:#000000;fill-opacity:1;"
       transform="none"
-      x="476.54346"
-      y="409.95395">
+      x="479.37622"
+      y="403.15533">
       <tspan
-        id="tspan832"
-        x="476.54346"
-        y="409.95395">VLS</tspan>
+        id="tspan450"
+        x="479.37622"
+        y="403.15533">VLS</tspan>
     </text>
-    <path
-      id="path583"
-      style="marker-end:url(#Arrow2Mend);stroke:#000000;stroke-opacity:1;stroke-width:2px;fill:none;"
-      d="m 613.6905,96.53648 -109.506775,168.96268 " />
-    <g
-      id="g134"
-      transform="translate(-133.6358,0.2642212)">
-      <rect
-        id="rect992"
-        style="fill:#DDA0DD;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2px;"
-        x="565.0168"
-        y="133.07202"
-        width="141.71776"
-        height="59.239487" />
-      <text
-        id="text125"
-        style="font-family:Arial;font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;"
-        transform="none"
-        x="296.50385"
-        y="122.69944">
-        <tspan
-          id="tspan950"
-          x="596.79266"
-          y="174.91043">ACC</tspan>
-      </text>
-    </g>
     <ellipse
       id="ellipse975"
-      style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:2px;"
+      style="stroke-width:2px;fill:none;stroke:#000000;stroke-opacity:1;"
       cx="937.291"
       cy="510.4295"
       rx="100.87348"
       ry="42.601128" />
     <ellipse
       id="ellipse361"
-      style="stroke-opacity:1;stroke-width:2px;fill:none;stroke:#000000;"
+      style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:2px;"
       cx="937.291"
       cy="337.73108"
       rx="100.87348"
       ry="42.601128" />
     <path
-      id="path124"
-      style="stroke:#008000;stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#DiamondM124);"
+      id="path533"
+      style="stroke-width:2px;fill:none;marker-end:url(#DiamondM793);stroke:#FF00FF;stroke-opacity:1;"
       transform="matrix(-1,8.742278e-08,-8.742278e-08,-1,1315.404,633.6009)"
       d="m 682.255,222.31218 301.43024,289.5566 " />
+    <path
+      id="path688"
+      style="stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#DiamondM261);stroke:#FF00FF;"
+      transform="matrix(-1,8.742278e-08,-8.742278e-08,-1,1549.5042,628.5304)"
+      d="m 899.19305,230.83243 84.49219,281.03635 " />
+    <g
+      id="g134"
+      transform="translate(-133.6358,0.2642212)">
+      <rect
+        id="rect992"
+        style="stroke:#000000;stroke-opacity:1;stroke-width:2px;fill:#DDA0DD;fill-opacity:1;"
+        x="565.0168"
+        y="133.07202"
+        width="141.71776"
+        height="59.239487" />
+      <text
+        id="text125"
+        style="font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
+        transform="none"
+        x="287.43903"
+        y="122.98271">
+        <tspan
+          id="tspan950"
+          x="587.72784"
+          y="175.19371">dACC</tspan>
+      </text>
+    </g>
+    <ellipse
+      id="ellipse144"
+      style="stroke:none;stroke-opacity:1;stroke-width:1px;fill:url(#radialGradient822);"
+      cx="486.37488"
+      cy="285.4257"
+      rx="45.27448"
+      ry="45.31636" />
+    <text
+      id="text200"
+      style="font-family:Arial;font-size:24px;text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;"
+      transform="none"
+      x="466.3745"
+      y="291.07428">
+      <tspan
+        id="tspan554"
+        x="466.3745"
+        y="291.07428">DLS</tspan>
+    </text>
+    <path
+      id="path740"
+      style="fill:none;marker-end:url(#Arrow2Mend690);stroke:#FF0000;stroke-opacity:1;stroke-width:2px;"
+      transform="matrix(-1,8.742278e-08,-8.742278e-08,-1,1326.5996,537.42957)"
+      d="m 681.5996,220.34598 121.8197,26.712463 " />
+    <path
+      id="path761"
+      style="stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend);stroke:#000000;"
+      d="m 496.18707,302.92667 35.337036,186.00308 " />
+    <path
+      id="path583"
+      style="stroke-opacity:1;stroke-width:2px;fill:none;marker-end:url(#Arrow2Mend);stroke:#FF00FF;"
+      d="m 613.6905,96.53648 -109.506775,168.96268 " />
+    <g
+      id="g528"
+      transform="translate(33.426514,8.30954)">
+      <ellipse
+        id="ellipse797"
+        style="fill:url(#radialGradient829);stroke:none;stroke-opacity:1;stroke-width:1px;"
+        cx="621.8368"
+        cy="477.58954"
+        rx="17.591873"
+        ry="17.49878" />
+      <text
+        id="text691"
+        style="text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:18px;"
+        transform="none"
+        x="610.7256"
+        y="483.10352">
+        <tspan
+          id="tspan483"
+          x="610.7256"
+          y="483.10352">PF</tspan>
+      </text>
+    </g>
+    <text
+      id="text519"
+      style="stroke:none;fill:#FF00FF;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:14px;"
+      transform="none"
+      x="508.83307"
+      y="15.958355">
+      <tspan
+        id="tspan302"
+        x="556.86816"
+        y="415.72705">Copy</tspan>
+    </text>
   </g>
 </svg>
