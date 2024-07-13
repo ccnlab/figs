@@ -10,11 +10,11 @@
     id="Defs" />
   <sodipodi:namedview
     id="namedview326"
+    inkscape:current-layer="Layer1"
     inkscape:cx="0"
     inkscape:cy="0"
     inkscape:zoom="2.0526905"
-    inkscape:document-units="pt"
-    inkscape:current-layer="Layer1">
+    inkscape:document-units="pt">
     <inkscape:grid
       id="grid822"
       spacingx="12"
@@ -29,7 +29,7 @@
     sodipodi:insensitive="true">
     <rect
       id="rect545"
-      style="stroke:none;stroke-opacity:1;stroke-width:1px;fill:#FFFFFF;fill-opacity:1;"
+      style="stroke-width:1px;fill:#FFFFFF;fill-opacity:1;stroke:none;stroke-opacity:1;"
       x="11.443651"
       y="8.114198"
       width="1061.1742"
@@ -41,19 +41,19 @@
     style="">
     <text
       id="text408"
-      style="fill:#191B22;font-family:Liberation Sans;font-variant:normal;font-weight:normal;stroke-width:2px;font-style:normal;font-size:12px;"
+      style="font-weight:normal;stroke-width:2px;font-style:normal;font-size:12px;fill:#191B22;font-family:Liberation Sans;font-variant:normal;"
       transform="translate(0,753.38)"
       x="540.58"
       y="-731.65" />
     <text
       id="text768"
-      style="font-style:normal;font-size:12px;fill:#191B22;font-family:Liberation Sans;stroke-width:2px;font-variant:normal;font-weight:normal;"
+      style="font-family:Liberation Sans;stroke-width:2px;font-variant:normal;font-weight:normal;font-style:normal;font-size:12px;fill:#191B22;"
       transform="translate(0,753.38)"
       x="563.8"
       y="8.320313" />
     <path
       id="path841"
-      style="stroke:#191B22;stroke-width:2px;fill:none;"
+      style="fill:none;stroke:#191B22;stroke-width:2px;"
       transform="translate(0,753.38) scale(1,-1)"
       d="M 216.03,12.578002 L 216.03,20.578003 " />
     <path
@@ -78,12 +78,12 @@
       d="M 652.83,16.578003 L 652.83,20.578003 " />
     <path
       id="path255"
-      style="stroke:#191B22;stroke-width:2px;fill:none;"
+      style="fill:none;stroke:#191B22;stroke-width:2px;"
       transform="translate(0,753.38) scale(1,-1)"
       d="M 798.42,16.578003 L 798.42,20.578003 " />
     <path
       id="path703"
-      style="fill:none;stroke:#191B22;stroke-width:2px;"
+      style="stroke:#191B22;stroke-width:2px;fill:none;"
       transform="translate(0,753.38) scale(1,-1)"
       d="M 70.435005,20.578003 L 1060.5,20.578003 " />
     <g
@@ -91,14 +91,14 @@
       transform="matrix(-4.371139e-08,1,1,4.371139e-08,-753.38,-3.2931286e-05)">
       <text
         id="text872"
-        style="fill:#191B22;font-family:Liberation Sans;font-variant:normal;stroke-width:2px;font-weight:normal;font-style:normal;font-size:12px;"
+        style="font-weight:normal;font-style:normal;font-size:12px;fill:#191B22;font-family:Liberation Sans;font-variant:normal;stroke-width:2px;"
         transform="scale(1, -1)"
         x="398.21"
         y="-14.273378" />
     </g>
     <path
       id="path5"
-      style="stroke-width:2px;fill:none;stroke:#191B22;"
+      style="fill:none;stroke:#191B22;stroke-width:2px;"
       transform="translate(0,753.38) scale(1,-1)"
       d="M 56.629005,29.370972 L 64.629005,29.370972 " />
     <path
@@ -118,7 +118,7 @@
       d="M 60.629005,98.66998 L 64.629005,98.66998 " />
     <path
       id="path217"
-      style="stroke-width:2px;fill:none;stroke:#191B22;"
+      style="stroke:#191B22;stroke-width:2px;fill:none;"
       transform="translate(0,753.38) scale(1,-1)"
       d="M 60.629005,167.97003 L 64.629005,167.97003 " />
     <path
@@ -148,7 +148,7 @@
       d="M 60.629005,583.78 L 64.629005,583.78 " />
     <path
       id="path295"
-      style="stroke-width:2px;fill:none;stroke:#191B22;"
+      style="fill:none;stroke:#191B22;stroke-width:2px;"
       transform="translate(0,753.38) scale(1,-1)"
       d="M 60.629005,653.08 L 64.629005,653.08 " />
     <path
@@ -158,7 +158,7 @@
       d="M 64.629005,29.370972 L 64.629005,722.38 " />
     <path
       id="path732"
-      style="stroke-width:4px;stroke-dasharray:8,4;stroke-opacity:1;fill:none;stroke:#000000;"
+      style="stroke-dasharray:8,4;stroke-opacity:1;fill:none;stroke:#000000;stroke-width:4px;"
       transform="translate(0,753.38) scale(1,-1)"
       d="M 134.5,29.370972 L 227.68,98.66998 L 320.86,167.97003 L 414.05,237.27002 L 507.23,306.58 L 600.41,375.88 L 693.59,445.18 L 786.78,514.48 L 879.96,583.78 L 973.14,653.08 " />
     <path
@@ -173,7 +173,7 @@
       d="M 134.5,324.55 L 227.68,328.02 L 320.86,350.32 L 414.05,343.18 L 507.23,344.37 L 600.41,390.39 L 693.59,455.13 L 786.78,648.23 L 879.96,29.370972 L 973.14,29.370972 " />
     <text
       id="text646"
-      style="stroke-opacity:1;fill:#191B22;text-align:AlignLeft;font-family:Arial;stroke:#000000;stroke-width:1px;fill-opacity:1;font-size:24px;"
+      style="stroke-opacity:1;fill:#191B22;stroke:#000000;stroke-width:1px;fill-opacity:1;font-size:24px;text-align:AlignLeft;font-family:Arial;"
       transform="none"
       x="11.550808"
       y="731.29254">
@@ -195,7 +195,7 @@
     </text>
     <text
       id="text575"
-      style="stroke-opacity:1;stroke-width:1px;fill-opacity:1;fill:#191B22;font-size:24px;text-align:AlignLeft;font-family:Arial;stroke:#000000;"
+      style="stroke-width:1px;stroke-opacity:1;font-size:24px;text-align:AlignLeft;font-family:Arial;stroke:#000000;fill-opacity:1;fill:#191B22;"
       transform="none"
       x="15.448132"
       y="39.03038">
@@ -206,7 +206,7 @@
     </text>
     <text
       id="text423"
-      style="fill:#191B22;stroke:#000000;stroke-width:1px;fill-opacity:1;text-align:AlignLeft;font-size:36px;font-family:Arial;stroke-opacity:1;"
+      style="fill-opacity:1;text-align:AlignLeft;fill:#191B22;stroke:#000000;stroke-width:1px;stroke-opacity:1;font-size:36px;font-family:Arial;"
       transform="none"
       x="343.31052"
       y="69.657364">
@@ -217,7 +217,7 @@
     </text>
     <text
       id="text162"
-      style="text-align:AlignLeft;font-family:Arial;stroke-opacity:1;fill:#191B22;stroke:#000000;stroke-width:1px;fill-opacity:1;font-size:36px;"
+      style="stroke:#000000;stroke-width:1px;fill-opacity:1;font-size:36px;text-align:AlignLeft;font-family:Arial;stroke-opacity:1;fill:#191B22;"
       transform="none"
       x="368.5312"
       y="387.93597">
@@ -228,7 +228,7 @@
     </text>
     <text
       id="text354"
-      style="stroke-width:1px;fill-opacity:1;font-size:36px;font-family:Arial;stroke-opacity:1;fill:#191B22;text-align:AlignLeft;stroke:#000000;"
+      style="text-align:AlignLeft;stroke:#000000;font-family:Arial;stroke-opacity:1;fill:#191B22;stroke-width:1px;fill-opacity:1;font-size:36px;"
       transform="none"
       x="355.4781"
       y="610.3152">
@@ -239,7 +239,7 @@
     </text>
     <text
       id="text833"
-      style="stroke:#000000;fill:#191B22;text-align:AlignLeft;font-size:24px;stroke-opacity:1;stroke-width:1px;fill-opacity:1;font-family:Liberation Sans;"
+      style="stroke-opacity:1;stroke-width:1px;fill-opacity:1;font-family:Liberation Sans;stroke:#000000;fill:#191B22;text-align:AlignLeft;font-size:24px;"
       transform="scale(0,0)"
       x="NaN"
       y="NaN">
