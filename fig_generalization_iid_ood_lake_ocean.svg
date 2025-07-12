@@ -1,0 +1,204 @@
+<svg
+  width="1280"
+  height="720"
+  viewBox="0 0 608 480"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs
+    id="defs">
+    <linearGradient
+      id="linearGradient78"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="0"
+      gradientUnits="objectBoundingBox">
+      <stop
+        style="stop-color:#FFFFFF;stop-opacity:1;"
+        offset="0" />
+      <stop
+        style="stop-color:#FFA500;stop-opacity:1;"
+        offset="1" />
+    </linearGradient>
+    <marker
+      id="Arrow2Mend"
+      style="overflow:visible"
+      inkscape:stockid="Arrow2Mend"
+      refX="0"
+      refY="0"
+      orient="auto">
+      <path
+        id="path-0"
+        style="stroke-width:0.62500000;stroke-linejoin:round;fill-rule:evenodd;"
+        transform="scale(0.6) rotate(180) translate(0,0)"
+        d="M8.718588 4.033735L-2.207289 .01601326L8.718589 -4.001708C6.97309 -1.629647 6.983148 1.615744 8.718588 4.033735z" />
+    </marker>
+    <linearGradient
+      id="linearGradient867"
+      x1="244.19225"
+      y1="77.94931"
+      x2="560.3263"
+      y2="77.94931"
+      gradientUnits="userSpaceOnUse"
+      xlink:href="#linearGradient78" />
+  </defs>
+  <sodipodi:namedview
+    id="namedview851"
+    style="inkscape:cy:0;inkscape:zoom:1;inkscape:document-units:px;inkscape:current-layer:Layer2;inkscape:cx:0;">
+    <inkscape:grid
+      id="grid7"
+      style="spacingx:32;spacingy:32;type:xygrid;units:px;" />
+  </sodipodi:namedview>
+  <g
+    id="LayerBG"
+    style="style:;display:inline;insensitive:true;groupmode:layer;"
+    inkscape:groupmode="layer"
+    style=""
+    sodipodi:insensitive="true">
+    <rect
+      id="rect336"
+      style="fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#A4BDFF;fill-opacity:1;"
+      x="10.195496"
+      y="6.488038"
+      width="579.778"
+      height="454.1636" />
+  </g>
+  <g
+    id="Layer1"
+    style="groupmode:layer;style:;display:inline;insensitive:true;"
+    inkscape:groupmode="layer"
+    style=""
+    sodipodi:insensitive="true">
+    <path
+      id="path101"
+      style="stroke-linecap:butt;stroke-linejoin:miter;fill-opacity:1;fill:url(#linearGradient867);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;stroke-width:1px;"
+      d="M309.5728 198.9417L257.6683 174.8432L275.2787 126.6463L298.4504 78.44931H434.6995L542.2158 96.05974L556.1188 202.6492L559.8263 261.0417L555.192 353.7281L529.2397 402.8519L464.3591 426.9504L350.3548 410.2668L265.0833 375.046L244.6922 286.067L350.3548 259.1879z" />
+    <ellipse
+      id="ellipse145"
+      style="stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill-opacity:1;fill:#ADB8EE;fill-rule:nonzero;stroke-opacity:1;stroke:#000000;"
+      cx="455.4806"
+      cy="309.03622"
+      rx="52.367847"
+      ry="48.509785" />
+  </g>
+  <g
+    id="Layer2"
+    style="groupmode:layer;style:;display:inline;insensitive:false;"
+    inkscape:groupmode="layer"
+    style="">
+    <text
+      id="text961"
+      style="direction:ltr;fill:#000000;stroke-color:none;font-size:32px;text-decoration:none;"
+      x="365.18466"
+      y="137.25418">Training</text>
+    <g
+      id="g482"
+      transform="translate(-0.9268646,33.53247)"
+      transform="translate(-0.9268646,33.53247)">
+      <text
+        id="text636_Copy_Copy-14_Copy"
+        style="direction:ltr;fill:#000000;stroke-color:none;font-size:32px;text-decoration:none;"
+        x="79.61711"
+        y="198.44353">out of </text>
+      <text
+        id="text636_Copy"
+        style="font-size:32px;text-decoration:none;direction:ltr;fill:#000000;stroke-color:none;"
+        x="79.61711"
+        y="232.73753">domain</text>
+      <text
+        id="text636"
+        style="fill:#000000;stroke-color:none;font-size:32px;text-decoration:none;direction:ltr;"
+        x="79.61713"
+        y="265.50842">test</text>
+    </g>
+    <g
+      id="g670"
+      transform="translate(-177.03113,-64.10989)"
+      transform="translate(-177.03113,-64.10989)">
+      <text
+        id="text636_Copy_Copy"
+        style="font-size:32px;text-decoration:none;direction:ltr;fill:#000000;stroke-color:none;"
+        x="412.2159"
+        y="290.31305">edge</text>
+      <text
+        id="text636_Copy-12"
+        style="direction:ltr;fill:#000000;stroke-color:none;font-size:32px;text-decoration:none;"
+        x="431.21594"
+        y="325.42398">test</text>
+    </g>
+    <g
+      id="g670_Copy">
+      <text
+        id="text636_Copy_Copy"
+        style="text-decoration:none;direction:ltr;fill:#000000;stroke-color:none;font-size:32px;"
+        x="431.216"
+        y="301.3255">i.i.d.</text>
+      <text
+        id="text636_Copy-12"
+        style="direction:ltr;fill:#000000;stroke-color:none;font-size:32px;text-decoration:none;"
+        x="431.21594"
+        y="325.42398">test</text>
+    </g>
+    <text
+      id="text636_Copy_Copy-14"
+      style="font-size:32px;text-decoration:none;direction:ltr;fill:#000000;stroke-color:none;"
+      x="35.854332"
+      y="173.40192">extrapolation</text>
+    <text
+      id="text636_Copy_Copy-14_Copy"
+      style="direction:ltr;fill:#000000;stroke-color:none;font-size:32px;text-decoration:none;"
+      x="51.174637"
+      y="137.2542">far transfer</text>
+    <text
+      id="text149"
+      style="stroke-color:none;font-size:32px;text-decoration:none;direction:ltr;fill:#000000;"
+      x="66.17462"
+      y="366.25238">&#34;ocean&#34;</text>
+    <text
+      id="text149_Copy"
+      style="stroke-color:none;font-size:32px;text-decoration:none;direction:ltr;fill:#000000;"
+      x="256.5064"
+      y="308.3465">&#34;cove&#34;</text>
+    <text
+      id="text149_Copy_Copy"
+      style="fill:#000000;stroke-color:none;font-size:32px;text-decoration:none;direction:ltr;"
+      x="357.96503"
+      y="231.97598">interpolation</text>
+    <text
+      id="text149_Copy_Copy_Copy"
+      style="fill:#000000;stroke-color:none;font-size:32px;text-decoration:none;direction:ltr;"
+      x="411.9025"
+      y="386.20312">&#34;lake&#34;</text>
+    <path
+      id="path111"
+      style="stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke:#000000;stroke-width:2px;fill-opacity:1;fill:#ADB8EE;fill-rule:nonzero;stroke-opacity:1;stroke-linecap:butt;"
+      d="M366.1115 291.0354L315.1339 252.1071" />
+    <path
+      id="path111_Copy-24"
+      style="stroke:#000000;fill-opacity:1;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke-linecap:butt;fill:#ADB8EE;stroke-width:2px;stroke-linejoin:miter;"
+      d="M538.5084 371.9776L487.5308 333.0493" />
+    <path
+      id="path111_Copy-9"
+      style="stroke-opacity:1;fill-opacity:1;fill:#ADB8EE;stroke-width:2px;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-linecap:butt;fill-rule:nonzero;stroke:#000000;"
+      d="M376.3069 252.1071L427.2845 291.0355" />
+    <path
+      id="path111_Copy-7"
+      style="marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-width:2px;stroke-linejoin:miter;fill:#ADB8EE;stroke:#000000;stroke-opacity:1;stroke-linecap:butt;fill-opacity:1;"
+      d="M388.3562 371.9776L427.2845 321" />
+    <path
+      id="path111_Copy"
+      style="stroke-width:2px;stroke-opacity:1;fill-opacity:1;fill:#ADB8EE;fill-rule:nonzero;stroke:#000000;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-linecap:butt;"
+      d="M316.8138 149.2252L277.8854 200.2028" />
+    <path
+      id="path111_Copy_Copy"
+      style="stroke-opacity:1;fill-opacity:1;stroke-width:2px;stroke-linejoin:miter;stroke-linecap:butt;stroke:#000000;marker-end:url(#Arrow2Mend);fill:#ADB8EE;fill-rule:nonzero;"
+      d="M526.4591 240.0579L487.5307 291.0355" />
+    <text
+      id="text528"
+      style="direction:ltr;fill:#000000;stroke-color:none;font-size:32px;text-decoration:none;"
+      x="102.334465"
+      y="45.401917">Domains of generalization</text>
+  </g>
+</svg>
