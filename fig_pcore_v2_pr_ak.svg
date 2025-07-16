@@ -1,13 +1,41 @@
 <svg
-  width="682.9222px"
-  height="588.8584px"
-  viewBox="0 0 682.9222 588.8584"
+  width="682.9222"
+  height="588.8584"
+  viewBox="0 0 684 600"
   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
   xmlns:xlink="http://www.w3.org/1999/xlink"
   xmlns="http://www.w3.org/2000/svg">
   <defs
-    id="Defs">
+    id="defs">
+    <linearGradient
+      id="linearGradient184"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="0"
+      gradientUnits="objectBoundingBox">
+      <stop
+        style="stop-color:#FFFFFF;stop-opacity:1;"
+        offset="0" />
+      <stop
+        style="stop-color:#4F64FF;stop-opacity:1;"
+        offset="1" />
+    </linearGradient>
+    <linearGradient
+      id="linearGradient993"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="0"
+      gradientUnits="objectBoundingBox">
+      <stop
+        style="stop-color:#FFFFFF;stop-opacity:1;"
+        offset="0" />
+      <stop
+        style="stop-color:#4DB83D;stop-opacity:1;"
+        offset="1" />
+    </linearGradient>
     <linearGradient
       id="linearGradient141"
       x1="0"
@@ -19,7 +47,7 @@
         style="stop-color:#FFFFFF;stop-opacity:1;"
         offset="0" />
       <stop
-        style="stop-color:#0000FF;stop-opacity:1;"
+        style="stop-color:#FF0000;stop-opacity:1;"
         offset="1" />
     </linearGradient>
     <marker
@@ -33,7 +61,7 @@
         id="path231"
         style="fill:#FF0000;stroke:#FF0000;stroke-width:1.0pt;fill-rule:evenodd;"
         transform="scale(0.8) translate(7.4, 1)"
-        d="M -2.5,-1 C -2.5,1.76 -4.74,4 -7.5,4 C -10.26,4 -12.5,1.76 -12.5,-1 C -12.5,-3.76 -10.26,-6 -7.5,-6 C -4.74,-6 -2.5,-3.76 -2.5,-1 z " />
+        d="M-2.5 -1C-2.5 1.76 -4.74 4 -7.5 4C-10.26 4 -12.5 1.76 -12.5 -1C-12.5 -3.76 -10.26 -6 -7.5 -6C-4.74 -6 -2.5 -3.76 -2.5 -1z" />
     </marker>
     <marker
       id="Arrow1Mend840"
@@ -46,27 +74,78 @@
         id="path511"
         style="stroke-width:1.0pt;fill-rule:evenodd;fill:#32CD32;stroke:#32CD32;"
         transform="scale(0.4) rotate(180) translate(10,0)"
-        d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z " />
+        d="M0 0L5 -5L-12.5 0L5 5z" />
     </marker>
+    <linearGradient
+      id="linearGradient159"
+      x1="363.79785"
+      y1="181.21243"
+      x2="651.05975"
+      y2="181.21243"
+      gradientUnits="userSpaceOnUse"
+      xlink:href="#linearGradient141" />
+    <linearGradient
+      id="linearGradient724"
+      x1="363.9405"
+      y1="336.87134"
+      x2="519.3684"
+      y2="336.87134"
+      gradientUnits="userSpaceOnUse"
+      xlink:href="#linearGradient141" />
+    <linearGradient
+      id="linearGradient424"
+      x1="120.70697"
+      y1="250.72171"
+      x2="407.96887"
+      y2="250.72171"
+      gradientUnits="userSpaceOnUse"
+      xlink:href="#linearGradient993" />
+    <linearGradient
+      id="linearGradient669"
+      x1="135.26077"
+      y1="336.87134"
+      x2="291.4671"
+      y2="336.87134"
+      gradientUnits="userSpaceOnUse"
+      xlink:href="#linearGradient993" />
+    <linearGradient
+      id="linearGradient651"
+      x1="120.2374"
+      y1="250.72173"
+      x2="228.53842"
+      y2="250.72173"
+      gradientUnits="userSpaceOnUse"
+      xlink:href="#linearGradient993" />
+    <linearGradient
+      id="linearGradient227"
+      x1="863.8998"
+      y1="587.84564"
+      x2="984.09155"
+      y2="587.84564"
+      gradientUnits="userSpaceOnUse"
+      xlink:href="#linearGradient993" />
+    <linearGradient
+      id="linearGradient372"
+      x1="468.21814"
+      y1="120.303505"
+      x2="868.87024"
+      y2="120.303505"
+      gradientUnits="userSpaceOnUse"
+      xlink:href="#linearGradient184" />
   </defs>
   <sodipodi:namedview
     id="namedview628"
-    inkscape:zoom="3.224379"
-    inkscape:document-units="px"
-    inkscape:current-layer="Layer1"
-    inkscape:cx="0"
-    inkscape:cy="0">
+    style="inkscape:current-layer:Layer1;inkscape:cx:0;inkscape:cy:0;inkscape:zoom:1;inkscape:document-units:px;">
     <inkscape:grid
       id="grid704"
-      type="xygrid"
-      units="px"
-      spacingx="12"
-      spacingy="12" />
+      style="type:xygrid;units:px;spacingx:12;spacingy:12;" />
   </sodipodi:namedview>
   <g
     id="LayerBG"
+    style="groupmode:layer;style:;display:inline;insensitive:true;"
     inkscape:groupmode="layer"
-    style="">
+    style=""
+    sodipodi:insensitive="true">
     <rect
       id="rect888"
       style="fill:#FFFFFF;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:1px;"
@@ -77,26 +156,27 @@
   </g>
   <g
     id="Layer1"
+    style="groupmode:layer;style:;display:inline;insensitive:false;"
     inkscape:groupmode="layer"
     style="">
     <path
       id="path24"
       style="stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotL382);stroke:#FF0000;"
-      d="m 370.0334,222.38022 -32.618042,-0.74554443 " />
+      d="M370.0334 222.3802L337.4153 221.6347" />
     <path
       id="path813"
-      style="stroke-width:3px;fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;"
-      d="m 362.73242,373.6055 -59.01349,-0.265625 " />
+      style="stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotL382);stroke:#FF0000;"
+      d="M362.7324 373.6055L303.7189 373.3399" />
     <rect
       id="rect212"
-      style="stroke-opacity:1;stroke-width:1px;fill:#FF0000;fill-opacity:1;stroke:#000000;"
+      style="stroke:#000000;fill-rule:nonzero;stroke-opacity:1;stroke-width:1px;fill:url(#linearGradient159);fill-opacity:1;"
       x="364.29785"
       y="181.71243"
       width="286.2619"
       height="73.295784" />
     <text
       id="text804"
-      style="font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
+      style="text-align:AlignLeft;font-size:36px;"
       transform="none"
       x="69.37167"
       y="230.86554">
@@ -107,17 +187,18 @@
     </text>
     <g
       id="g895"
+      transform="translate(-56.277863,241.92761)"
       transform="translate(-56.277863,241.92761)">
       <rect
         id="rect492"
-        style="fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1px;fill:#32CD32;"
+        style="fill:url(#linearGradient651);fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1px;"
         x="120.7374"
         y="251.22173"
         width="107.30103"
         height="73.295784" />
       <text
         id="text343"
-        style="text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;fill:#000000;fill-opacity:1;"
+        style="direction:ltr;stroke-color:none;font-size:36px;fill:#000000;fill-rule:nonzero;text-decoration:none;text-align:AlignLeft;fill-opacity:1;"
         transform="none"
         x="143.41574"
         y="300.37482">
@@ -129,14 +210,14 @@
     </g>
     <rect
       id="rect5"
-      style="fill:#32CD32;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1px;"
+      style="fill:url(#linearGradient669);fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1px;fill-rule:nonzero;"
       x="135.76077"
       y="337.37134"
       width="155.20633"
       height="73.295784" />
     <text
       id="text6"
-      style="font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
+      style="text-align:AlignLeft;font-size:36px;"
       transform="none"
       x="62.506683"
       y="230.86554">
@@ -147,17 +228,18 @@
     </text>
     <g
       id="g44"
+      transform="translate(-519.4071,-95.19968)"
       transform="translate(-519.4071,-95.19968)">
       <rect
         id="rect12"
-        style="stroke:#000000;stroke-opacity:1;stroke-width:1px;fill:#32CD32;fill-opacity:1;"
+        style="fill-rule:nonzero;stroke:#000000;stroke-opacity:1;stroke-width:1px;fill:url(#linearGradient227);fill-opacity:1;"
         x="864.3998"
         y="588.34564"
         width="119.1918"
         height="73.295784" />
       <text
         id="text13"
-        style="font-family:Arial;font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;"
+        style="font-size:36px;text-align:AlignLeft;"
         transform="none"
         x="143.41571"
         y="300.37482">
@@ -169,14 +251,14 @@
     </g>
     <rect
       id="rect16"
-      style="fill:#FF0000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1px;"
+      style="fill:url(#linearGradient724);fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1px;fill-rule:nonzero;"
       x="364.4405"
       y="337.37134"
       width="154.4279"
       height="73.295784" />
     <text
       id="text17"
-      style="fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;fill:#000000;"
+      style="text-align:AlignLeft;font-size:36px;"
       transform="none"
       x="62.506683"
       y="229.28775">
@@ -187,17 +269,18 @@
     </text>
     <g
       id="g176"
+      transform="translate(-332.90933,-94.92818)"
       transform="translate(-332.90933,-94.92818)">
       <rect
         id="rect15"
-        style="fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1px;fill:#00BFFF;"
+        style="fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1px;fill:url(#linearGradient372);fill-rule:nonzero;"
         x="468.71814"
         y="120.803505"
         width="399.65207"
         height="73.295784" />
       <text
         id="text79"
-        style="fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:36px;stroke:none;fill:#000000;"
+        style="text-align:AlignLeft;font-size:36px;"
         transform="none"
         x="136.50171"
         y="291.37936">
@@ -209,17 +292,18 @@
     </g>
     <g
       id="g969"
+      transform="translate(-80.90903,-69.50926)"
       transform="translate(-80.90903,-69.50926)">
       <rect
         id="rect461"
-        style="fill:#32CD32;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1px;"
+        style="stroke:#000000;stroke-opacity:1;stroke-width:1px;fill-rule:nonzero;fill:url(#linearGradient424);fill-opacity:1;"
         x="121.20697"
         y="251.22171"
         width="286.2619"
         height="73.295784" />
       <text
         id="text118"
-        style="font-size:36px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
+        style="fill-rule:nonzero;text-decoration:none;stroke-color:none;fill-opacity:1;fill:#000000;text-align:AlignLeft;direction:ltr;font-size:36px;"
         transform="none"
         x="143.41571"
         y="300.37482">
@@ -232,63 +316,63 @@
     <path
       id="path905"
       style="stroke-width:3px;fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;"
-      d="m 290.13873,336.64053 75.98633,-80.11026 " />
+      d="M290.1387 336.6405L366.1251 256.5303" />
     <path
       id="path851"
       style="stroke-width:3px;fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;"
-      d="m 217.1759,339.162 -0.338562,-71.37427 " />
+      d="M217.1759 339.162L216.8373 267.7877" />
     <path
       id="path601"
-      style="stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotL382);"
-      d="m 184.92352,255.93799 -0.338562,71.37427 " />
+      style="fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;"
+      d="M184.9235 255.938L184.585 327.3123" />
     <path
       id="path333"
       style="fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;"
-      d="m 425.6195,410.8164 -0.338562,71.37427 " />
+      d="M425.6195 410.8164L425.2809 482.1907" />
     <path
       id="path169"
-      style="stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotL382);stroke:#FF0000;"
-      d="m 435.83575,252.98807 -0.338562,73.60858 " />
+      style="stroke-width:3px;fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;"
+      d="M435.8358 252.9881L435.4972 326.5966" />
     <path
       id="path623"
-      style="stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotL382);"
-      d="m 113.54581,256.8453 1.1510162,228.52176 " />
+      style="fill:none;marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;"
+      d="M113.5458 256.8453L114.6968 485.3671" />
     <path
       id="path297"
       style="marker-end:url(#DotL382);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;"
-      d="m 364.49176,411.8351 -192.08728,81.23486 " />
+      d="M364.4918 411.8351L172.4045 493.07" />
     <path
       id="path201"
-      style="fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);"
-      d="m 351.97308,100.24294 -59.20105,234.72073 " />
+      style="marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;"
+      d="M351.9731 100.2429L292.772 334.9637" />
     <path
       id="path972"
       style="marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;"
-      d="m 351.97308,100.24294 0.1116333,389.66943 " />
+      d="M351.9731 100.2429L352.0847 489.9124" />
     <path
       id="path923"
-      style="stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;"
-      d="m 456.80566,100.24294 0.1116333,80.9635 " />
+      style="fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);"
+      d="M456.8057 100.2429L456.9173 181.2065" />
     <path
       id="path535"
       style="marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;"
-      d="m 219.3396,100.24294 0.1116333,80.9635 " />
+      d="M219.3396 100.2429L219.4512 181.2065" />
     <path
       id="path58"
       style="stroke-opacity:1;stroke-width:1px;marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;"
-      d="m 345.55463,494.4583 -55.06299,-80.50372 " />
+      d="M345.5546 494.4583L290.4916 413.9546" />
     <path
       id="path459"
-      style="stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;"
+      style="fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);"
       transform="matrix(-4.371139e-08,-1,1,-4.371139e-08,-205.04062,1216.929)"
-      d="m 687.5937,546.8949 -0.84472656,-165.60135 " />
+      d="M687.5937 546.8949L686.749 381.2935" />
     <path
       id="path390"
-      style="stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;"
-      d="m 459.12238,493.53873 0.1116333,-80.9635 " />
+      style="stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;"
+      d="M459.1224 493.5387L459.234 412.5752" />
     <text
       id="text38"
-      style="text-align:AlignLeft;stroke:none;fill:#000000;fill-opacity:1;font-family:Arial;font-size:18px;"
+      style="text-align:AlignLeft;font-size:18px;"
       transform="none"
       x="142.04037"
       y="407.42075">
@@ -299,7 +383,7 @@
     </text>
     <text
       id="text364"
-      style="fill:#000000;fill-opacity:1;font-family:Arial;font-size:18px;text-align:AlignLeft;stroke:none;"
+      style="text-align:AlignLeft;font-size:18px;"
       transform="none"
       x="384.58472"
       y="407.1187">
@@ -310,7 +394,7 @@
     </text>
     <text
       id="text643"
-      style="font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;fill:#000000;fill-opacity:1;"
+      style="font-size:18px;text-align:AlignLeft;"
       transform="none"
       x="207.89105"
       y="497.366">
@@ -321,7 +405,7 @@
     </text>
     <text
       id="text610"
-      style="fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;"
+      style="font-size:18px;text-align:AlignLeft;"
       transform="matrix(-4.371139e-08,-1,1,-4.371139e-08,-134.98727,1340.7776)"
       x="984.4976"
       y="339.05798">
@@ -332,7 +416,7 @@
     </text>
     <text
       id="text438"
-      style="font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;fill:#000000;fill-opacity:1;"
+      style="font-size:18px;text-align:AlignLeft;"
       transform="none"
       x="580.0302"
       y="320.42526">
@@ -343,7 +427,7 @@
     </text>
     <text
       id="text963"
-      style="fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;"
+      style="font-size:18px;text-align:AlignLeft;"
       transform="none"
       x="364.3968"
       y="380.38144">
@@ -354,10 +438,11 @@
     </text>
     <g
       id="g310"
+      transform="translate(-518.943,-99.7424)"
       transform="translate(-518.943,-99.7424)">
       <text
         id="text618"
-        style="font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;fill:#000000;fill-opacity:1;"
+        style="font-size:18px;text-align:AlignLeft;"
         transform="none"
         x="751.62396"
         y="425.88696">
@@ -368,7 +453,7 @@
       </text>
       <text
         id="text211"
-        style="stroke:none;fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;"
+        style="font-size:18px;text-align:AlignLeft;"
         transform="none"
         x="751.62396"
         y="407.9322">
@@ -379,7 +464,7 @@
       </text>
       <text
         id="text837"
-        style="font-family:Arial;stroke:none;fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;"
+        style="font-size:18px;text-align:AlignLeft;"
         transform="none"
         x="751.62396"
         y="391.1358">
@@ -391,7 +476,7 @@
     </g>
     <text
       id="text57"
-      style="fill:#000000;fill-opacity:1;font-size:18px;text-align:AlignLeft;font-family:Arial;stroke:none;"
+      style="font-size:18px;text-align:AlignLeft;"
       transform="none"
       x="119.275665"
       y="458.6873">
@@ -402,7 +487,7 @@
     </text>
     <text
       id="text339"
-      style="stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;font-size:12px;"
+      style="text-align:AlignLeft;font-size:12px;"
       transform="none"
       x="492.45917"
       y="352.05157">
@@ -413,7 +498,7 @@
     </text>
     <text
       id="text662"
-      style="font-size:12px;stroke:none;fill:#000000;fill-opacity:1;text-align:AlignLeft;font-family:Arial;"
+      style="text-align:AlignLeft;font-size:12px;"
       transform="none"
       x="261.0255"
       y="352.05157">
