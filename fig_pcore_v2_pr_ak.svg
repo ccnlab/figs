@@ -59,7 +59,7 @@
       orient="auto">
       <path
         id="path511"
-        style="stroke-width:1.0pt;fill-rule:nonzero;fill:#32CD32;stroke:#32CD32;"
+        style="fill-rule:nonzero;fill:#32CD32;stroke:#32CD32;stroke-width:1.0pt;"
         transform="scale(0.4) rotate(180) translate(10,0)"
         d="M0 0L5 -5L-12.5 0L5 5z" />
     </marker>
@@ -70,6 +70,7 @@
       x2="651.05975"
       y2="181.21243"
       gradientUnits="userSpaceOnUse"
+      gradientTransform="matrix(1,0,0,1,-4.037594,-3.8267975)"
       xlink:href="#linearGradient141" />
     <linearGradient
       id="linearGradient724"
@@ -78,6 +79,7 @@
       x2="519.3684"
       y2="336.87134"
       gradientUnits="userSpaceOnUse"
+      gradientTransform="matrix(1,0,0,1,-4.037594,-3.8267975)"
       xlink:href="#linearGradient141" />
     <linearGradient
       id="linearGradient424"
@@ -94,6 +96,7 @@
       x2="291.4671"
       y2="336.87134"
       gradientUnits="userSpaceOnUse"
+      gradientTransform="matrix(1,0,0,1,-4.037594,-3.8267975)"
       xlink:href="#linearGradient993" />
     <linearGradient
       id="linearGradient651"
@@ -206,7 +209,7 @@
       orient="auto">
       <path
         id="path-0"
-        style="fill-rule:evenodd;fill:red;stroke:red;stroke-width:1.0pt;"
+        style="stroke-width:1.0pt;fill-rule:evenodd;fill:red;stroke:red;"
         transform="scale(0.4) translate(7.4, 1)"
         d="M-2.5 -1C-2.5 1.76 -4.74 4 -7.5 4C-10.26 4 -12.5 1.76 -12.5 -1C-12.5 -3.76 -10.26 -6 -7.5 -6C-4.74 -6 -2.5 -3.76 -2.5 -1z" />
     </marker>
@@ -219,34 +222,34 @@
       orient="auto">
       <path
         id="path-0"
-        style="fill-rule:evenodd;fill:red;stroke:red;stroke-width:1.0pt;"
+        style="stroke:red;stroke-width:1.0pt;fill-rule:evenodd;fill:red;"
         transform="scale(0.4) translate(7.4, 1)"
         d="M-2.5 -1C-2.5 1.76 -4.74 4 -7.5 4C-10.26 4 -12.5 1.76 -12.5 -1C-12.5 -3.76 -10.26 -6 -7.5 -6C-4.74 -6 -2.5 -3.76 -2.5 -1z" />
     </marker>
     <marker
       id="DotM102"
-      inkscape:stockid="DotM"
       style="overflow:visible"
+      inkscape:stockid="DotM"
       refX="0"
       refY="0"
       orient="auto">
       <path
         id="path-0"
-        style="stroke:red;stroke-width:1.0pt;fill-rule:evenodd;fill:red;"
+        style="stroke-width:1.0pt;fill-rule:evenodd;fill:red;stroke:red;"
         transform="scale(0.4) translate(7.4, 1)"
         d="M-2.5 -1C-2.5 1.76 -4.74 4 -7.5 4C-10.26 4 -12.5 1.76 -12.5 -1C-12.5 -3.76 -10.26 -6 -7.5 -6C-4.74 -6 -2.5 -3.76 -2.5 -1z" />
     </marker>
   </defs>
   <sodipodi:namedview
     id="namedview628"
-    style="inkscape:current-layer:Layer2;inkscape:cx:0;inkscape:cy:0;inkscape:zoom:1;inkscape:document-units:px;">
+    style="inkscape:cy:0;inkscape:zoom:1;inkscape:document-units:px;inkscape:current-layer:Layer2;inkscape:cx:0;">
     <inkscape:grid
       id="grid704"
-      style="spacingy:12;type:xygrid;units:px;spacingx:12;" />
+      style="units:px;spacingx:24;spacingy:24;type:xygrid;" />
   </sodipodi:namedview>
   <g
     id="LayerBG"
-    style="style:;display:inline;insensitive:true;groupmode:layer;"
+    style="display:inline;insensitive:true;groupmode:layer;style:;"
     inkscape:groupmode="layer"
     style=""
     sodipodi:insensitive="true">
@@ -256,32 +259,37 @@
       x="0.12423706"
       y="3.3765516"
       width="682.53394"
-      height="585.3635" />
+      height="596.6234" />
   </g>
   <g
     id="Layer1"
-    style="display:inline;insensitive:false;groupmode:layer;style:;"
+    style="groupmode:layer;style:;display:inline;insensitive:true;"
     inkscape:groupmode="layer"
-    style="">
+    style=""
+    sodipodi:insensitive="true">
     <path
       id="path24"
-      style="stroke-width:3px;fill:none;marker-end:url(#DotM102);stroke:#FF0000;stroke-opacity:1;"
-      d="M370.0334 222.3802L335.9715 223.0089" />
+      style="stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotM102);stroke:#FF0000;"
+      d="M514.6511 352.2963L536.4869 351.7928L536.5629 390.9261L521.6815 390.5798" />
+    <path
+      id="path24_Copy"
+      style="fill:none;marker-end:url(#DotM102);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;"
+      d="M365.9958 218.5534L331.9339 219.1821" />
     <path
       id="path813"
-      style="marker-end:url(#DotM228);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;"
-      d="M362.7324 373.6055L299.7353 373.5083" />
+      style="stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotM228);"
+      d="M358.6948 369.7787L295.6977 369.6815" />
     <rect
       id="rect212"
       style="stroke:#000000;fill-rule:nonzero;stroke-opacity:1;stroke-width:1px;fill:url(#linearGradient159);fill-opacity:1;"
-      x="364.29785"
-      y="181.71243"
+      x="360.26025"
+      y="177.88565"
       width="286.2619"
       height="73.295784" />
     <text
       id="text804"
       style="text-align:AlignLeft;font-size:36px;"
-      transform="none"
+      transform="translate(-4.037594,-3.8267975)"
       x="69.37167"
       y="230.86554">
       <tspan
@@ -291,11 +299,11 @@
     </text>
     <g
       id="g895"
-      transform="translate(-56.277863,241.92761)"
-      transform="translate(-56.277863,241.92761)">
+      transform="translate(-60.31546,238.10081)"
+      transform="translate(-60.31546,238.10081)">
       <rect
         id="rect492"
-        style="insensitive:false;fill-opacity:1;stroke-opacity:1;style:;fill-rule:nonzero;stroke:#000000;stroke-width:1px;display:inline;fill:url(#linearGradient651);"
+        style="fill:url(#linearGradient651);stroke-opacity:1;style:;fill-rule:nonzero;stroke:#000000;stroke-width:1px;display:inline;insensitive:false;fill-opacity:1;"
         x="120.7374"
         y="251.22173"
         width="107.30103"
@@ -314,15 +322,15 @@
     </g>
     <rect
       id="rect5"
-      style="fill-rule:nonzero;fill:url(#linearGradient669);fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1px;"
-      x="135.76077"
-      y="337.37134"
+      style="stroke-opacity:1;stroke-width:1px;fill-rule:nonzero;fill:url(#linearGradient669);fill-opacity:1;stroke:#000000;"
+      x="131.72318"
+      y="333.54456"
       width="155.20633"
       height="73.295784" />
     <text
       id="text6"
-      style="font-size:36px;text-align:AlignLeft;"
-      transform="none"
+      style="text-align:AlignLeft;font-size:36px;"
+      transform="translate(-4.037594,-3.8267975)"
       x="62.506683"
       y="230.86554">
       <tspan
@@ -332,11 +340,11 @@
     </text>
     <g
       id="g44"
-      transform="translate(-519.4071,-95.19968)"
-      transform="translate(-519.4071,-95.19968)">
+      transform="translate(-523.4447,-99.02648)"
+      transform="translate(-523.4447,-99.02648)">
       <rect
         id="rect12"
-        style="display:inline;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;insensitive:false;fill:url(#linearGradient227);fill-opacity:1;stroke-width:1px;style:;"
+        style="stroke-opacity:1;display:inline;stroke:#000000;fill-opacity:1;stroke-width:1px;style:;fill-rule:nonzero;insensitive:false;fill:url(#linearGradient227);"
         x="864.3998"
         y="588.34564"
         width="119.1918"
@@ -355,15 +363,15 @@
     </g>
     <rect
       id="rect16"
-      style="stroke:#000000;stroke-opacity:1;stroke-width:1px;fill-rule:nonzero;fill:url(#linearGradient724);fill-opacity:1;"
-      x="364.4405"
-      y="337.37134"
+      style="fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:1px;fill-rule:nonzero;fill:url(#linearGradient724);"
+      x="360.4029"
+      y="333.54456"
       width="154.4279"
       height="73.295784" />
     <text
       id="text17"
       style="text-align:AlignLeft;font-size:36px;"
-      transform="none"
+      transform="translate(-4.037594,-3.8267975)"
       x="62.506683"
       y="229.28775">
       <tspan
@@ -373,11 +381,11 @@
     </text>
     <g
       id="g176"
-      transform="translate(-332.90933,-94.92818)"
-      transform="translate(-332.90933,-94.92818)">
+      transform="translate(-336.94693,-98.75498)"
+      transform="translate(-336.94693,-98.75498)">
       <rect
         id="rect15"
-        style="stroke-opacity:1;style:;insensitive:false;fill:url(#linearGradient372);fill-rule:nonzero;fill-opacity:1;stroke-width:1px;display:inline;stroke:#000000;"
+        style="fill-opacity:1;stroke-width:1px;display:inline;stroke:#000000;stroke-opacity:1;style:;insensitive:false;fill:url(#linearGradient372);fill-rule:nonzero;"
         x="468.71814"
         y="120.803505"
         width="399.65207"
@@ -396,18 +404,18 @@
     </g>
     <g
       id="g969"
-      transform="translate(-80.90903,-69.50926)"
-      transform="translate(-80.90903,-69.50926)">
+      transform="translate(-84.94663,-73.33607)"
+      transform="translate(-84.94663,-73.33607)">
       <rect
         id="rect461"
-        style="stroke-opacity:1;stroke-width:1px;style:;fill-rule:nonzero;fill-opacity:1;display:inline;insensitive:false;stroke:#000000;fill:url(#linearGradient424);"
+        style="fill-rule:nonzero;fill-opacity:1;stroke-opacity:1;stroke-width:1px;style:;stroke:#000000;fill:url(#linearGradient424);display:inline;insensitive:false;"
         x="121.20697"
         y="251.22171"
         width="286.2619"
         height="73.295784" />
       <text
         id="text118"
-        style="text-align:AlignLeft;font-size:36px;"
+        style="font-size:36px;text-align:AlignLeft;"
         transform="none"
         x="143.41571"
         y="300.37482">
@@ -419,61 +427,61 @@
     </g>
     <path
       id="path905"
-      style="stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotM91);stroke:#FF0000;"
-      d="M290.1387 336.6405L366.1251 256.5303" />
+      style="stroke-width:3px;fill:none;marker-end:url(#DotM91);stroke:#FF0000;stroke-opacity:1;"
+      d="M286.1011 332.8137L362.0875 252.7035" />
     <path
       id="path851"
       style="stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotM504);"
-      d="M193.8387 336.7715L193.5 265.3972" />
+      d="M189.8011 332.9447L189.4625 261.5704" />
     <path
       id="path601"
-      style="stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotM586);stroke:#FF0000;"
-      d="M166.5374 256.8453L166.1989 328.2196" />
+      style="stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotM586);"
+      d="M162.4998 253.0185L162.1613 324.3928" />
     <path
       id="path333"
       style="fill:none;marker-end:url(#DotM217);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;"
-      d="M425.6195 410.8164L425.2809 482.1907" />
+      d="M412.3889 410.166L412.0503 481.5403" />
     <path
       id="path169"
-      style="fill:none;marker-end:url(#DotM269);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;"
-      d="M435.8358 253.7038L435.4972 327.3123" />
+      style="stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotM269);"
+      d="M431.7982 249.877L431.4596 323.4855" />
     <path
       id="path623"
       style="marker-end:url(#DotM474);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;"
-      d="M113.5458 256.8453L114.6968 485.3671" />
+      d="M109.5082 253.0185L110.6592 481.5403" />
     <path
       id="path297"
-      style="stroke-opacity:1;stroke-width:3px;fill:none;marker-end:url(#DotM74);stroke:#FF0000;"
-      d="M364.4918 411.8351L172.4485 488.0504" />
+      style="marker-end:url(#DotM74);stroke:#FF0000;stroke-opacity:1;stroke-width:3px;fill:none;"
+      d="M360.4542 408.0083L168.4109 484.2236" />
     <path
       id="path972"
-      style="marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;"
-      d="M351.9731 100.2429L352.0847 489.9124" />
+      style="stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;"
+      d="M347.9355 96.41609L348.0471 486.0856" />
     <path
       id="path923"
-      style="marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;"
-      d="M456.8057 100.2429L456.9173 181.2065" />
+      style="stroke:#32CD32;stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;"
+      d="M452.7681 96.41609L452.8797 177.3797" />
     <path
       id="path535"
-      style="stroke:#32CD32;stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;"
-      d="M219.3396 100.2429L219.4512 181.2065" />
+      style="marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;"
+      d="M215.302 96.41609L215.4136 177.3797" />
     <path
       id="path58"
-      style="marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:1px;"
-      d="M345.5546 494.4583L290.4916 413.9546" />
+      style="stroke:#32CD32;stroke-opacity:1;stroke-width:1px;marker-end:url(#Arrow1Mend840);fill:none;"
+      d="M341.517 490.6315L286.454 410.1278" />
     <path
       id="path459"
-      style="fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);"
+      style="marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;"
       transform="matrix(-4.371139e-08,-1,1,-4.371139e-08,-205.04062,1216.929)"
-      d="M687.5937 546.8949L686.749 381.2935" />
+      d="M691.4206 542.8572L690.5759 377.2559" />
     <path
       id="path390"
-      style="stroke-width:3px;marker-end:url(#Arrow1Mend840);fill:none;stroke:#32CD32;stroke-opacity:1;"
-      d="M459.1224 493.5387L459.234 412.5752" />
+      style="fill:none;stroke:#32CD32;stroke-opacity:1;stroke-width:3px;marker-end:url(#Arrow1Mend840);"
+      d="M384.0959 488.2368L383.5069 413.7822" />
     <text
       id="text38"
       style="text-align:AlignLeft;font-size:18px;"
-      transform="none"
+      transform="translate(-4.037594,-3.8267975)"
       x="142.04037"
       y="407.42075">
       <tspan
@@ -483,8 +491,8 @@
     </text>
     <text
       id="text364"
-      style="font-size:18px;text-align:AlignLeft;"
-      transform="none"
+      style="text-align:AlignLeft;font-size:18px;"
+      transform="translate(-4.037594,-3.8267975)"
       x="384.58472"
       y="407.1187">
       <tspan
@@ -495,7 +503,7 @@
     <text
       id="text339"
       style="text-align:AlignLeft;font-size:12px;"
-      transform="none"
+      transform="translate(-4.037594,-3.8267975)"
       x="492.45917"
       y="352.05157">
       <tspan
@@ -506,7 +514,7 @@
     <text
       id="text662"
       style="text-align:AlignLeft;font-size:12px;"
-      transform="none"
+      transform="translate(-4.037594,-3.8267975)"
       x="261.0255"
       y="352.05157">
       <tspan
@@ -517,11 +525,13 @@
   </g>
   <g
     id="Layer2"
-    style="display:inline;insensitive:false;groupmode:layer;style:;"
+    style="insensitive:false;groupmode:layer;style:;display:inline;"
     inkscape:groupmode="layer"
     style="">
     <g
-      id="g303">
+      id="g303"
+      transform="translate(-4.037594,-3.8267975)"
+      transform="translate(-4.037594,-3.8267975)">
       <rect
         id="rect981"
         style="stroke-linecap:butt;stroke-linejoin:miter;fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none;"
@@ -543,8 +553,8 @@
     </g>
     <g
       id="g310"
-      transform="translate(-547.62396,-100.32156)"
-      transform="translate(-547.62396,-100.32156)">
+      transform="translate(-551.66156,-104.14837)"
+      transform="translate(-551.66156,-104.14837)">
       <text
         id="text618"
         style="font-size:18px;text-align:AlignLeft;"
@@ -582,7 +592,7 @@
     <text
       id="text438"
       style="font-size:18px;text-align:AlignLeft;"
-      transform="none"
+      transform="translate(-48.035034,-3.7834015)"
       x="580.0302"
       y="320.42526">
       <tspan
@@ -593,7 +603,7 @@
     <text
       id="text963"
       style="font-size:18px;text-align:AlignLeft;"
-      transform="translate(-4.9029694,-1.2257385)"
+      transform="translate(-8.940563,-5.052536)"
       x="364.3968"
       y="380.38144">
       <tspan
@@ -604,7 +614,7 @@
     <text
       id="text57"
       style="font-size:18px;text-align:AlignLeft;"
-      transform="none"
+      transform="translate(-4.037594,-3.8267975)"
       x="119.275665"
       y="458.6873">
       <tspan
@@ -615,7 +625,7 @@
     <text
       id="text643"
       style="font-size:18px;text-align:AlignLeft;"
-      transform="translate(-13.483139,0)"
+      transform="translate(-17.520733,-3.8267975)"
       x="207.89105"
       y="497.366">
       <tspan
@@ -623,5 +633,30 @@
         x="207.89105"
         y="497.366">No</tspan>
     </text>
+    <text
+      id="text432"
+      style="font-size:18px;text-decoration:none;direction:ltr;fill:#000000;stroke-color:none;font-style:italic;"
+      x="488.4216"
+      y="427.9004">46k</text>
+    <text
+      id="text432_Copy"
+      style="fill:#000000;stroke-color:none;font-style:italic;font-size:18px;text-decoration:none;direction:ltr;"
+      x="475.9624"
+      y="114.15048">17 Million</text>
+    <text
+      id="text432_Copy_Copy"
+      style="fill:#000000;stroke-color:none;font-style:italic;font-size:18px;text-decoration:none;direction:ltr;"
+      x="559.9625"
+      y="270.7529">2.8 Million</text>
+    <text
+      id="text226"
+      style="font-size:18px;font-style:italic;text-decoration:none;direction:ltr;fill:#000000;stroke-color:none;"
+      x="73.78548"
+      y="581.9507">26k (GPi 3k)</text>
+    <text
+      id="text226_Copy"
+      style="stroke-color:none;font-size:18px;font-style:italic;text-decoration:none;direction:ltr;fill:#000000;"
+      x="415.9763"
+      y="581.9507">13.5k</text>
   </g>
 </svg>
