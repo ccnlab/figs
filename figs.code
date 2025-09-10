@@ -1,0 +1,72 @@
+SplitName = 'Code'
+MainLang = 'Unknown'
+VersionControl = ''
+ProjFilename = '/Users/oreilly/ccngit/figs/figs.code'
+ProjRoot = '/Users/oreilly/ccngit/figs'
+GoMod = false
+BuildCmds = [
+  'Build: Make'
+]
+BuildDir = '/Users/oreilly/ccngit/figs'
+BuildTarg = '/Users/oreilly/ccngit/figs'
+RunExec = '/Users/oreilly/ccngit/figs/figs'
+RunCmds = [
+  'Build: Run Proj'
+]
+Register = ''
+Splits = [
+  0.17265467,
+  0.34963408,
+  0.27001074,
+  0.2077005
+]
+
+[Files]
+  DirsOnTop = true
+
+[Editor]
+  TabSize = 4
+  SpaceIndent = false
+  WordWrap = true
+  LineNos = true
+  Completion = true
+  SpellCorrect = true
+  AutoIndent = true
+  EmacsUndo = true
+  DepthColor = true
+
+[Debug]
+  Args = []
+
+  [Debug.VarList]
+    FollowPointers = false
+    MaxRecurse = 4
+    MaxStringLen = 100
+    MaxArrayValues = 10
+    MaxStructFields = -1
+
+  [Debug.GetVar]
+    FollowPointers = false
+    MaxRecurse = 10
+    MaxStringLen = 1024
+    MaxArrayValues = 1024
+    MaxStructFields = -1
+
+[Find]
+  Find = ''
+  Replace = ''
+  IgnoreCase = false
+  Regexp = false
+  Loc = 'Open'
+  Langs = []
+  FindHist = []
+  ReplHist = []
+
+[Symbols]
+  Scope = 'Package'
+
+[Dirs]
+  [Dirs.Map]
+    '.' = 'IsOpen|SortByModTime'
+
+  [Dirs.Mu]
