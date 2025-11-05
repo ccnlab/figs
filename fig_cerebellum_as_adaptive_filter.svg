@@ -96,7 +96,7 @@
       orient="auto">
       <path
         id="path-0"
-        style="stroke-linejoin:round;fill-rule:evenodd;stroke-width:0.62500000;"
+        style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
         transform="scale(0.6) rotate(180) translate(0,0)"
         d="M8.718588 4.033735L-2.207289 .01601326L8.718589 -4.001708C6.97309 -1.629647 6.983148 1.615744 8.718588 4.033735z" />
     </marker>
@@ -109,7 +109,7 @@
       orient="auto">
       <path
         id="path-0"
-        style="fill:#FF0000;stroke:#FF0000;stroke-width:1.0pt;fill-rule:evenodd;"
+        style="fill-rule:evenodd;fill:#FF0000;stroke:#FF0000;stroke-width:1.0pt;"
         transform="scale(0.8) translate(7.4, 1)"
         d="M-2.5 -1C-2.5 1.76 -4.74 4 -7.5 4C-10.26 4 -12.5 1.76 -12.5 -1C-12.5 -3.76 -10.26 -6 -7.5 -6C-4.74 -6 -2.5 -3.76 -2.5 -1z" />
     </marker>
@@ -161,24 +161,24 @@
       xlink:href="#linearGradient75" />
     <marker
       id="Arrow2Mend324"
-      inkscape:stockid="Arrow2Mend"
       style="overflow:visible"
+      inkscape:stockid="Arrow2Mend"
       refX="0"
       refY="0"
       orient="auto">
       <path
         id="path-0"
-        style="stroke-linejoin:round;fill-rule:evenodd;fill:#EE82EE;stroke-width:0.62500000;"
+        style="stroke-linejoin:round;fill-rule:evenodd;fill:#008000;stroke-width:0.62500000;"
         transform="scale(0.6) rotate(180) translate(0,0)"
         d="M8.718588 4.033735L-2.207289 .01601326L8.718589 -4.001708C6.97309 -1.629647 6.983148 1.615744 8.718588 4.033735z" />
     </marker>
   </defs>
   <sodipodi:namedview
     id="namedview47"
-    style="inkscape:cy:0;inkscape:zoom:1;inkscape:document-units:px;inkscape:current-layer:Layer1;inkscape:cx:0;">
+    style="inkscape:document-units:px;inkscape:current-layer:Layer1;inkscape:cx:0;inkscape:cy:0;inkscape:zoom:1;">
     <inkscape:grid
       id="grid807"
-      style="units:px;spacingx:12;spacingy:12;type:xygrid;" />
+      style="spacingy:12;type:xygrid;units:px;spacingx:12;" />
   </sodipodi:namedview>
   <g
     id="LayerBG"
@@ -188,7 +188,7 @@
     style="">
     <rect
       id="rect685"
-      style="fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;"
+      style="stroke-linecap:butt;stroke-linejoin:miter;fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;stroke:none;"
       x="3.8714032"
       y="4.86699"
       width="388.10104"
@@ -196,7 +196,7 @@
   </g>
   <g
     id="Layer1"
-    style="insensitive:false;groupmode:layer;style:;display:inline;"
+    style="groupmode:layer;style:;display:inline;insensitive:false;"
     inkscape:groupmode="layer"
     style="">
     <path
@@ -205,11 +205,10 @@
       d="M119.2051 177.3056L275.3829 177.4619" />
     <g
       id="g140"
-      transform="translate(-230.80983,-12.923068)"
       transform="translate(-230.80983,-12.923068)">
       <rect
         id="rect326"
-        style="insensitive:false;display:inline;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-linejoin:miter;stroke-width:1px;stroke-linecap:butt;fill-rule:nonzero;fill:url(#linearGradient907);style:;"
+        style="insensitive:false;fill-rule:nonzero;fill-opacity:1;stroke:#000000;display:inline;style:;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:1px;stroke-opacity:1;fill:url(#linearGradient907);"
         x="243.30983"
         y="24.499992"
         width="106.905014"
@@ -218,15 +217,14 @@
         id="tspan222"
         style="font-size:12px;"
         x="261.06702"
-        y="47.328773">MF (all state)</text>
+        y="47.328773">PN (all state)</text>
     </g>
     <g
       id="g385"
-      transform="translate(-230.80983,131.28957)"
       transform="translate(-230.80983,131.28957)">
       <rect
         id="rect349"
-        style="stroke-opacity:1;stroke-linejoin:miter;fill-rule:nonzero;insensitive:false;stroke-linecap:butt;style:;fill:url(#linearGradient907);stroke-width:1px;fill-opacity:1;stroke:#000000;display:inline;"
+        style="fill:url(#linearGradient907);stroke-linejoin:miter;fill-rule:nonzero;stroke-width:1px;stroke:#000000;display:inline;fill-opacity:1;style:;stroke-linecap:butt;insensitive:false;stroke-opacity:1;"
         x="243.30983"
         y="24.499992"
         width="106.905014"
@@ -239,11 +237,10 @@
     </g>
     <g
       id="g453"
-      transform="translate(240.0139,132.06715)"
       transform="translate(240.0139,132.06715)">
       <rect
         id="rect801"
-        style="stroke-opacity:1;fill-opacity:1;stroke-linejoin:miter;insensitive:false;display:inline;stroke-linecap:butt;stroke-width:1px;stroke:#000000;fill-rule:nonzero;fill:url(#linearGradient1);style:;"
+        style="stroke-linecap:butt;stroke-opacity:1;insensitive:false;display:inline;style:;fill-opacity:1;fill-rule:nonzero;fill:url(#linearGradient1);stroke-width:1px;stroke-linejoin:miter;stroke:#000000;"
         x="36.375656"
         y="24.5"
         width="107.96139"
@@ -256,11 +253,10 @@
     </g>
     <g
       id="g27"
-      transform="translate(107.553894,131.28954)"
       transform="translate(107.553894,131.28954)">
       <rect
         id="rect533"
-        style="insensitive:false;stroke-opacity:1;display:inline;fill-opacity:1;stroke-linecap:butt;stroke-width:1px;stroke:#000000;stroke-linejoin:miter;style:;fill:url(#linearGradient804);fill-rule:nonzero;"
+        style="style:;stroke-opacity:1;display:inline;stroke-linecap:butt;stroke-width:1px;stroke-linejoin:miter;stroke:#000000;fill:url(#linearGradient804);insensitive:false;fill-opacity:1;fill-rule:nonzero;"
         x="36.375656"
         y="24.5"
         width="107.96139"
@@ -273,7 +269,7 @@
     </g>
     <path
       id="path492"
-      style="stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;"
+      style="fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;"
       d="M120.7308 47.75011L144.653 154.6986" />
     <path
       id="path441"
@@ -281,56 +277,60 @@
       d="M120.7308 30.45114L167.2119 30.29474" />
     <path
       id="path324"
-      style="stroke:#EE82EE;stroke-width:1px;stroke-linejoin:miter;stroke-opacity:1;stroke-linecap:butt;fill-rule:nonzero;fill:none;marker-end:url(#Arrow2Mend324);"
+      style="fill:none;stroke:#008000;marker-end:url(#Arrow2Mend324);stroke-width:1px;stroke-linejoin:miter;stroke-opacity:1;stroke-linecap:butt;fill-rule:nonzero;"
       transform="none"
       d="M123.8836 42.06093L164.0592 18.68495" />
     <path
       id="path730"
-      style="stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;"
+      style="stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;stroke-width:1px;"
       d="M107.7558 156.4119L107.5994 121.9981" />
     <path
-      id="path730_Copy"
+      id="path898"
+      style="stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;stroke-width:1px;"
+      d="M155.2291 213.4682L139.9625 213.3118" />
+    <path
+      id="path227"
       style="fill-rule:nonzero;stroke-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);"
       d="M119.5442 172.3293L143.9115 172.1729" />
     <path
       id="path920"
-      style="stroke-linejoin:miter;fill:none;marker-end:url(#DotL920);fill-rule:nonzero;stroke-opacity:1;stroke:#FF0000;stroke-width:1px;stroke-linecap:butt;"
+      style="fill-rule:nonzero;stroke-opacity:1;stroke:#FF0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#DotL920);"
       d="M287.2538 48.56715L287.3033 151.9115" />
     <path
       id="path31"
-      style="stroke-opacity:1;stroke:#FF0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#DotL920);fill-rule:nonzero;"
+      style="fill:none;marker-end:url(#DotL920);fill-rule:nonzero;stroke-opacity:1;stroke:#FF0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;"
       d="M156.3896 154.6831L156.4391 124.6525" />
     <path
       id="path536"
-      style="stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#DotL920);fill-rule:nonzero;stroke-opacity:1;stroke:#FF0000;stroke-width:1px;"
+      style="stroke-linejoin:miter;fill:none;marker-end:url(#DotL920);fill-rule:nonzero;stroke-opacity:1;stroke:#FF0000;stroke-width:1px;stroke-linecap:butt;"
       d="M252.4001 165.157L271.9155 165.2239" />
     <path
       id="path998"
-      style="stroke:#FFA500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1,1;stroke-opacity:1;fill:none;marker-end:url(#DiamondLend);fill-rule:nonzero;"
+      style="fill:none;stroke-dasharray:1,1;stroke-linejoin:miter;stroke-width:1px;marker-end:url(#DiamondLend);stroke:#FFA500;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:butt;"
       d="M179.1364 120.5L179.4544 155.6736" />
     <path
-      id="path998_Copy"
-      style="stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#DiamondLend);fill-rule:nonzero;stroke-opacity:1;stroke:#FFA500;stroke-width:1px;"
+      id="path990"
+      style="stroke:#FFA500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#DiamondLend);fill-rule:nonzero;stroke-opacity:1;"
       d="M179.1364 84.49675L179.4544 49.32318" />
     <path
-      id="path998_Copy_Copy"
-      style="stroke-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;fill-rule:nonzero;stroke-dasharray:1,1;stroke:#FFA500;stroke-width:1px;fill:none;marker-end:url(#DiamondLend);"
+      id="path643"
+      style="stroke-opacity:1;stroke-linejoin:miter;stroke-linecap:butt;fill-rule:nonzero;fill:none;stroke-width:1px;stroke:#FFA500;stroke-dasharray:1,1;marker-end:url(#DiamondLend);"
       d="M234.1867 50.5141L234.5047 154.7934" />
     <path
       id="path980"
-      style="stroke:#0000FF;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;fill:none;"
+      style="stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;fill:none;stroke:#0000FF;"
       d="M276.3895 215.86L290.5298 215.2L303.5158 213.9352L313.0388 215.5482L326.0248 214.6501L342.7622 215.6767L361.8084 213.3118L382.7086 215.8687" />
     <path
       id="path653"
-      style="stroke-width:1px;fill:none;stroke:#5CBFD9;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-      d="M145.5719 226.9713L159.7122 220.5361L172.6982 208.2019L182.2212 223.9324L195.2072 215.1734L211.9445 225.1836L230.9908 202.1242L251.891 227.0563" />
+      style="stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;fill:none;stroke:#5CBFD9;"
+      d="M139.802 226.9713L153.9423 220.5361L166.9283 208.2019L176.4513 223.9324L189.4373 215.1734L206.1746 225.1836L225.2209 202.1242L246.1211 227.0563" />
     <path
       id="path420"
-      style="stroke-width:1px;fill:none;stroke:#008000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+      style="stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;fill:none;stroke:#008000;stroke-linecap:butt;"
       d="M11.89908 226.9713L26.03934 220.5361L39.02528 208.2019L48.54833 223.9324L61.53434 215.1734L78.27174 225.1836L97.31796 202.1242L118.2182 227.0563" />
     <rect
       id="rect494"
-      style="fill-rule:nonzero;stroke-opacity:1;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:url(#linearGradient348);"
+      style="stroke-opacity:1;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:url(#linearGradient348);fill-rule:nonzero;"
       x="71.969765"
       y="84.567154"
       width="119.516205"
@@ -342,26 +342,30 @@
       y="107.395935">IO (compare)</text>
     <text
       id="tspan864"
-      style="fill:#EE82EE;font-size:10px;"
+      style="fill:#008000;font-size:10px;"
       x="133.12221"
       y="44.65673">Time</text>
     <text
       id="tspan961"
+      style="font-size:8px;"
+      x="136.25876"
+      y="208.70737">Earlier</text>
+    <text
+      id="tspan900"
       style="font-size:10px;"
       x="197.5743"
       y="138.32585">Teach?</text>
     <text
-      id="tspan961_Copy"
+      id="tspan210"
       style="font-size:10px;"
       x="182.2299"
       y="70.94122">Teach</text>
     <g
       id="g433"
-      transform="translate(-12.110448,-47.932842)"
       transform="translate(-12.110448,-47.932842)">
       <rect
         id="rect526"
-        style="fill:url(#linearGradient777);fill-rule:nonzero;style:;display:inline;stroke-linejoin:miter;stroke-opacity:1;stroke:#000000;fill-opacity:1;insensitive:false;stroke-width:1px;stroke-linecap:butt;"
+        style="stroke-linecap:butt;stroke-opacity:1;display:inline;stroke:#000000;fill:url(#linearGradient777);fill-rule:nonzero;stroke-linejoin:miter;insensitive:false;stroke-width:1px;style:;fill-opacity:1;"
         x="180.55319"
         y="59.509766"
         width="131.80591"
@@ -374,8 +378,8 @@
         y="356.77774">PC (inhibit)</text>
     </g>
     <text
-      id="text706"
-      style="stroke-color:none;font-size:8px;text-decoration:none;direction:ltr;fill:#000000;"
+      id="tspan706"
+      style="font-size:8px;"
       x="290.87808"
       y="229.1077">(Tonic baseline firing)</text>
   </g>
