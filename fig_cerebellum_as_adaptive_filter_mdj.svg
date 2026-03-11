@@ -137,7 +137,7 @@
       orient="auto">
       <path
         id="path-0"
-        style="fill-rule:evenodd;fill:#FF0000;stroke:#FF0000;stroke-width:1.0pt;"
+        style="fill:#FF0000;stroke:#FF0000;stroke-width:1.0pt;fill-rule:evenodd;"
         transform="scale(0.8) translate(7.4, 1)"
         d="M-2.5 -1C-2.5 1.76 -4.74 4 -7.5 4C-10.26 4 -12.5 1.76 -12.5 -1C-12.5 -3.76 -10.26 -6 -7.5 -6C-4.74 -6 -2.5 -3.76 -2.5 -1z" />
     </marker>
@@ -229,10 +229,19 @@
       orient="auto">
       <path
         id="path-0"
-        style="stroke-width:0.62500000;stroke-linejoin:round;fill-rule:evenodd;fill:#FFA500;"
+        style="fill-rule:evenodd;fill:#FFA500;stroke-width:0.62500000;stroke-linejoin:round;"
         transform="scale(0.6) rotate(180) translate(0,0)"
         d="M8.718588 4.033735L-2.207289 .01601326L8.718589 -4.001708C6.97309 -1.629647 6.983148 1.615744 8.718588 4.033735z" />
     </marker>
+    <linearGradient
+      id="linearGradient468"
+      x1="-0.44754028"
+      y1="83.996254"
+      x2="107.45747"
+      y2="83.996254"
+      gradientUnits="userSpaceOnUse"
+      gradientTransform="matrix(1,0,0,1,204.3683,0)"
+      xlink:href="#linearGradient688" />
     <linearGradient
       id="linearGradient29"
       x1="-0.44754028"
@@ -252,20 +261,20 @@
   </defs>
   <sodipodi:namedview
     id="namedview47"
-    style="inkscape:cy:0;inkscape:zoom:1;inkscape:document-units:px;inkscape:current-layer:Layer1;inkscape:cx:0;">
+    style="inkscape:zoom:1;inkscape:document-units:px;inkscape:current-layer:Layer1;inkscape:cx:0;inkscape:cy:0;">
     <inkscape:grid
       id="grid807"
-      style="spacingy:12;type:xygrid;units:px;spacingx:12;" />
+      style="type:xygrid;units:px;spacingx:12;spacingy:12;" />
   </sodipodi:namedview>
   <g
     id="LayerBG"
-    style="display:inline;style:;insensitive:true;groupmode:layer;style:display:none;"
+    style="style:;insensitive:true;groupmode:layer;style:display:none;display:inline;"
     sodipodi:insensitive="true"
     inkscape:groupmode="layer"
     style="">
     <rect
       id="rect685"
-      style="stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#FFFFFF;fill-opacity:1;fill-rule:nonzero;"
+      style="fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill:#FFFFFF;"
       x="-139.54886"
       y="-31.361961"
       width="517.86096"
@@ -273,56 +282,60 @@
   </g>
   <g
     id="Layer1"
-    style="groupmode:layer;style:;display:inline;insensitive:false;"
+    style="display:inline;insensitive:false;groupmode:layer;style:;"
     inkscape:groupmode="layer"
     style="">
     <path
       id="path990"
-      style="stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#DiamondLend);fill-rule:nonzero;stroke-opacity:1;stroke:#FFA500;stroke-width:1px;"
+      style="stroke:#FFA500;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#DiamondLend);fill-rule:nonzero;stroke-opacity:1;"
       d="M107.9062 103.8078L182.5952 48.29739" />
     <rect
       id="rect137"
-      style="fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;fill-opacity:1;fill:#FFFF00;"
+      style="fill-opacity:1;fill:#FFFF00;fill-rule:nonzero;stroke:none;stroke-linecap:butt;stroke-linejoin:miter;"
       x="288.5973"
       y="211.69208"
       width="55.60944"
       height="11.509821" />
     <rect
       id="rect632"
-      style="stroke-linecap:butt;stroke-linejoin:miter;fill-opacity:1;fill:#FFFF00;fill-rule:nonzero;stroke:none;"
+      style="stroke-linejoin:miter;fill-opacity:1;fill:#FFFF00;fill-rule:nonzero;stroke:none;stroke-linecap:butt;"
       x="51.618748"
       y="54.573147"
       width="28.169415"
       height="11.509821" />
     <path
       id="path227"
-      style="stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;"
+      style="marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;"
       d="M-25.99766 104.1419L260.3476 154.4391" />
     <path
       id="path492"
-      style="fill-rule:nonzero;stroke-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);"
+      style="fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;"
       d="M-25.89657 48.60606L40.91758 155.2865" />
     <path
       id="path108"
       style="fill-rule:nonzero;stroke-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);"
       d="M-26.28968 48.74131L129.1925 155.0614" />
     <path
+      id="path441"
+      style="stroke-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;"
+      d="M204.3447 101.5087L108.2299 101.3918" />
+    <path
       id="path324"
-      style="stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;fill:none;stroke-linecap:butt;fill-rule:nonzero;stroke:#008000;marker-end:url(#Arrow2Mend324);"
+      style="marker-end:url(#Arrow2Mend324);fill-rule:nonzero;stroke-opacity:1;stroke:#008000;stroke-width:1px;stroke-linejoin:miter;fill:none;stroke-linecap:butt;"
       transform="none"
       d="M4.077118 9.241909L100.8201 -12.8488" />
     <path
       id="path584"
-      style="stroke-opacity:1;stroke-width:1px;stroke:#008000;marker-end:url(#Arrow2Mend324);fill:none;stroke-linejoin:miter;stroke-linecap:butt;fill-rule:nonzero;"
+      style="fill:none;stroke-linejoin:miter;stroke-linecap:butt;fill-rule:nonzero;stroke-width:1px;stroke:#008000;marker-end:url(#Arrow2Mend324);stroke-opacity:1;"
       transform="none"
       d="M-128.4088 9.241905L-31.66581 -2.661665" />
     <path
       id="path142"
-      style="stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;"
+      style="fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;"
       d="M-27.03152 173.6761L-2.6642 173.5197" />
     <path
       id="path260"
-      style="stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;"
+      style="stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;stroke-width:1px;"
       d="M106.6492 30.26626L131.0165 30.10986" />
     <path
       id="path260_Copy"
@@ -330,43 +343,55 @@
       d="M-25.70415 30.26626L-1.336838 30.10986" />
     <path
       id="path420"
-      style="fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;"
+      style="stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;"
       d="M98.7791 200.2862L82.4212 200.208" />
     <path
       id="path942"
-      style="stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;"
+      style="stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;"
       d="M-26.13461 103.2542L-1.246624 103.1001" />
     <path
+      id="path756"
+      style="fill-rule:nonzero;stroke-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);"
+      d="M-26.10992 93.5763L202.743 92.85661" />
+    <path
+      id="path993"
+      style="stroke-opacity:1;stroke-linejoin:miter;fill:none;stroke-linecap:butt;marker-end:url(#Arrow2Mend993);stroke:#FFA500;stroke-width:1px;stroke-dasharray:1,1;fill-rule:nonzero;"
+      d="M343.8736 197.0986L289.6103 66.52322" />
+    <path
       id="path18"
-      style="stroke-linejoin:miter;marker-end:url(#Arrow2Mend993);fill:none;stroke:#FFA500;fill-rule:nonzero;stroke-opacity:1;stroke-linecap:butt;stroke-dasharray:1,1;stroke-width:1px;"
+      style="marker-end:url(#Arrow2Mend993);stroke-dasharray:1,1;fill:none;stroke-width:1px;stroke:#FFA500;fill-rule:nonzero;stroke-linejoin:miter;stroke-opacity:1;stroke-linecap:butt;"
       d="M48.59164 59.74709L-42.87918 60.60045" />
     <path
       id="path268"
-      style="stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:1,1;fill-rule:nonzero;stroke-linecap:butt;stroke:#FFA500;stroke-width:1px;fill:none;marker-end:url(#Arrow2Mend993);"
+      style="marker-end:url(#Arrow2Mend993);stroke-linecap:butt;stroke:#FFA500;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:1,1;stroke-width:1px;fill:none;fill-rule:nonzero;"
       d="M71.67924 66.10686L70.51831 205.3412" />
     <path
       id="path402"
-      style="stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;"
+      style="stroke-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;"
       d="M-80.62669 155.3953L-80.61983 121.6395" />
     <path
+      id="path471"
+      style="stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);fill-rule:nonzero;stroke-opacity:1;stroke:#000000;"
+      d="M278.7062 155.1944L238.1326 120.5" />
+    <path
       id="path920"
-      style="stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#DotL920);fill-rule:nonzero;stroke-opacity:1;stroke:#FF0000;"
-      d="M230.7081 48.57904L273.8687 149.9195" />
+      style="stroke-opacity:1;stroke:#FF0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#DotL920);fill-rule:nonzero;"
+      d="M230.7081 48.57904L296.9503 153.1422" />
     <path
       id="path98"
-      style="fill:none;marker-end:url(#DiamondLend);stroke-linecap:butt;stroke-width:1px;fill-rule:nonzero;stroke:#FFA500;stroke-linejoin:miter;stroke-opacity:1;"
+      style="stroke-linejoin:miter;stroke-opacity:1;fill:none;marker-end:url(#DiamondLend);stroke-linecap:butt;stroke-width:1px;fill-rule:nonzero;stroke:#FFA500;"
       d="M107.8346 103.6798L183.2135 155.0401" />
     <path
       id="path88"
-      style="stroke:#5CBFD9;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;fill:none;"
+      style="fill:none;stroke:#5CBFD9;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;"
       d="M-1.589844 217.8118L9.567352 217.7165L19.784 196.1212L28.0681 218.2208L43.11 198.1168L56.09851 210.4995L70.12091 207.6408L78.57631 218.5652L104.8796 217.9258" />
     <path
       id="path859"
-      style="fill:none;stroke:#FFA500;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;"
+      style="stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;fill:none;stroke:#FFA500;"
       d="M.4880908 78.87341L36.12759 78.96179L54.9132 78.5764L70.59978 78.7924L83.65336 58.41813L96.29836 78.98547L106.9575 78.98746" />
     <path
       id="path201"
-      style="stroke-opacity:1;stroke-width:1px;fill:none;stroke:#0000FF;stroke-linecap:butt;stroke-linejoin:miter;"
+      style="stroke:#0000FF;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;fill:none;"
       d="M262.4212 210.0805L298.0607 210.1689L316.8463 209.7835L332.5329 208.1911L346.0466 200.208L358.2314 210.1925L368.8906 210.1945" />
     <path
       id="path69"
@@ -377,17 +402,21 @@
       style="stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;fill:none;stroke:#835B9B;"
       d="M130.5598 217.8118L166.1993 217.9002L186.5472 198.2383L200.2114 210.5482L214.1852 207.9393L226.3701 217.9239L237.0292 217.9258" />
     <path
+      id="path305"
+      style="stroke:#FFA500;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;fill:none;"
+      d="M204.4208 80.56722L240.0602 80.65562L260.4081 68.61063L273.6122 75.47185L289.4125 56.89621L300.231 80.67931L310.8902 80.68127" />
+    <path
       id="path516"
-      style="stroke-opacity:1;stroke-width:1px;fill:none;stroke:#008000;stroke-linecap:butt;stroke-linejoin:miter;"
+      style="fill:none;stroke:#008000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;"
       d="M-133.2139 78.87339L-97.57443 78.96179L-77.22656 59.29989L-63.56238 71.60976L-47.70685 57.13131L-37.40366 78.98547L-26.74447 78.98744" />
     <text
       id="tspan864"
-      style="fill:#008000;font-size:10px;"
+      style="font-size:10px;fill:#008000;"
       x="40.886093"
       y="-8.533655">Time</text>
     <text
       id="tspan120"
-      style="fill:#008000;font-size:10px;"
+      style="font-size:10px;fill:#008000;"
       x="-91.599815"
       y="-1.3124981">Time</text>
     <text
@@ -427,15 +456,15 @@
       y="58.76654">Teach</text>
     <path
       id="path31"
-      style="stroke-opacity:1;stroke:#FF0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#DotL920);fill-rule:nonzero;"
+      style="stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#DotL920);fill-rule:nonzero;stroke-opacity:1;stroke:#FF0000;stroke-width:1px;"
       d="M13.05538 155.3953L13.08013 125.3647" />
     <path
       id="path524"
-      style="marker-end:url(#DotL920);fill-rule:nonzero;stroke-opacity:1;stroke:#FF0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;"
+      style="stroke-linejoin:miter;fill:none;marker-end:url(#DotL920);fill-rule:nonzero;stroke-opacity:1;stroke:#FF0000;stroke-width:1px;stroke-linecap:butt;"
       d="M238.4212 173.6394L257.1681 173.6761" />
     <rect
       id="rect349"
-      style="stroke:#000000;insensitive:false;fill-rule:nonzero;stroke-width:1px;stroke-linecap:butt;fill:url(#linearGradient480);stroke-opacity:1;stroke-linejoin:miter;fill-opacity:1;display:inline;style:;"
+      style="fill-opacity:1;display:inline;style:;stroke-opacity:1;stroke:#000000;stroke-linejoin:miter;insensitive:false;fill-rule:nonzero;stroke-width:1px;stroke-linecap:butt;fill:url(#linearGradient480);"
       x="-133.48982"
       y="84.49626"
       width="106.905014"
@@ -447,21 +476,21 @@
       y="107.920494">Specific Sense</text>
     <rect
       id="rect326"
-      style="stroke-opacity:1;fill:url(#linearGradient654);style:;fill-rule:nonzero;stroke-width:1px;stroke:#000000;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:miter;display:inline;insensitive:false;"
+      style="fill-opacity:1;style:;stroke-linecap:butt;stroke-linejoin:miter;display:inline;insensitive:false;stroke-opacity:1;fill-rule:nonzero;stroke-width:1px;fill:url(#linearGradient654);stroke:#000000;"
       x="129.81377"
       y="12.101464"
       width="106.905014"
       height="36.173187" />
     <rect
       id="rect258"
-      style="fill:url(#linearGradient847);style:;stroke-linejoin:miter;stroke-width:1px;display:inline;stroke-linecap:butt;insensitive:false;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;fill-opacity:1;"
+      style="stroke-opacity:1;fill:url(#linearGradient847);fill-rule:nonzero;style:;stroke-linejoin:miter;stroke-width:1px;fill-opacity:1;display:inline;stroke-linecap:butt;insensitive:false;stroke:#000000;"
       x="-1.0039215"
       y="12.101464"
       width="106.905014"
       height="36.173187" />
     <rect
       id="rect518"
-      style="fill-opacity:1;stroke-width:1px;stroke-opacity:1;insensitive:false;style:;fill-rule:nonzero;display:inline;fill:url(#linearGradient929);stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;"
+      style="style:;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;fill-rule:nonzero;fill-opacity:1;stroke-width:1px;display:inline;stroke-opacity:1;fill:url(#linearGradient929);insensitive:false;"
       x="-133.48982"
       y="12.101464"
       width="106.905014"
@@ -477,15 +506,22 @@
       x="-115.732635"
       y="34.930244">MF (all state)</text>
     <rect
+      id="rect387"
+      style="stroke-opacity:1;fill-rule:nonzero;stroke-linejoin:miter;display:inline;stroke-width:1px;stroke:#000000;fill-opacity:1;style:;fill:url(#linearGradient468);insensitive:false;stroke-linecap:butt;"
+      x="204.42076"
+      y="84.496254"
+      width="106.905014"
+      height="36.173187" />
+    <rect
       id="rect132"
-      style="fill:url(#linearGradient29);stroke-width:1px;stroke-linejoin:miter;stroke-opacity:1;fill-rule:nonzero;display:inline;fill-opacity:1;style:;stroke-linecap:butt;stroke:#000000;insensitive:false;"
+      style="insensitive:false;stroke-opacity:1;fill-rule:nonzero;display:inline;fill-opacity:1;fill:url(#linearGradient29);style:;stroke-width:1px;stroke-linecap:butt;stroke:#000000;stroke-linejoin:miter;"
       x="0.052459717"
       y="84.496254"
       width="106.905014"
       height="36.173187" />
     <rect
       id="rect884"
-      style="display:inline;stroke-linejoin:miter;style:;fill-rule:nonzero;stroke:#000000;fill-opacity:1;stroke-opacity:1;fill:url(#linearGradient842);stroke-linecap:butt;stroke-width:1px;insensitive:false;"
+      style="stroke-width:1px;stroke-linejoin:miter;style:;fill-rule:nonzero;stroke:#000000;insensitive:false;fill-opacity:1;stroke-opacity:1;display:inline;fill:url(#linearGradient842);stroke-linecap:butt;"
       x="-133.48984"
       y="155.51132"
       width="106.905014"
@@ -497,8 +533,13 @@
       y="178.34009">Motor Efferent</text>
     <path
       id="path361"
-      style="stroke-linecap:butt;stroke-linejoin:miter;fill:none;stroke-opacity:1;stroke:#FF0000;stroke-width:1px;"
+      style="stroke-opacity:1;stroke:#FF0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;"
       d="M-133.4898 217.0469L-126.6708 216.688L-118.7751 196.9487L-111.5972 217.0469L-31.92232 216.688" />
+    <text
+      id="tspan905"
+      style="font-size:12px;"
+      x="213.1232"
+      y="107.92047">MDJ (final error)</text>
     <text
       id="tspan598"
       style="font-size:12px;"
@@ -506,7 +547,7 @@
       y="107.92047">IO (compare)</text>
     <rect
       id="rect595"
-      style="style:;fill-opacity:1;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;insensitive:false;fill:url(#linearGradient508);fill-rule:nonzero;stroke:#000000;stroke-opacity:1;display:inline;"
+      style="stroke-linecap:butt;stroke-opacity:1;display:inline;style:;stroke-linejoin:miter;insensitive:false;fill:url(#linearGradient508);fill-rule:nonzero;fill-opacity:1;stroke:#000000;stroke-width:1px;"
       x="129.81381"
       y="156.28888"
       width="107.96139"
@@ -518,7 +559,7 @@
       y="179.11768">CNiUp</text>
     <rect
       id="rect801"
-      style="fill-rule:nonzero;fill:url(#linearGradient1);stroke-linejoin:miter;stroke-width:1px;stroke:#000000;insensitive:false;style:;fill-opacity:1;stroke-linecap:butt;display:inline;stroke-opacity:1;"
+      style="insensitive:false;stroke-opacity:1;fill-rule:nonzero;style:;fill:url(#linearGradient1);fill-opacity:1;stroke-linejoin:miter;stroke-width:1px;stroke-linecap:butt;stroke:#000000;display:inline;"
       x="262.42114"
       y="155.51129"
       width="107.96139"
@@ -536,7 +577,7 @@
       y="309.36942">PCUp</text>
     <rect
       id="rect533"
-      style="stroke-linejoin:miter;stroke-opacity:1;fill-rule:nonzero;fill-opacity:1;style:;stroke:#000000;stroke-width:1px;display:inline;insensitive:false;fill:url(#linearGradient804);stroke-linecap:butt;"
+      style="stroke-linejoin:miter;stroke-opacity:1;style:;stroke:#000000;stroke-width:1px;fill-rule:nonzero;display:inline;insensitive:false;fill:url(#linearGradient804);stroke-linecap:butt;fill-opacity:1;"
       x="-2.6461792"
       y="155.51129"
       width="107.96139"
@@ -548,7 +589,7 @@
       y="178.34009">CNiIO</text>
     <path
       id="path998"
-      style="stroke-opacity:1;fill:none;stroke-linejoin:miter;stroke:#FFA500;fill-rule:nonzero;stroke-linecap:butt;stroke-width:1px;marker-end:url(#DiamondLend);"
+      style="fill:none;stroke-linejoin:miter;stroke:#FFA500;fill-rule:nonzero;stroke-linecap:butt;stroke-width:1px;marker-end:url(#DiamondLend);stroke-opacity:1;"
       d="M53.64606 120.5L53.36388 153.5752" />
   </g>
 </svg>
